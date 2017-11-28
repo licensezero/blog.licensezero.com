@@ -1,8 +1,6 @@
 ---
 ---
 
-$dateWidth: 100px
-$datePadding: 36px
 $interPostPadding: 36px
 $darkRed: #800000
 $pageWidth: 600px
@@ -12,24 +10,36 @@ html, body
   text-align: center
   font-family: sans-serif
 
-// Page Header
-
-body > header
-  margin: 2rem auto 4rem auto
-  text-align: center
-  h1
-    font-size: 2em
-    margin: 0.67em 0
-
-.logo
-  width: 100px
-
-header, .body, footer
+header, .body, footer, nav
   width: $pageWidth
   margin: 20px auto
   text-align: left
   a
     color: $darkRed
+
+// Page Header
+
+.logo
+  width: 100px
+
+body > header
+  margin: 2rem auto 1rem auto
+  text-align: center
+  h1
+    font-size: 2em
+    margin: 0.67em 0
+
+body > nav
+  text-align: center
+  margin-bottom: 4rem
+  ul
+    list-style-type: none
+    li
+      display: inline
+      padding: 0 0.5rem
+      text-transform: lowercase
+
+// Page Footer
 
 body > footer
   margin: 2rem auto
@@ -37,12 +47,16 @@ body > footer
   clear: both
   text-align: right
 
+// Links
+
 a
-  color: inherit
+  color: $darkRed
   text-decoration: none
 
   &:hover
     text-decoration: underline
+
+// Posts Index
 
 ol.posts
   text-align: center
@@ -68,11 +82,10 @@ ol.posts
     margin-top: $interPostPadding
 
     img
-      width: $dateWidth / 2
       margin-top: $interPostPadding / 2
 
     h1, p
-      margin: 0 0 0 $datePadding + $interPostPadding
+      margin: 0 0 0 $interPostPadding
 
     h1
       padding-top: $interPostPadding
