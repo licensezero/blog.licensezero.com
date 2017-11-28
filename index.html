@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<ol class=posts>
+	{% for post in site.posts %}
+	<li>
+		<p class=date>{{ post.date | date: "%Y-%m-%d" }}</p>
+		<a href="{{ post.url }}" class=title>
+			{{ post.title }}
+		</a>
+    <p class=description>
+      {{ post.description }}
+    </p>
+    <ul class=tags>
+      {% for tag in post.tags %}
+        <li>{{ tag }}</li>
+      {% endfor %}
+    </ul>
+	</li>
+	{% endfor %}
+</ol>

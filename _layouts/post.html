@@ -1,0 +1,14 @@
+{% include top.html %}
+<article class='body post'>
+  <h1 id=title>
+    {{ page.title }}
+    <small>{{ page.description}}</small>
+  </h1>
+  {{ content }}
+</article>
+<footer>
+  <a href="/">more articles</a>
+  &mdash;
+  <a href="#title">back to top</a>
+</footer>
+{% include bottom.html %}

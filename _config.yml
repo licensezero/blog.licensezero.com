@@ -1,0 +1,13 @@
+name: License Zero
+description: sustainable software in the open
+url: https://blog.licensezero.com
+permalink: :year/:month/:day/:title.html
+author: Artless Devices LLC
+homepage: https://licensezero.com
+highlighter: rouge
+excerpt_separator: "<!--jump-->"
+plugins:
+- jekyll-sass-converter
+- jekyll-feed
+exclude:
+- vendor
