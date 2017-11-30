@@ -28,17 +28,17 @@ We're flying blind.  The platform we've flocked to hides the context needed to r
 
 Frankly, it couldn't really work any other way.  No more than Twitter could work if every move, job change, or relationship induced a start from scratch, a new account, a new handle, pleas to update address books.
 
-Identity that's constant in the social-network way --- -a consequence of being fluid in all these other dimensions --- -makes it possible for me to identify on a visceral level with what "@kemitchell" means on some public appliance called github.com.  Identify in a way I never could with, say, a work e-mail address, or even an @gmail.com.
+Identity that's constant in the social-network way---a consequence of being fluid in all these other dimensions---makes it possible for me to identify on a visceral level with what "@kemitchell" means on some public appliance called github.com.  Identify in a way I never could with, say, a work e-mail address, or even an @gmail.com.
 
 Folks use GitHub accounts for work all the time.  And when we collaborate with others, we'd be right to ask: Is this hobby stuff? Is this for work at a company? For some paying client? Your @handle doesn't say.  You may or may not list a job on your profile page, which I have to click for, and that relationship may or may not factor here.  Compared to many popular, public-Internet identity systems of the past, that's a glaring omission.
 
 Glaring in that frame, but otherwise, apparently not.  Sometimes folks bring it up.  But mostly, we just don't.  We don't feel it necessary.  The appliance, its interface, and its model of identity all discourage such feelings.  There's lower friction that way.  Achievement and reputation are more portable that way.  We're comfortable asking much, much more that way.
 
-When I deal with people who know me --- -personally, professionally, or even exclusively as @kemitchell --- -they identify @kemitchell with their experience.  They may even project their feelings about @kemitchell onto my affiliations.  If @kemitchell's not so bad, perhaps whoever he's willing to work for couldn't be so bad, either.  I do the same with others.
+When I deal with people who know me---personally, professionally, or even exclusively as @kemitchell---they identify @kemitchell with their experience.  They may even project their feelings about @kemitchell onto my affiliations.  If @kemitchell's not so bad, perhaps whoever he's willing to work for couldn't be so bad, either.  I do the same with others.
 
 # Hired Guns
 
-In that way, I'd like to think GitHub brings some of the transitive, mercenary rapport characteristic of independents --- -coders, designers, writers, and independent professionals --- -to the world of the traditionally employed.  That it draws some of the [W-2](https://en.wikipedia.org/wiki/Form_W-2) masses closer to a midpoint between lifer and freelancer.
+In that way, I'd like to think GitHub brings some of the transitive, mercenary rapport characteristic of independents---coders, designers, writers, and independent professionals---to the world of the traditionally employed.  That it draws some of the [W-2](https://en.wikipedia.org/wiki/Form_W-2) masses closer to a midpoint between lifer and freelancer.
 
 Freelance is how I got my start, and I'm biased.  But the improvement I see isn't nudging people closer to a romanticized, unbeholden Zen of [1099](https://en.wikipedia.org/wiki/Form_1099).  Standing in the middle, and transitioning from one extreme toward another, demonstrates the continuum between, reveals choices made and to be made.  Our platform of choice could do identity any number of ways.  We as a community can layer any number of expectations and conventions on top of that.
 
