@@ -6,7 +6,7 @@ layout: default
 	<li>
 		<p class=date>{{ post.date | date: "%Y-%m-%d" }}</p>
 		<a href="{{ post.url }}" class=title>
-			{{ post.title }}
+			{{ post.title | smartify }}
 		</a>
     <p class=description>
       {{ post.description }}
