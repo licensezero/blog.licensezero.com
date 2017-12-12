@@ -7,6 +7,18 @@
 		<link rel=stylesheet href=/styles.css type=text/css>
 		<link rel=stylesheet href=/pygments.css type=text/css>
     <link href=/feed.xml rel=alternate type=application/rss+xml>
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    {% if post.nil? %}
+    <meta name="twitter:title" content="License Zero Blog">
+    <meta name="twitter:description" content="sustainable software in the open">
+    {% else %}
+    <meta name="twitter:title" content="{{page.title}}">
+    <meta name="twitter:description" content="{{page.description}}">
+    <meta name="twitter:site" content="@kemitchell">
+    {% endif %}
+    <meta name="twitter:image" content="https://licensezero.com/logo-on-white-100.png">
+    <meta name="twitter:site" content="@licensezero">
 	<body>
     <header>
       <a href=/>
