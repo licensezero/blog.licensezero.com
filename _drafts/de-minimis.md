@@ -34,7 +34,7 @@ Good programmers control complexity.  One school of programming breaks programme
 
 Factoring also facilitates open source development.  As long as developers can easily integrate small contributions in large numbers, the smaller contributions can be, the more beneficial contributions an open source module is likely to receive.  The more projects a module can help to build, the more attention from potential contributors it attracts.
 
-Decomposition drives the average value of a single open source contribution down.  As a result, the average open source composition is more likely to receive _de minimis_ treatment, to be written off.  They don't seem worth counting up for a sense of who owes and who's owed, to keep things even and fair.  Even though they add up to a wealth of software with enormous intrinsic value.
+Decomposition drives the average value of a single open source contribution down.  As a result, the average open source composition is more likely to receive _de minimis_ treatment, to be written off.  Nobody keeps count of small contributions, even though all involved know small contributions add up to a wealth of valuable software.
 
 ---
 
