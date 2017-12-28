@@ -20,16 +20,17 @@ We could write a different definition, just as practical, a tad more cynical:
 
 > _de minimis_: having value dwarfed by the cost and impracticable complexity of accounting, so as to make accounting for it unreasonable
 
-Tax accountants disregard some items as _de minimis_ because they aren't worth much.  But _de minimis_ treatment can have as much to do with the cost of accounting as the value of an item.  The benefit is a proper account.  The cost is the cost of accounting.  When the cost of accounting exceeds the benefit of a proper account, accountants stop accounting.
+Tax accountants disregard some items as _de minimis_ because they aren't worth much.  But _de minimis_ treatment can have as much to do with the cost of accounting as value.  The benefit is a proper account.  The cost is the cost of accounting.  When the cost of accounting exceeds the benefit of a proper account, accountants stop accounting.
 
 The same is true of other professionals.  For example, lawyers:
 
 > _De minimis non curat lex._
+>
 > The law is not concerned with trivial matters.
 
 Lawyers pass on claims for which the legal award would be small.  But lawyers also pass on claims for meaningful awards, when they'd get eaten up by the cost of pressing the claim.
 
-That's what _de minimis_ means, in practice.  Things that cost less than counting don't get counted.
+That's what _de minimis_ means, in practice.  Things worth less than counting costs don't get counted.
 
 # Coders
 
@@ -37,7 +38,7 @@ Good programmers control complexity.  One school of programming breaks programme
 
 Factoring also facilitates open source development.  As long as developers can easily integrate small contributions in large numbers, the smaller contributions can be, the more beneficial contributions an open source module is likely to receive.  The more projects a module can help to build, the more attention from potential contributors it attracts.
 
-Decomposition drives the average value of a single open source contribution down.  As a result, the average open source contribution is more likely to receive _de minimis_ treatment, to be written off.  Nobody keeps count of small contributions, even though all involved know small contributions add up to a wealth of valuable software.
+Decomposition drives the average value of a single open source contribution down.  As a result, the average open source contribution is more likely to receive _de minimis_ treatment, to be written off.  Nobody keeps count of small contributions, even though all involved know that small contributions add up to a wealth of valuable software.
 
 # Counters
 
@@ -53,4 +54,4 @@ The same logic applies to legal services.  Make it too easy to sign terms with i
 
 Some of the most generous open source contributors make mostly _de minimis_ contributions.  Contributions that don't add up to highly visible, lead-maintainer roles in well known projects conducive to corporate sponsorship or foundation support.  Contributions to small modules that other contributors depend on in droves, but the average end-user developer never hears of.
 
-Nobody except these contributors has any incentive to give account for their contributions, or to make counting them easier.  If you're contributing to open source, and want more recognition for your labors---as reputation, appreciation, or pay---provide your own account of contribution.  Invest in ways to make counting easier.  If you need others to help you sustain the work you do, it's on you to give account of what your benefactors will sustain.
+Nobody except these contributors has any incentive to give account for their contributions, or to make accounting for them easier.  If you're contributing to open source, and want more recognition for your labors---as reputation, appreciation, or pay---provide your own account of contribution.  Invest in ways to make counting easier.  If you need others to help you sustain the work you do, it's on you to give account of what your benefactors will sustain.
