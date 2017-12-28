@@ -28,26 +28,28 @@ The same is true of other professionals.  For example, lawyers:
 
 Lawyers pass on claims for which the legal award would be small.  But lawyers also pass on claims for meaningful awards, when they'd get eaten up by the cost of pressing the claim.
 
+That's what _de minimis_ means, in practice.  Things that cost less than counting don't get counted.
+
 ---
 
 Good programmers control complexity.  One school of programming breaks programmed processes down into the smallest meaningful pieces possible.  Small, self-sufficient modules of computer code help programmers focus, organize, and reuse work across projects.
 
 Factoring also facilitates open source development.  As long as developers can easily integrate small contributions in large numbers, the smaller contributions can be, the more beneficial contributions an open source module is likely to receive.  The more projects a module can help to build, the more attention from potential contributors it attracts.
 
-Decomposition drives the average value of a single open source contribution down.  As a result, the average open source composition is more likely to receive _de minimis_ treatment, to be written off.  Nobody keeps count of small contributions, even though all involved know small contributions add up to a wealth of valuable software.
+Decomposition drives the average value of a single open source contribution down.  As a result, the average open source contribution is more likely to receive _de minimis_ treatment, to be written off.  Nobody keeps count of small contributions, even though all involved know small contributions add up to a wealth of valuable software.
 
 ---
 
-What about accounting?  All professionals face efficiency and time pressure, through competition.  Over time, technology, process improvements, experience, and training make similar professional services cost less.
+What about the counters?  All professionals face efficiency and time pressure, through competition.  Over time, technology, process improvements, experience, and training make similar professional services cost less.
 
-But there's a hitch.  When what you have to pay depends on how you count, the higher the cost of accounting, the more items get treated as _de minimis_, and the less you have to pay.  Make it easy to track small expenses, and they add up.  Raise the cost of accounting, and more of them become _de minimis_.
+But there's a hitch.  When what you owe depends on how you count, the higher the cost of accounting, the more items get treated as _de minimis_, and the less you have to pay.  Make it easy to track small expenses, and they add up.  Raise the cost of accounting, and more of them become _de minimis_ instead.
 
-If what you receive from others depends on how you you count, you and only you have the incentive to lower the cost of accounting.  If you and the side that would owe you both treat an expense you incur as _de minimis_, the expense stays with you.
+If what you receive from others depends on how you you count, you and only you have the incentive to lower the cost of accounting.  If your cost of accounting stays high, you treat more expenses you incur as _de minimis_.  The more expenses you treat as _de minimis_, the more expenses stay with you.
 
-The same logic applies to legal services.  Make it too easy to sign terms with independent contractors, and you may end up paying more independent contractors.  Make it harder, and they might just do the work for free, as open source.
+The same logic applies to legal services.  Make it too easy to sign terms with independent contractors, and you may end up paying more independent contractors.  Make it harder, and you might just get the work for free, as open source.
 
 ---
 
-Some of the most generous open source contributors make mostly _de minimis_ contributions.  Contributions that don't add up to highly visible, lead-maintainer roles in well known projects conducive to corporate sponsorship or foundation support.  Contributions to small modules that others depend on in droves, but the average developer has never heard of.
+Some of the most generous open source contributors make mostly _de minimis_ contributions.  Contributions that don't add up to highly visible, lead-maintainer roles in well known projects conducive to corporate sponsorship or foundation support.  Contributions to small modules that other contributors depend on in droves, but the average end-user developer never hears of.
 
-Nobody except these contributors and their friends has any incentive to make counting up their contributions easier.
+Nobody except these contributors has any incentive to give account for their contributions, or to make counting them easier.  If you're contributing to open source, and want more recognition for your labors---as reputation, appreciation, or pay---provide your own account of contribution.  Invest in ways to make counting easier.
