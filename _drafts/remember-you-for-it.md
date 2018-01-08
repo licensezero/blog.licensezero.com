@@ -6,11 +6,9 @@ layout: post
 
 Part of a series, _Unsustainability at Scale_
 
-Nadia Eghbal's [_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure_](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) called new attention to the open source sustainability problem, usurping the dominant, stale vocabulary of images and theory used to talk about it.  As always, Nadia chose her words, including her title, very capably.  "Infrastructure" is a noble and pleasingly utilitarian way to see open source software and its policy problems.  Policy problems are hard to solve when you can't see them.
+Nadia Eghbal's [_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure_](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) called new attention to the open source sustainability problem, usurping the dominant, stale vocabulary of images and theory used to talk about it.  As always, Nadia chose her words, including her title, very capably.  "Infrastructure" is a noble, engineer-pleasing metaphor for open source software and its problems.  Policy problems are hard to solve when you can't see them.
 
-In the past few years, independent efforts around open source licensing, packaging, and compliance coalesced into a complete maintainer-to-user toolchain that lets open source consumers eat their fill without ever so much as glancing the names of the developers behind the work, or even the work, for that matter.  I've contributed a small bit to that system, convincing thousands of open source maintainers to disappear themselves from the consciousness of their programming peers.
-
-In that way, I have been a very helpful part of the problem.
+In the past few years, independent efforts around open source licensing, packaging, and compliance coalesced into a complete maintainer-to-user toolchain that lets open source consumers eat their fill without ever so much as glancing the names of the developers behind the work, or even the spiffy names they choose for their projects.  I've contributed a small bit to that system, convincing thousands of open source maintainers to disappear themselves from the consciousness of their programming peers.
 
 # For Example
 
@@ -34,9 +32,11 @@ Sam uses Jane's library in a front-end web application he writes for a client, b
 
 Sam has no reason, incentive, or requirement to see Jane's name.  He will not see her name when he runs `npm install` to download the format-conversion package he needs.  He will not see her name when `licensee` validates the license metadata for her package, along with the data for a pile of other packages.  He will not see her name when compiling the license terms and notice files, since that's done by a program Sam runs, and not by Sam.
 
-Sam _may_ run into Jane, or at least see her name, if he seeks support for her library, reports a bug, or submits a patch.  Perversely, Sam will be more likely to run into Jane if her software does not work correctly, in circumstances of frustration and disappointment that may appear, on Jane's end, like entitlement.  Perversely, Sam _would_ become aware of Jane's existence if she neglected to code her choice of the two-clause BSD License in a machine-readable way, so that Sam had to manually review her package's `LICENSE` file before including her work in his project.  Perversely, the better Jane is at writing and packaging her software, the more invisible she is to Sam and users like him.
+Sam _may_ run into Jane, or at least see her name, if he seeks support for her library, reports a bug, or submits a patch.  Perversely, Sam will be more likely to run into Jane if her software does not work as expected, in circumstances of frustration and disappointment that may appear, on Jane's end, very needy, demanding, or both.  Perversely, Sam _would_ become aware of Jane's existence if she neglected to code her choice of the two-clause BSD License in a machine-readable way, so that Sam had to manually review her package's `LICENSE` file before including her work in his project.  Perversely, the better Jane is at writing and packaging her software, the more invisible she is to Sam and users like him.
 
 Jane will not see Sam, because users of open source don't report their use of software to it contributors as a matter of course.  Sam won't see Jane, because metadata and tooling suppress Jane's existence as an unnecessary detail.  Except if something goes wrong.  Specifically, if something goes wrong for Sam.  If Jane has a problem, say a work sustainability problem, she's [no reliable channel for reaching her users](https://github.com/berneout/public-public-license).
+
+Open source tooling was headed this way long before I showed up.  There's one difference in kind.  Tooling now creates a totally closed, automated loop for open source consumers.  And there's one difference of extent.  Package managers like npm facilitate and encourage deep dependency trees of small packages from many authors,
 
 # Whodunnit
 
