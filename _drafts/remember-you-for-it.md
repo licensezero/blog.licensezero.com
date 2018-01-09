@@ -78,7 +78,15 @@ I need a reason why.  It's not that open source doesn't preserve links connectin
 
 # Backpressure
 
-<!-- TODO: use metadata to send payment down -->
+[License Zero](https://licensezero.com) uses public license terms to create a contributor-serving reason for users to connect with contributors: Depending on the license the maintainer picked, users need paid licenses to use either for commercial purposes or in closed-source work.  License Zero also automates that process, by extending package metadata to include not just data about license terms, but also data about how to pay maintainers.
+
+License Zero links the means of supporting maintainers and the reason to connect with them individually.  We could imagine variations that don't, but they're inherently limited.
+
+License Zero with new licenses, but no extended metadata would create massive licensing hassle for users.  You'd have to dive into `README` or other documentation for each project requiring a paid license.  Each process might be different.  Some licenses might not be available at all.  We see this now with bespoke or non-open source licenses on publicly available code.  And even under open source licenses like [AGPL](https://www.gnu.org/licenses/agpl-3.0.en.html) and [Reciprocal Public License 1.5](http://opensource.org/licenses/RPL-1.5).
+
+License Zero with payment metadata but no new licenses would amount to little more than a recursive tip jar, a way send, say, $5 to every maintainer in your `node_modules` with a single command.  The company facilitating those payments would be a regulated money transmitter, since the payment isn't for goods or services.  Also, I expect the command probably wouldn't get run that often, or for meaningful amounts.
+
+By combining motivation for support and method of support, License Zero facilitates fair compensation down for work coming up without sacrificing abstraction.  A License Zero checkout page will list the maintainers a user is about to pay for private licenses, and ensure that each gets paid the right amount.  But neither user or maintainer need correspond directly, or even acknowledge one another.  The process itself is standardized and entirely automated.  Users have to decide whether the price of the licenses on offer is something they can pay, but they needn't care whether that price goes to two maintainers or two hundred, whether they're in Cleveland or Copenhagen.
 
 # Paradise (Population: 0)
 
