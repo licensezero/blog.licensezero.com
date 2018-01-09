@@ -8,9 +8,7 @@ Part of a series, _Unsustainability at Scale_
 
 Nadia Eghbal's [_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure_](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) freed the community to talk about the open source sustainability problem in new, more productive ways, blazing a trail out of the stale metaphors and hackneyed theories that captivated minds for so long.  "Infrastructure" spans policy-speak and engineer-speak, at once enobling open source and intimating its problems.  Problems are hard to solve when you can't see them.
 
-In the past few years, independent efforts around open source licensing, packaging, and compliance coalesced into a complete maintainer-to-user toolchain that helps open source consumers eat their fill without ever so much as glancing the names of developers behind the work.  I contributed to closing that loop, especially in JavaScript, convincing thousands of open source maintainers to disappear themselves from the consciousness of their programming peers.
-
-Sustainability is most directly a contributor-side problem.  I helped put scores or talented programmers out of sight and out of mind.  Practical, automated license compliance is an obvious win.  But that win accrues solely on the user side, further widening the disparity between contributors and users.
+In the past few years, independent efforts around open source licensing, packaging, and compliance coalesced into a complete maintainer-to-user toolchain that helps open source consumers eat their fill without ever so much as glancing the names of developers behind the work.  I contributed to closing that loop, especially in JavaScript, convincing thousands of open source maintainers to disappear themselves from the consciousness of their peers and those that might sustain them.  Practical, automated license compliance remains an obvious win.  But that win accrues only to users, further widening the disparity between users and contributors.
 
 # For Example
 
