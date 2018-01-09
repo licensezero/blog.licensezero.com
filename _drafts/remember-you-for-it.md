@@ -85,17 +85,3 @@ License Zero with new licenses, but no extended metadata would create massive li
 License Zero with payment metadata but no new licenses would amount to little more than a recursive tip jar, a way send, say, $5 to every maintainer in your `node_modules` with a single command.  The company facilitating those payments would be a regulated money transmitter, since the payment isn't for goods or services.  Also, I expect the command probably wouldn't get run that often, or for meaningful amounts.
 
 By combining motivation for support and method of support, License Zero sends fair compensation down for work coming up, without sacrificing abstraction.  A License Zero checkout page will list the maintainers a user is about to pay for private licenses, and ensure that each gets paid the right amount.  But user and maintainer needn't correspond directly, or even acknowledge one another.  The process itself is standardized and entirely automated.  Users have to decide whether the price of the licenses on offer is something they can pay, but they needn't care whether that price goes to two maintainers or two hundred, whether they're in Copenhagen or down the street.
-
-# Paradise, Population: Nobody
-
-We could plot the lines of metadata and licensing out differently, to a walled garden, a kind of [library of software babel](https://en.wikipedia.org/wiki/The_Library_of_Babel) as a platform or a network.  As a condition of entry, all code submitted gets licensed under maximally permissive terms.  Nothing else passes through.  Not metadata.  Not versions.  Not project names.  Not a single byte about authorship, or ownership.  Just code.
-
-The one, global license requires no attribution.  There's no information with which to attribute anyone, anyway.  There are no "owners" of code or projects, no "maintainers" or "core contributors" or committees.  Each user chooses for themself the names they'll apply to available work.  Each sees for themself how others have developed prior code, and the popularity of various developments among the community as a whole.
-
-Within that walled garden, there's no need for license tooling or standards.  There is only one license to give, and only one license to accept.  Neither are there any personalities with which to contend, no permission, and no politics.  Every user is as privileged as any other to advance the state of any particular work of art.  When they argue, or promote, or develop, they do so outside the system.
-
-There is no gratitude, either.  No reputation.  No means of telling who to blame, esteem, or support, if supporting is what you want or need.  Only the platform itself, which charges each by their usage, based only on its costs.
-
-This is not the academy.  Reputation in the academy is key.  It mediates access to employment, to funding, and to tenure.
-
-At a more basic level, when engaged in an intellectual enterprise all day, every day, for years, we long for depth, and community.  If each participant came to open source as emissary of some other community---a company, a university, a nonprofit, a government---there would be little call to make open source itself a complete enough community enough to belong to.  As it stands, man of us _do_ serve as emissaries from companies and other concerns.  But on a personal level, we identify more strongly with open source.
