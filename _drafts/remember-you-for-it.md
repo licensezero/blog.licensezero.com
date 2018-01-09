@@ -76,6 +76,10 @@ On the other hand, it's far easier to concretize open source contributors, rever
 
 I need a reason why.  It's not that open source doesn't have the links to connect users to contributors.  It's that those links are only visible to one side, users, and the only consistent motivations for traversing them are user-serving.
 
+# Backpressure
+
+<!-- TODO: use metadata to send payment down -->
+
 # Paradise (Population: 0)
 
 We can follow this line out further, to a walled garden, a kind of [library of software babel](https://en.wikipedia.org/wiki/The_Library_of_Babel) as a platform or a network.  As a condition of entry, all code gets licensed under maximally permissive terms, on the way in.  Nothing else passes through.  Not metadata.  Not authorship information.   Not versions.  Not project names.  The one, global license requires no attribution, and there's no information with which to do so, anyway.  There are no "owners" of code or projects, no "maintainers" or "core contributors" or committees.  Each users chooses for himself the names they'll apply to available work.  They see for themself how others have developed prior code, its popularity among users as a whole.
