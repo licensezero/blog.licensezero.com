@@ -94,4 +94,8 @@ The one, global license requires no attribution.  There's no information with wh
 
 Within that walled garden, there's no need for license tooling or standards.  There is only one license to give, and only one license to accept.  Neither are there any personalities with which to contend, no permission, and no politics.  Every user is as privileged as any other to advance the state of any particular work of art.  When they argue, or promote, or develop, they do so outside the system.
 
-There is no gratitude, either.  No reputation.  No means of telling who to support, if supporting is what you want or need.  Only the platform itself, which charges each by their usage, based only on its costs.
+There is no gratitude, either.  No reputation.  No means of telling who to blame, esteem, or support, if supporting is what you want or need.  Only the platform itself, which charges each by their usage, based only on its costs.
+
+This is not the academy.  Reputation in the academy is key.  It mediates access to employment, to funding, and to tenure.
+
+At a more basic level, when engaged in an intellectual enterprise all day, every day, for years, we long for depth, and community.  If each participant came to open source as emissary of some other community---a company, a university, a nonprofit, a government---there would be little call to make open source itself a complete enough community enough to belong to.  As it stands, man of us _do_ serve as emissaries from companies and other concerns.  But on a personal level, we identify more strongly with open source.
