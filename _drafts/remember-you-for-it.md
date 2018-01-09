@@ -36,7 +36,7 @@ Sam has no reason, incentive, or requirement to see Jane's name.  He will not se
 
 Sam _may_ run into Jane, or at least see her name, if he seeks support for her library, reports a bug, or submits a patch.  Perversely, Sam will be more likely to run into Jane if her software does not work as expected, in circumstances of frustration and disappointment that may appear, on Jane's end, very needy, demanding, or both.  Perversely, Sam _would_ become aware of Jane's existence if she neglected to code her choice of the two-clause BSD License in a machine-readable way, so that Sam had to manually review her package's `LICENSE` file before including her work in his project.  Perversely, the better Jane is at writing and packaging her software, the more invisible she is to Sam and users like him.
 
-Jane will not see Sam, because users of open source don't report their use of software to it contributors as a matter of course.  Sam won't see Jane, because metadata and tooling suppress Jane's existence as an unnecessary detail.  Except if something goes wrong.  Specifically, if something goes wrong for Sam.  If Jane has a problem, say a work sustainability problem, she's [no reliable channel for reaching her users](https://github.com/berneout/public-public-license).
+Jane will not see Sam, because users of open source don't report their use of software to it contributors as a matter of course.  Sam won't see Jane, because metadata and tooling suppress Jane's existence as an unnecessary detail.  Except if something goes wrong, and goes wrong for Sam.  If Jane has a problem, say a work sustainability problem, she's [no reliable channel for reaching her users](https://github.com/berneout/public-public-license).
 
 # Whodunnit
 
