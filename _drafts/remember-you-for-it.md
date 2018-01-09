@@ -48,7 +48,7 @@ Auditing open source licenses for compliance at the time was a terrible chore.  
 
 In my mind, machine-readable license metadata was all about insuring minimum wasted time and effort spent checking licenses.  Instead of seeing that burden grow, year by year, as project dependency graphs grew larger and larger, the community could tackle it with software.  Computers can read literally hundreds of well structured `package.json` files in the blink of an eye.  With software doing license compliance checking, it wouldn't matter if you used five hundred open source npm packages or five thousand.  Especially if those five thousand packages stuck to five or so standardized open source licenses.
 
-I didn't think about the fact that, years later, I'd meet developers running automated license checks on each push of their npm-based projects, but who've never heard the names of friends of mine, whose code they rely on.  Friends who've resorted to fleeing the Bay Area and begging on Patreon to keep working.
+I didn't think about the fact that, years later, I'd meet developers running automated license checks on each push of their npm-based projects, but who've never heard the names of friends of mine, whose code they rely on.  Friends who've resorted to fleeing the Bay Area and begging on Patreon to keep working on open source projects that are clearly the best use of their time.
 
 # Free as in Convenient
 
