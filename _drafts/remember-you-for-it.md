@@ -8,6 +8,8 @@ Part of a series, _Unsustainability at Scale_
 
 Nadia Eghbal's [_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure_](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) blazed a trail out of the stale metaphors and hackneyed theories that captivated minds for so long, freeing the community to talk about open source's discontents in new ways.  Nadia's metaphor, "infrastructure", spans policy-speak and engineer-speak, at once enobling open source and intimating its problems.  Problems are hard to get solved when nobody can see them.
 
+It isn't just that consumers and policy makers don't see the problems within software.  More and more, software can't see the problems within itself.
+
 In the past few years, independent efforts around open source licensing, packaging, and compliance coalesced into a complete maintainer-to-user toolchain that lets open source consumers eat their fill without ever so much as glancing the names of developers behind the work.  I contributed to closing that circle, especially in JavaScript, convincing thousands of open source maintainers to disappear themselves from the consciousness of their peers, their users, and others who might help sustain them.  Practical, automated license compliance remains an obvious win.  But that win accrues only to users, further widening the disparity between users and contributors.
 
 That realization, and a new ability to talk about it, lead directly to License Zero.
