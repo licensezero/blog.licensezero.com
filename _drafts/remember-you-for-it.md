@@ -10,7 +10,7 @@ Nadia Eghbal's [_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastr
 
 It isn't just that consumers and policy makers don't see the problems within software.  More and more, software can't see the problems within itself.
 
-In the past few years, independent efforts around open source licensing, packaging, and compliance coalesced into a complete maintainer-to-user toolchain that lets open source consumers eat their fill without ever so much as glancing the names of developers behind the work.  I contributed to closing that circle, especially in JavaScript, convincing thousands of open source maintainers to disappear themselves from the consciousness of their peers, their users, and others who might help sustain them.  Practical, automated license compliance remains an obvious win.  But that win accrues only to users, further widening the disparity between users and contributors.
+In the past few years, independent efforts around open source licensing, packaging, and compliance coalesced into a complete maintainer-to-user toolchain that lets open source consumers eat their fill without ever so much as glancing the names of developers behind the work.  I contributed to closing that circle, especially in JavaScript, convincing thousands of open source maintainers to disappear themselves from the consciousness of their peers, their users, and others who might help sustain them.  Practical, automated license compliance remains an obvious win.  But that win accrues only to users, further widening the disparity between producer and consumer.
 
 That realization, and a new ability to talk about it, lead directly to License Zero.
 
