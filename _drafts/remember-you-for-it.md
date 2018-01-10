@@ -48,7 +48,7 @@ I knew and understood that developers, as a culture, appreciate standards, estee
 
 Auditing open source licenses for compliance at the time was a terrible chore.  In projects using npm dependencies, depending on literally hundreds of open source packages---libraries and tools you choose to use, plus all the libraries and tools they choose to use, in turn, and so on---made deep wells of open source code to plumb and approve.  I only saw those wells getting deeper as the npm repository grew and JavaScript gained popularity, especially among enterprise users.
 
-I didn't see that, years later, I'd meet developers running automated license checks on each push to their npm-based projects who've never heard the names of friends of mine, whose code they rely on.  Friends who've resorted to fleeing Bay Area cost of living and begging on Patreon to keep working on open source projects that are clearly the best uses of their time.
+I didn't see that, years later, I'd meet developers running automated license checks on each push to their npm-based projects who've never heard the names of friends of mine, whose code they rely upon in fundamental ways.  Friends who've resorted to fleeing Bay Area cost of living and begging on Patreon to keep working on open source projects that are clearly the best uses of their time.
 
 # Free as in Forget About It
 
