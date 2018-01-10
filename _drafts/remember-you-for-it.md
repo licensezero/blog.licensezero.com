@@ -38,7 +38,7 @@ Sam has no reason, incentive, or requirement to see Jane's name.  He will not se
 
 Sam may run into Jane, or at least see her name, if he seeks support for her library, reports a bug, or submits a patch.  Perversely, Sam will be more likely to run into Jane if her software does not work as expected, in circumstances of frustration and disappointment.  Perversely, Sam _would_ become aware of Jane's existence if she neglected to code her choice of the two-clause BSD License in a machine-readable way, so that Sam had to manually review her package's `LICENSE` file before including her work in his project.  The better Jane is at writing and packaging her software, the more invisible she is to Sam and users like him.
 
-Jane will not see Sam, because users of open source don't report their use of software to its contributors as a matter of course.  If Jane has a problem, say inability to make rent, she's no reliable means of reaching her user base as a whole.  She's only aware of those who've come back to here for one reason or another, and often only aware of the individuals who did so, [not the broader interests they represented](https://blog.licensezero.com/2017/10/16/mercenary-rapport.html).
+Jane will not see Sam, because users of open source don't report their use of software to its contributors as a matter of course.  If Jane has a problem, say inability to make rent, she's no reliable means of reaching her user base as a whole.  She's only aware of those who've come back to her for one reason or another, and often only aware of the individuals who did so, [not the broader interests they represented](https://blog.licensezero.com/2017/10/16/mercenary-rapport.html).
 
 # Whodunnit
 
