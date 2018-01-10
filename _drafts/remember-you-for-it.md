@@ -108,4 +108,4 @@ As it stands, many of us _do_ practice open source relations for companies and o
 
 I've tried to structure License Zero specifically to support, and encourage, independent open source careers, independent open source products and services.  That's the best evolution of open source in my mind, not as a lauded adjunct to proprietary, closed-source development, but as an increasingly viable alternative organizing principle, for people and for code.  An organizing principle as welcoming to small players as the code itself.
 
-If abstracting oneself away is part of software craft, let the value of that selflessness, that structural humility, be acknowledged and rewarded.  Code can be granted, and taken for granted.  But people ought not to be.  No community builds up on that principle.
+If abstracting oneself away is part of software craft, let the value of that selflessness, that structural humility, be acknowledged and rewarded.  Code can be granted, and taken for granted.  But people ought not to be.  Martyr communities do not last long.
