@@ -90,7 +90,9 @@ By combining motivation for support and method of support, License Zero sends fa
 
 # Paradise Without People
 
-License Zero is both an extension of prior work and a departure.  There are other directions to take, with different trade-offs.  But I like less where they seem to lead.
+License Zero is both an extension of prior work and a departure.  It revisits reciprocal licensing, and the dual licensing business model, which have fallen out of favor in open source of late.
+
+I could instead work to draw current trends out to their logical conclusions.  But I like less where that seems to lead.
 
 In my mind, the natural extension of the antilicense philosophy, absent highly improbable, worldwide legal reform, coalesces as a walled garden, a kind of private [library of software babel](https://en.wikipedia.org/wiki/The_Library_of_Babel) as platform or network, implementing a voluntary, quasi-public domain for its members.  As a condition of entry, all code submitted gets licensed under maximally permissive terms, waiving all exclusive rights.  Only code comes in.  Not metadata.  Not version tags.  Not project names.  Not a single byte about authorship.  Just code and comment, anonymous by default.
 
