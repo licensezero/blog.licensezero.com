@@ -66,7 +66,7 @@ Pull down an open source library in your language of choice for, say, hyphenatio
 
 That's abstraction.  Not just of method and implementation, but of people.  The people probably abstracted _themselves_, for your convenience.  With the right standards and tooling in place, it probably worked.
 
-From electrical engineering to architecture, lawyering to entrepreneurship, most kinds of complex building look more and more like composition, not scratch cooking.  Sprawling supply chains afford the myriad, abstracted components, at qualities from artisanal to commodity, prices from dear to dirt-cheap.  Capable curators piece those parts together to tackle ever more demanding challenges.
+From electrical engineering to architecture, lawyering to entrepreneurship, most kinds of complex building look more and more like composition, not scratch cooking.  Sprawling supply chains afford the myriad, abstracted components, at qualities from artisanal to commodity, prices from dear to dirt-cheap.  Capable curators recombine those parts to tackle ever more demanding challenges.
 
 Abstracting people along those lines needn't shock the conscience.  But we know how it so often does.  Working conditions.  Pay.  Community concessions.  It's impossible to tell, holding a finished, physical product, whether someone involved in its making lived out the consequences of a race to the bottom, under hands that passed down far less than a rightful share of what they received.  The system works well when, and only when, fair compensation goes down as the work comes up, at each stage of production and distribution.
 
