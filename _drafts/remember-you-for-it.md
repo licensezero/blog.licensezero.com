@@ -58,13 +58,13 @@ Its values max out in [public domain dedications](https://creativecommons.org/pu
 
 The licensing-compliance toolchain crosses most of the last mile from legal practicality to zero hassle.  It makes up the difference between what licenses can do under the law, and the ideal of giving not one thought to licensing.  With the right tooling and the right data, the choice, use, and redistribution of open source software becomes an automated affair of little or no day-to-day burden on the programmer.  With the exception of an occasional veto for lack of metadata, pervasive permissive licensing and the compliance toolchain allow programmers to use a wealth of existing software as if they wrote it themselves.
 
-# Doubly-Linked List
+# Singly-Linked
 
 Pull down an open source library in your language of choice for, say, hyphenation.  Best case, you can give the library text, and get hyphenated text in return.  You needn't concern yourself with the particular way this was accomplished, or how that method was programmed.  Or who came up with the method.  Or who did the programming.
 
 That's abstraction.  Not just of method and implementation, but of people.  The people probably abstracted _themselves_, for your convenience.  With the right standards and tooling in place, it probably worked.
 
-From electrical engineering to architecture, lawyering to entrepreneurship, most kinds of complex building look more and more like assembly, not scratch cooking.  Sprawling supply chains afford the myriad, abstracted components, at qualities from artisanal to commodity, prices from dear to dirt-cheap.  Capable curators recombine those parts to meet ever more challenging demands.
+From electrical engineering to architecture, lawyering to entrepreneurship, most kinds of complex building look more and more like assembly, not scratch cooking.  Sprawling supply chains afford the myriad, abstracted components, at qualities from artisanal to commodity, prices from dear to dirt-cheap.  Capable curators recombine those pieces to meet ever more challenging demands.
 
 Abstracting people along those lines needn't shock the conscience.  But we know how it so often does.  Working conditions.  Compensation.  Community concessions.  It's impossible to tell, holding a finished, physical product, whether someone involved in its making lived out the consequences of a race to the bottom, under hands that passed down far less than a rightful share of what they received.  The system works well when, and only when, fair compensation goes down as the work comes up, at each stage of production and distribution.
 
@@ -76,7 +76,7 @@ On the other hand, it's far easier to concretize open source contributors, rever
 
 It's not that open source breaks links connecting users to contributors.   It's that those links are only visible up the chain, to users, and that the only consistent motivations for traversing them are most directly user-serving.
 
-# Backpressure
+# Recursive Descent
 
 [License Zero](https://licensezero.com) uses public license terms to create a contributor-serving reason for users to connect with contributors.  Depending on the license the maintainer picked, users need paid licenses to use either for commercial purposes or in closed-source work.  License Zero also automates that process, by extending package metadata to include not just data about license terms, but also data about how to pay maintainers.
 
