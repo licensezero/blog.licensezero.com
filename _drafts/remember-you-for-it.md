@@ -6,7 +6,7 @@ layout: post
 
 Part of a series, _Unsustainability at Scale_
 
-Nadia Eghbal's [_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure_](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) blazed a trail out of the stale metaphors and hackneyed theories that captivated minds for so long, freeing us to talk about open source's discontents in new ways.  Nadia's principal metaphor, "infrastructure", adroitly spans policy-speak and engineer-speak, at once enobling open source and intimating its problems.  Problems are hard to get solved when nobody can see them.
+Nadia Eghbal's [_Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure_](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) blazed a trail out of the stale metaphors and hackneyed theories that captivated minds for so long, freeing us to talk about open source's discontents in new ways.  Nadia's principal metaphor, "infrastructure", adroitly spans policy-speak and engineer-speak, at once enobling open source and intimating its problems.  Problems are hard to get solved when nobody sees them.
 
 It isn't just that consumers and policy makers don't see the problems within software.  More and more, software can't see the problems within itself.
 
