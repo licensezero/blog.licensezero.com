@@ -74,7 +74,7 @@ In theory, we expect negotiation to achieve and maintain that calibration.  In p
 
 Open source developers of piece parts put themselves at the bottom of the software supply chain.  Tooling for the top increasingly abstracts people just as effectively as in hard-goods commerce.  Companies pay dearly for top-level talent, to hear about business objectives and compose assemblies of closed and open code, accordingly.  But we don't pay for the privilege of abstracting people in open source.  The race to the bottom on price can't go any lower than zero, at least until producers start paying for users as a loss-leader.
 
-On the other hand, it's far easier to concretize open source contributors, reversing the process of abstraction, when we choose to.  Finding out who sewed my sneakers probably involves international travel and a lot of gumshoe research.  But I can usually find out who wrote my hyphenation library with a few shell commands, or at worst a request to an online repository.  The Git repository and social media probably gives me some notion of their working situation.
+On the other hand, it's far easier to concretize open source contributors, reversing the process of abstraction, when we choose to.  Finding out who sewed my sneakers probably involves international travel and a lot of gumshoe research.  But I can usually find out who wrote my hyphenation library with a few shell commands, or at worst a request to an online repository.  Git and social media probably give a pretty good idea of their working situations.
 
 It's not that open source breaks links connecting users to contributors.   It's that those links are only visible to one side, users, and that the only consistent motivations for traversing them are work directly user-serving.
 
