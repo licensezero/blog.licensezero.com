@@ -64,7 +64,7 @@ The licensing-compliance toolchain crosses most of the last mile from legal prac
 
 Pull down an open source library in your language of choice for, say, hyphenation.  Best case, you can give the library text, and get hyphenated text in return.  You needn't concern yourself with the particular way this was accomplished, or how that method was programmed.  Or who came up with the method.  Or who did the programming.
 
-That's abstraction.  Not just of method and implementation, but of people.  The people got abstracted, too.  They probably abstracted _themselves_, for your convenience.  With the right standards and tooling in place, it probably worked.
+That's abstraction.  Not just of method and implementation, but of people.  The people probably abstracted _themselves_, for your convenience.  With the right standards and tooling in place, it probably worked.
 
 From electrical engineering to architecture, lawyering to entrepreneurship, most kinds of complex building look more and more like composition, not scratch cooking.  Sprawling supply chains afford the myriad, abstracted components, at qualities from artisanal to commodity, prices from dear to dirt-cheap.  Capable curators piece those parts together to tackle ever more demanding challenges.
 
