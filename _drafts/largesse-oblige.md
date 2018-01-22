@@ -89,7 +89,7 @@ License Zero retains work to do, in making open source companies more competitiv
 
 # SOS
 
-I know the open source party line.  I grew up with it.  I can quote Lessig, channel Raymond, and cite the GPL.  And I suppose I could make a career, of sorts, articulating and refining the orthodox, counter-economy, commons-utopian view of open source and what it means.  A trusty steward's duty.  But I wouldn't consider myself truly paid forward if I didn't open my mind to contrary views, and put them to the test.  I'm not the marketing department, I'm the eyes.  I'm here to hunt bugs, find exploits, and patch them.
+I know the open source party line.  I can quote Lessig, channel Raymond, and cite the GPL in several versions.  And I suppose I could make a career, of sorts, articulating and refining the orthodox, counter-economy, commons-utopian view of open source and what it means.  A trusty steward's duty.  But I wouldn't consider myself truly paid forward if I didn't open my mind to contrary views, and put them to the test.  I'm not the marketing department, I'm the eyes.  I'm here to hunt bugs, find exploits, and patch them.
 
 If the point of view presented here irks you, well, it irks me, too.  Help me argue it down, consistently and rigorously.
 
