@@ -100,4 +100,4 @@ I'm not cut out for it.  I wouldn't consider myself truly paid forward if I didn
 
 That's not to say I don't root for the team.  If the point of view presented here irks you, well, it irks me, too.  Help me argue it down, consistently and rigorously.
 
-So far, I can't shake it.
+So far, I can't.
