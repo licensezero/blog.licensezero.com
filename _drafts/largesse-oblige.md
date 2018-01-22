@@ -90,7 +90,7 @@ A single, additional ray of hope shines through:  Open source developers can tra
 
 In this world, License Zero still has work to do, in making open source competitively viable.  Open source companies can reap [L0-R](https://licensezero.com/licenses/reciprocal) software for free, while proprietary shops pay its price.  Theoretically, licensing could track usage better than patronage, by carrying the big stick called IP infringement.
 
-The system could restructure toward developer-to-developer licenses easily enough, with companies licensed if the developers they're paying are.  Even smaller transactions.  One per developer, perhaps.  Everyone on the web team pays for a private license for the framework, rather than sharing a private license in the name of the company.  Mere implementation details.
+License Zero could also restructure toward developer-to-developer licenses easily enough, with companies licensed if the developers they're paying are.  Even smaller transactions.  One per developer, perhaps.  Everyone on the web team pays for a private license for the framework, rather than sharing a private license in the name of the company.  Mere implementation details.
 
 # SOS
 
