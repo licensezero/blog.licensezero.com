@@ -49,7 +49,7 @@ As you might expect from those figures, the country is sprouting code schools li
 
 One model of open source sustainability holds that a company paying forty computer programmers to build proprietary software should hire, say, ten of the open source programmers churning out work they rely on.  Or should allow its forty programmers to spend a fifth of their time on open source.
 
-In the smokey, wood-paneled back room of my mind where I role-play mid-level management, I hear a retort:
+From the smokey, wood-paneled back room of my mind where I role-play an ambitious, mid-level manager, a growl:
 
 > What do _I_ need to hear about "open source"?  That's engineering business.  If the engineers we're paying use open source to create value, that's part of the value we're paying them for.
 >
@@ -77,9 +77,15 @@ All of a sudden, patronage makes sense.  [Patreon](https://patreon.com) accounts
 
 And wouldn't you know, unified reputation systems, like [GitHub activity](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/), make sense.  So does gaming them.  Fellow shows up in your repos issues, asking for feature.  Is he on your patrons list?  No.  Is he active in open source?  No.  Give him his choice:  Show me commits, or show me coin, or I'll show you `#wontfix`.  [I don't need to know who you're working for.](https://blog.licensezero.com/2017/10/16/mercenary-rapport.html).  This is between you and me.
 
+Basically, it's the coins from [John Wick](https://en.wikipedia.org/wiki/John_Wick_(film_series)).  Give a favor, take a favor, end up rich in favors, or in debt.  But instead of murder for hire, it's rigging up software that the straight world would better not know about.
+
+# Subaltern
+
 This view comports nicely with open source as mere adjunct to proprietary software development, especially permissively licensed open source.  In essence, open source becomes a performance enhancer for developers of complete proprietary products and services.  Things people other than programmers interact with and derive value from.  <!--TODO: link blog post-->More and more free software gets written, but it keeps getting harder and harder to make do without proprietary apps and services.
 
 A single, additional ray of hope shines through:  Open source developers could trade on reputation developed within open source development for cash, while remaining within open source.  They don't have to write proprietary code to pay rent.  But the cash they earn flows predominantly through proprietary enterprises.  There are glorious, glorious exceptions, like [service](https://ws02.com) and [hosting](https://discourse.org).  But the thrust of industry is proprietary services, even if all that's proprietary in those services is [application-specific, brackish residue that can't be so easily abstracted away](https://github.com/substack/blog/blame/9d89edcd55b7424d8c0f65d5c0dfd2dec34993c0/module_steps.markdown#L75).
+
+License Zero retains work to do, in making open source companies more competitively viable.  Open source companies can reap [L0-R](https://licensezero.com/licenses/reciprocal) software for free, while proprietary shops pay its price.  The system could restructure toward developer-to-developer licenses easily enough, with companies licensed if the developers they're paying are.  Even smaller transactions.  One per developer, perhaps.  So everyone on the web teams pays for a private license for the framework, rather than sharing a private license in the name of the company.  Implementation details.
 
 # SOS
 
