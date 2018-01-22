@@ -185,12 +185,21 @@ del
   background: none
 
 table
+  margin: 1rem 2rem
   td, th
     padding: 0.5rem
   td:first-child, th:first-child
     padding-left: 0
+    border-left: none
   td:last-child, th:last-child
     padding-right: 0
+    border-right: none
+  thead
+    th
+      vertical-align: bottom
+    tr:last-of-type
+      th
+        border-bottom: 1px solid black
 
 .feedback
   text-align: left
