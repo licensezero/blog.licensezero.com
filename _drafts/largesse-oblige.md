@@ -95,4 +95,4 @@ I'm not cut out for it.  I wouldn't consider myself truly paid forward if didn't
 
 That doesn't mean I'm not on the team.  If the point of view presented here irks you, well, it irks me, too.  Help me argue it down, consistently and rigorously.
 
-So far, I can't.
+So far, I can't shake it.
