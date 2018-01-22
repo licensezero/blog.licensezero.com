@@ -51,7 +51,7 @@ One model of open source sustainability holds that a company paying forty comput
 
 From the smokey, wood-paneled back room of my mind where I role-play an ambitious, mid-level manager, a growl:
 
-> What do _I_ need to hear about "open source"?  That's engineering business.  If the engineers we're paying use open source to create value, that's part of the value we're paying them for.
+> What do _I_ need to hear about "open source"?  That's engineering business.  If the engineers we're paying use open source to create value and get away with it, that's part of the value we're paying them for.
 >
 > You insist?  Well, sure!  We can hire ten new open source developers.  We'll just pay the other forty less, to make the budget.
 
