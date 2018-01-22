@@ -79,6 +79,8 @@ And wouldn't you know, unified reputation systems, like [GitHub activity](https:
 
 Basically, it's the coins from [John Wick](https://en.wikipedia.org/wiki/John_Wick_(film_series)).  Give a favor, take a favor, end up rich in favors, or in debt.  But instead of murder for hire, it's rigging up software that the straight world would better not know about.
 
+The whole thing makes me queasy.
+
 # Subaltern
 
 This view comports nicely with open source as mere adjunct to proprietary software development, especially permissively licensed open source.  In essence, open source becomes a performance enhancer for developers of complete proprietary products and services.  Things people other than programmers interact with and derive value from.  <!--TODO: link blog post-->More and more free software gets written, but it keeps getting harder and harder to make do without proprietary apps and services.
