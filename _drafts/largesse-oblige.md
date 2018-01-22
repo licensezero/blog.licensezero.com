@@ -69,7 +69,7 @@ Politically, it divides the community, and not in a happy way.  Rather than one,
 
 But if we take compensating value delivered, or giving as one has received, as a _moral_ prescription, it makes perfect sense to leave that obligation with people, rather than corporations.  Start with a collective action challenge, like funding public goods, and add corporate structure.  Now you have _two_ collective action challenges, one tied up with the other.  So we don't expect corporations to reciprocate gifts, to balance out windfalls, to greet good fortune with commensurate, selfless generosity.  We expect them to make security holders rich.
 
-The Bill and Melinda Gates Foundation, not Microsoft, kills the mosquitoes, pays off the debts, writes the curriculum standards.  The Ford Foundation, not Ford Motor, [supports seminal work on open source and its problems](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/).  Rockefeller, not Standard Oil.  Howard Hughes Medical Institute, not Hughes Aircraft.  Personal vehicles with tax advantages.  It's a pattern.
+The Bill and Melinda Gates Foundation, not Microsoft, kills the mosquitoes, pays off the debts, writes the curriculum standards.  The Ford Foundation, not Ford Motor, [supports seminal work on open source and its problems](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/).  Rockefeller, not Standard Oil.  Howard Hughes Medical Institute, not Hughes Aircraft.  Personal vehicles with tax advantages that hemorrhage personal wealth.  It's a pattern.
 
 # 92.1% − 30¢
 
