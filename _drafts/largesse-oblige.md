@@ -45,7 +45,7 @@ Consider data from the [Bureau of Labor Statistics](https://www.bls.gov/ooh/comp
   </tbody>
 </table>
 
-As you might expect from those figures, the country is sprouting code schools like mushrooms.  A glut of eager students fill their cohorts, rushing to enter software-developer work and make software-developer money.  I've met gaggles of these people, mentoring at [NodeSchool events](https://nodeschool.io).
+As you might expect from those figures, the country is sprouting code schools like mushrooms.  A glut of eager students fill their cohorts, rushing to enter software-developer work and make software-developer money.  I've met gaggles of these people mentoring at [NodeSchool events](https://nodeschool.io).
 
 One model of open source sustainability holds that a company paying forty computer programmers to build proprietary software should hire, say, ten of the open source programmers churning out work they rely on.  Or should allow its forty programmers to spend a fifth of their time on open source.
 
