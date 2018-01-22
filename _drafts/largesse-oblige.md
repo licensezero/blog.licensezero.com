@@ -77,7 +77,7 @@ All of a sudden, patronage makes sense.  [Patreon](https://patreon.com) accounts
 
 And wouldn't you know, unified reputation systems, like [GitHub activity](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/), also make sense.  So does gaming them.  Fellow shows up in your repos issues, asking for feature.  Is he on your patrons list?  No.  Is he active in open source?  No.  Give him his choice:  Show me commits, or show me coin, or I'll show you `#wontfix`.  [I don't need to know who you're working for.](https://blog.licensezero.com/2017/10/16/mercenary-rapport.html).  This is between you and me.
 
-Basically, it's the coins from [John Wick](https://en.wikipedia.org/wiki/John_Wick_(film_series)).  Give a favor, take a favor, end up rich in favors, solvent, or dead to the guild.  But instead of murder for hire, it's rigging up software that the straight world would better not know about.
+Basically, it's the coins from [John Wick](https://en.wikipedia.org/wiki/John_Wick_(film_series)).  Give a favor, take a favor, end up rich in favors, solvent, or dead to the guild.  But instead of murder for hire, it's the dirty work of rigging up software that straight folk don't need to see.
 
 The whole thing makes me queasy.
 
