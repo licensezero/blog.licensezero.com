@@ -4,7 +4,7 @@ description: follow the money, note where it stops
 layout: post
 ---
 
-Some see "open source sustainability" as a problem of getting companies to pay developers.  If I didn't know better, I'd say that sounds pretty easy.  Companies pay software developers lots of money all the time.
+Some see "open source sustainability" as a problem of getting companies to pay the devs.  If I didn't know better, I'd say that sounds pretty easy.  Companies pay software developers lots of money all the time.
 
 Consider data from the [Bureau of Labor Statistics](https://www.bls.gov/ooh/computer-and-information-technology/home.htm) for the US in 2016:
 
