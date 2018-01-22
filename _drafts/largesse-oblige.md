@@ -81,4 +81,6 @@ A single, additional ray of hope shines through:  Open source developers could t
 
 ---
 
-I know the open source party line.  I can quote Raymond and Lessig and the GPL.
+I know the open source party line.  I grew up in it.  And I suppose I could make a career, of sorts, articulating and refining the orthodox, counter-economy, commons-utopian view of open source and what it means.  But I wouldn't consider myself truly paid forward if I didn't open my mind to contrary views, and put them to the test.  I'm not the marketing department.  I'm here to crush bugs, find exploits, and patch them.
+
+If the point of view presented here irks you, well, it irks me, too.  Help me argue it down, consistently and rigorously.  So far, I can't.
