@@ -79,7 +79,8 @@ And wouldn't you know, unified reputation systems, like [GitHub activity](https:
 
 Basically, it's the coins from [John Wick](https://en.wikipedia.org/wiki/John_Wick_(film_series)).  Give a favor, take a favor, end up rich in favors, solvent, or dead to the guild.  But instead of murder for hire, it's the dirty work of rigging up software that straight folk don't need to see.
 
-The whole thing makes me queasy.
+[The whole thing makes me queasy.](https://twitter.com/kemitchell/status/937720688462278657)  [It all seems a bit absurd.](https://twitter.com/kemitchell/status/946929942633345024)
+
 
 # Subaltern
 
