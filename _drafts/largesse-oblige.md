@@ -94,7 +94,7 @@ License Zero could also restructure toward developer-to-developer licenses easil
 
 # SOS
 
-I know the open source party line, and even if, someday, I come to know that it's wrong, a part of me will always want to believe it.  I can quote Lessig, channel Raymond, and cite the GPL in several versions.  And I suppose I could make a career, of sorts, articulating and refining the now orthodox counter-economy, commons-utopian gestalt of open source, née free software.  A steward's duty.  A relatively quiet life.
+I know the open source party line, and even if, someday, I come to see that it's wrong, a part of me will always want to believe it.  I can quote Lessig, channel Raymond, and cite the GPL in several versions.  And I suppose I could make a career, of sorts, articulating and refining the now orthodox counter-economy, commons-utopian gestalt of open source, née free software.  A steward's duty.  A relatively quiet life.
 
 I'm not cut out for it.  I wouldn't consider myself truly paid forward if I didn't go hunting for contrary views, build them up as far as they'll go, and put them to the test.  I'm not the marketing department.  I'm here to hunt bugs, find exploits, and patch them.  Open source has plenty of cheerleaders.
 
