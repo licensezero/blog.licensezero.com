@@ -49,7 +49,7 @@ As you might expect from those figures, the country is sprouting code schools li
 
 One model of open source sustainability holds that a company paying forty computer programmers to build proprietary software should hire, say, ten of the open source programmers turning out work they rely on.  Or should allow its forty programmers to spend a fifth of their time on open source.
 
-From the smokey, wood-paneled back room of my mind where I role-play an ambitious, mid-level manager, a growl:
+From the smokey, wood-paneled back room of my mind, where I role-play an ambitious, mid-level manager, a growl:
 
 > What do _I_ need to hear about "open source"?  That's engineering business.  If the engineers we're paying use open source to create value and get away with it, that's part of the value we're paying them for.
 >
