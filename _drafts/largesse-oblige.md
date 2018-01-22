@@ -55,7 +55,7 @@ In the smokey, wood-paneled back room of my mind where I role-play mid-level man
 >
 > You insist?  Well, sure!  We can hire ten new open source developers.  We'll just pay the other forty less, to make the budget.
 
-A contrarian narrative of financial sustenance for open source:  Companies are already paying the money open source needs.  They are paying it to programmers writing proprietary software.  Those programmers take the value of open source up to their employers, but don't pass their employers' financial support down to its authors.
+A contrarian narrative of financial sustenance for open source:  Companies are already paying out the money open source needs.  They are paying it to programmers writing proprietary software.  Those programmers take the value of open source up to their employers, but don't pass their employers' financial support down to its authors.
 
 This argument feels dangerous.  It has some very disturbing properties.
 
