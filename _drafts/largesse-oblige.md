@@ -61,7 +61,7 @@ A contrarian narrative of financial sustenance for open source:  Companies are a
 
 This argument feels dangerous.  It has some very disturbing properties.
 
-It ignores non-financial benefits of employment or even stable contracting.  Large companies hiring open source developers give those developers a semblance of stability and predictability.  They'll receive some check each month, and may receive benefits.  There's also a certain reputational bonus, first from having been hired to do open source work, and second, perhaps, from having been hired by the company itself, if its reputation is good.  There's good in the number of developers paid, not just in the number of dollars paid to any developer.
+It ignores non-financial benefits of employment or even stable contracting.  Large companies hiring open source developers give those developers a semblance of stability and predictability.  They'll receive some check each month, and may receive benefits.  There's also a certain reputational bonus, first from having been hired to do open source work, and second, perhaps, from having been hired by the company itself, if its reputation is good.
 
 Giving open source developers those benefits could improve the open source they churn out.  Perhaps they'd be more responsive to bug reports.  More careful to code securely.  Quicker to take up new features.  Faster to patch as interconnected systems change.  The companies providing those benefits---and relying upon the open source software---might profit by the exchange.  [Or not.  It's complicated.](https://medium.com/@mikeal/great-post-8a4dfe7ee550)
 
