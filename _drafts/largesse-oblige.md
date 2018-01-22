@@ -57,6 +57,8 @@ In the smokey, wood-paneled back room of my mind where I role-play mid-level man
 
 A contrarian narrative of financial sustenance for open source:  Companies are already paying out the money open source needs.  They are paying it to programmers writing proprietary software.  Those programmers take the value of open source up to their employers, but don't pass their employers' financial support down to its authors.
 
+# Uh-Oh
+
 This argument feels dangerous.  It has some very disturbing properties.
 
 It ignores non-financial benefits of employment or even stable contracting.  Large companies hiring open source developers give those developers a semblance of stability and predictability.  They'll receive some check each month, and may receive benefits.  There's also a certain reputational bonus, first from having been hired to do open source work, and second, perhaps, from having been hired by the company itself, if its reputation is good.
@@ -69,7 +71,7 @@ But if we take compensating value delivered, or giving as one has received, as a
 
 The Bill and Melinda Gates Foundation, not Microsoft, kills the mosquitoes, pays off the debts, writes the curriculum standards.  The Ford Foundation, not Ford Motor, [supports seminal work on open source sustainability](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/).  Rockefeller, not Standard Oil.  Howard Hughes Medical Institute, not Hughes Aircraft.  There's a pattern.
 
----
+# 92.1% − 30¢
 
 All of a sudden, patronage makes sense.  [Patreon](https://patreon.com) accounts for highly reputed open source developers, funded by small-dollar donations from other developers, let the paid prop up the unpaid they rely on.  [Sell a private mailing list and early security bulletins.](https://www.patreon.com/eranhammer)  It's the in-house dev's neck if there's a problem, a missed deadline, or a breach.  [Sell laptop stickers.](https://www.patreon.com/feross)  Suits don't use those.  Coders do.  [Sell ads to corporations if you can](https://www.patreon.com/mafintosh), sure.  Especially [for large amounts](https://www.patreon.com/evanyou).  But mostly, focus on driving as many small-dollar, fellow-dev contributors to your page as you can.  Low friction in volume is the only way the high fees make sense, anyway.
 
@@ -79,8 +81,10 @@ This view comports nicely with open source as mere adjunct to proprietary softwa
 
 A single, additional ray of hope shines through:  Open source developers could trade on reputation developed within open source development for cash, while remaining within open source.  They don't have to write proprietary code to pay rent.  But the cash they earn flows predominantly through proprietary enterprises.  There are glorious, glorious exceptions, like [service](https://ws02.com) and [hosting](https://discourse.org).  But the thrust of industry is proprietary services, even if all that's proprietary in those services is [application-specific, brackish residue that can't be so easily abstracted away](https://github.com/substack/blog/blame/9d89edcd55b7424d8c0f65d5c0dfd2dec34993c0/module_steps.markdown#L75).
 
----
+# SOS
 
-I know the open source party line.  I grew up in it.  And I suppose I could make a career, of sorts, articulating and refining the orthodox, counter-economy, commons-utopian view of open source and what it means.  But I wouldn't consider myself truly paid forward if I didn't open my mind to contrary views, and put them to the test.  I'm not the marketing department.  I'm here to crush bugs, find exploits, and patch them.
+I know the open source party line.  I grew up with it.  I can quote Lessig, channel Raymond, and cite the GPL.  And I suppose I could make a career, of sorts, articulating and refining the orthodox, counter-economy, commons-utopian view of open source and what it means.  A trusty steward's duty.  But I wouldn't consider myself truly paid forward if I didn't open my mind to contrary views, and put them to the test.  I'm not the marketing department, I'm the eyes.  I'm here to hunt bugs, find exploits, and patch them.
 
-If the point of view presented here irks you, well, it irks me, too.  Help me argue it down, consistently and rigorously.  So far, I can't.
+If the point of view presented here irks you, well, it irks me, too.  Help me argue it down, consistently and rigorously.
+
+So far, I can't.
