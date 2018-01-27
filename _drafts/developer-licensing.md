@@ -16,7 +16,9 @@ License Zero gives you a choice of public license to put in `LICENSE`.  One opti
 
 # Company Licensing
 
-Right now, both individuals and companies can buy private licenses, but the system focuses on companies.  Private licenses for companies cover a number of company employees and contractors.  They _don't_ cover customers of the company who may need a license.  So buying a private license for a library allows the company (and its developers) to use that library in a web app without making it open source.  But buying a private license for a library used in a proprietary front-end browser application does _not_ cover customers using that application.  The company would need to buy a private licenses for each of its customers, or have each customer buy a private license for themself.
+Right now, both individuals and companies can buy private licenses, but the system focuses on companies.  Private licenses for companies cover a number of company employees and contractors, depending on the tier of license purchased.
+
+Private licenses _don't_ cover customers of the company who may need a license.  So buying a private license for a library allows the company (and its developers) to use that library in a web app without making it open source.  But buying a private license for a library used in a proprietary front-end browser application does _not_ cover customers using that application.  The company would need to buy a private licenses for each of its customers, or have each customer buy a private license for themself.
 
 # Developer Licensing
 
@@ -50,7 +52,7 @@ Under company licensing, companies and customers must buy private licenses.  Und
 
 Company licensing seems to work better for those who want support in proportion to use of their projects.  The number of those who need private licenses for a project tracks the number of companies and customers using the project.
 
-Developer licensing seems to work better for those who want support in proportion to development demands on their time.  The number of those who need private licenses for a project tracks the number of developers likely to submit bug reports, feature requests, and other technical feedback.
+Developer licensing seems to work better for those who want support in proportion to demands on their time.  The number of those who need private licenses for a project tracks the number of developers likely to submit bug reports, feature requests, and other technical feedback.
 
 ## Who buys?
 
@@ -72,6 +74,6 @@ As with open source licensing, private licensing between developers tends to shi
 
 Companies need to ensure they have all the intellectual property rights they need for themselves and for their customers.  Diligent companies want to scrutinize the terms of licenses, be they public open source licenses or private License Zero licenses, that affect whether employees and contractors can meet their obligations to assign or license all the intellectual property rights needed for their work.
 
-License enforcement is rare, across the board.  Legally, both developers using License Zero projects and companies expecting to be sublicensed could be sued for infringement without a valid license.  Practically, we would expect companies to receive more complaints and demands for payment than individuals.  Companies tend to have more money to pay.  Practically, we would also expect most complaints to end in settlement, rather than in court.  Practically, it will be pretty difficult to tell whether a company or customer has some relationship with a developer who has a private license.
+License enforcement is rare, across the board.  Legally, both developers using License Zero projects and companies expecting to be sublicensed could be sued for infringement without a valid license.  Practically, we would expect companies to receive more complaints and demands for payment than individuals, because companies tend to have more money to pay.  Practically, we would also expect most complaints to end in settlement, rather than in court.  Practically, it will be pretty difficult to tell whether a company or customer has some relationship with a developer who has a private license.
 
 Hopefully, not much of that would matter.  Developer licensing might help to avoid the legal system---lawyers, cease-and-desist letters, and the like---by giving developers larger roles in the process.  Many license violations, like failure to provide attribution under permissive licenses, get sorted out on GitHub and via e-mail, by developers.  Reputation, correctness, and a sense of fair play go a long way.
