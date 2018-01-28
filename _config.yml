@@ -6,6 +6,8 @@ author: Artless Devices LLC
 homepage: https://licensezero.com
 highlighter: rouge
 excerpt_separator: "<!--jump-->"
+repository: licensezero/licensezero-blog
+repository_url: "https://github.com/licensezero/licensezero-blog"
 plugins:
 - jekyll-sass-converter
 - jekyll-feed
