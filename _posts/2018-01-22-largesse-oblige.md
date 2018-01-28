@@ -4,7 +4,7 @@ description: follow the money, note where it stops
 layout: post
 ---
 
-Some see "open source sustainability" as a problem of getting companies to pay the devs.  If I didn't know better, I'd say that sounds pretty easy.  Companies pay software developers lots of money all the time.
+Some see "open source sustainability" as a problem of getting companies to pay the developers.  If I didn't know better, I'd say that sounds pretty easy.  Companies pay developers lots of money all the time.
 
 Consider data from the [Bureau of Labor Statistics](https://www.bls.gov/ooh/computer-and-information-technology/home.htm) for the US in 2016:
 
@@ -45,9 +45,9 @@ Consider data from the [Bureau of Labor Statistics](https://www.bls.gov/ooh/comp
   </tbody>
 </table>
 
-As you might expect from those figures, the country is sprouting code schools like mushrooms.  A glut of eager students fill their cohorts, rushing to enter software-developer work and make software-developer money.  I've met gaggles of these people mentoring at [NodeSchool](https://nodeschool.io).  Enter [freeCodeCamp](http://freecodecamp.com/).
+As you might expect from those figures, the country is sprouting code schools like mushrooms.  A glut of eager students fill their cohorts, rushing to enter software-developer work and make software-developer money.  I've met gaggles of these folks mentoring at [NodeSchool](https://nodeschool.io).  Enter [freeCodeCamp](http://freecodecamp.com/).
 
-One model of open source sustainability holds that a company paying forty computer programmers to build proprietary software should hire, say, ten of the open source programmers turning out work they rely on.  Or should allow its forty programmers to spend a fifth of their time on open source.
+One model of open source sustainability holds that a company paying forty computer programmers to build proprietary software should hire, say, ten of the open source programmers behind the work they rely on.  Or should allow its forty programmers to spend a fifth of their time on open source.
 
 From the smokey, wood-paneled back room of my mind, where I role-play an ambitious, mid-level manager, a growl:
 
@@ -61,11 +61,11 @@ A contrarian narrative of financial sustenance for open source:  Companies are a
 
 This argument feels dangerous.  It has some very disturbing properties.
 
-It ignores non-financial benefits of employment or even stable contracting.  Large companies hiring open source developers give those developers a semblance of stability and predictability.  They'll receive some check each month, and may receive benefits.  There's also a certain reputational bonus, first from having been hired to do open source work to begin, and second, perhaps, from having been hired by a reputable company to do so.
+It ignores non-financial benefits of employment or even stable contracting.  Large companies hiring open source developers give those developers a semblance of predictability.  They'll receive some check each month, and may receive benefits.  There's also a certain reputational bonus, first from getting hired to do open source to begin, and second, perhaps, from getting hired by a reputable company.
 
 Giving open source developers those benefits could improve the open source they churn out.  Perhaps they'd be more responsive to bug reports.  More careful to code securely.  Quicker to take up new features.  Faster to maintain compatibility.  The companies providing benefits---and relying upon the open source software---might even profit by the exchange.  [Or not.](http://david.heinemeierhansson.com/2013/the-perils-of-mixing-open-source-and-money.html)  [It's complicated.](https://medium.com/@mikeal/great-post-8a4dfe7ee550)
 
-Politically, this view divides the community, and not in a happy way.  Rather than one, unitary trade of open source contributors, present and potential, it's givers and it's takers.  Pardoning those who give back in kind---proprietary developers who do open source off the clock---we know we're still left with many, many developers who use open source to build proprietary software without so much as picking up a beer tab.  Meanwhile, what solidarity do the unpaid have with the paid, to drive a harder bargain with employers?  Dark picture.
+Politically, this view divides the community, and not in a happy way.  Rather than one, united trade of open source contributors, current and potential, it's givers and it's takers.  Pardoning those who give back in kind---proprietary developers who do open source off the clock---we know we're still left with many, many developers who use open source to build proprietary software without so much as picking up a beer tab.  Meanwhile, what solidarity do the unpaid have with the paid, to drive a harder bargain with employers?  Dark picture.
 
 But if we take compensating value delivered, or giving as one has received, as a _moral_ prescription, it makes perfect sense to leave that obligation with people, rather than corporations.  Start with a collective action challenge, like funding public goods, and add corporate structure.  Now you have _two_ collective action challenges, one tied up with the other.  We don't expect corporations to reciprocate gifts, to balance out windfalls, to greet good fortune with commensurate, selfless generosity.  We know better.
 
@@ -77,29 +77,29 @@ All of a sudden, patronage makes sense.  [Patreon](https://patreon.com) accounts
 
 And wouldn't you know, unified reputation systems, like [GitHub activity](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/), also start to make sense.  So does gaming them.  Fellow shows up in your repo's issues, asking for feature.  Is he on your patrons list?  No.  Is he active in open source?  No.  Give him his choice:  Show me commits, or show me coin, or I'll show you `#wontfix`.  [I don't need to know who you're working for.](https://blog.licensezero.com/2017/10/16/mercenary-rapport.html).  This is between you and me.
 
-Basically, it's the coins from [John Wick](https://en.wikipedia.org/wiki/John_Wick_(film_series)).  Give a favor, take a favor, end up rich in favors, solvent, or dead to the guild.  But instead of murder for hire, it's the dirty work of rigging up software that straight folk don't need to see.
+Basically, it's the coins from [John Wick](https://en.wikipedia.org/wiki/John_Wick_(film_series)).  Give a favor, take a favor, end up rich in favors, or dead to the guild.  But instead of murder for hire, it's the dirty work of rigging up software that straight folk don't need to see.
 
 [The whole thing makes me queasy.](https://twitter.com/kemitchell/status/937720688462278657)  [It all seems a bit absurd.](https://twitter.com/kemitchell/status/946929942633345024)
 
 
 # Subaltern
 
-This view comports nicely with open source as mere adjunct to proprietary software development, especially permissively licensed open source.  In essence, open source becomes a performance enhancer for system integrators making proprietary products and services: things people other than programmers actually interact with and derive value from.  <!--TODO: link blog post-->More and more free software gets written, but it gets harder and harder to make do without proprietary apps and services.
+This view comports nicely with open source as mere adjunct to proprietary software development.  In essence, open source becomes a performance enhancer for system integrators making proprietary products and services: things people other than programmers actually interact with and derive value from.  <!--TODO: link blog post-->More and more free software gets written, but it gets harder and harder to make do without proprietary apps and services.
 
 A single, additional ray of hope shines through: open source developers can trade on reputation developed within open source development for cash, while remaining within open source.  They don't have to write proprietary code to pay rent.  They can stay pure.
 
-Kind of.  The cash they earn flows down from proprietary enterprises, like water down from a mountain snow cap.  There are glorious, glorious exceptions, like [service](https://ws02.com) and [hosting](https://discourse.org).  But the thrust of industry is proprietary services, even if all that's proprietary in those services is [application-specific, brackish residue that can't be so easily abstracted away](https://github.com/substack/blog/blame/9d89edcd55b7424d8c0f65d5c0dfd2dec34993c0/module_steps.markdown#L75).  Some devs get to make open source, and open source alone, but they're not working toward a world where more software respects the freedoms they enjoy.
+Kind of.  The cash they earn flows down mostly from proprietary enterprises, like water down from a mountain snow cap.  There are glorious, glorious exceptions, like [service](https://ws02.com) and [hosting](https://discourse.org) companies.  But the thrust of industry is proprietary services, even if all that's proprietary in those services is [application-specific, brackish residue that can't be so easily abstracted away](https://github.com/substack/blog/blame/9d89edcd55b7424d8c0f65d5c0dfd2dec34993c0/module_steps.markdown#L75).  Some devs get to make open source, and open source alone, but they're not working toward a world where the systems they use and care about are open source.
 
-In this world, License Zero still has work to do, in making open source competitively viable.  Open source companies can reap [L0-R](https://licensezero.com/licenses/reciprocal) software for free, while proprietary shops pay its price.  Theoretically, licensing could track usage better than patronage, by carrying the big stick called IP infringement.
+In this world, License Zero still has work to do, in making open source competitively viable.  Open source companies can reap [L0-R](https://licensezero.com/licenses/reciprocal) software for free, while proprietary shops pay its price.  Theoretically, licensing could track usage better than patronage, by carrying the big stick called intellectual property infringement.
 
-License Zero could also [restructure toward developer-to-developer licenses](https://github.com/licensezero/licensezero-questions/issues/10) easily enough, with companies licensed if the developers they're paying are.  Even smaller transactions.  One per developer, perhaps.  Everyone on the web team pays for a private license for the framework, rather than sharing a private license in the name of the company.  Mere implementation details.
+License Zero could also [restructure toward developer-to-developer licenses](https://github.com/licensezero/licensezero-questions/issues/10) easily enough, with companies licensed if the developers they're paying are.   Even smaller transactions.  One per developer, perhaps.  Everyone on the web team pays for a private license for the framework, rather than sharing a private license in the name of the company.  Mere implementation details.  \[_I've addressed those details in [a later blog post](https://blog.licensezero.com/2018/01/26/developer-licensing.html)._\]
 
 # SOS
 
 I know the open source party line, and even if, someday, I come to see that it's irreparably wrong-headed, a part of me will always want to believe it.  I can quote Lessig, invoke Raymond, and cite the GPL in several versions, extemp.  And I suppose I could make a career, of sorts, articulating and refining the now orthodox counter-economy, commons-utopian gestalt of open source née free software.  A steward's duty.  A relatively quiet life.
 
-I'm not cut out for it.  I wouldn't consider myself truly paid forward if I didn't go hunting for contrary views, build them up as far as they'll go, and put them to the test.  I'm not the marketing department.  I'm here to hunt bugs, find exploits, and patch them.  Open source has plenty of cheerleaders.
+I'm not cut out for it.  I wouldn't consider myself truly paid forward if I didn't go hunting for contrary views, build them up as far as they'll go, and put them to the test.  Open source has plenty of cheerleaders.  I'm here to hunt bugs, find exploits, patch, and upgrade.
 
-That's not to say I don't root for the team.  If the point of view presented here irks you, well, it irks me, too.  Help me argue it down, consistently and rigorously.
+I still root for the team.  If the point of view presented here irks you, well, it irks me, too.  Help me argue it down, consistently and rigorously.
 
 So far, I can't.
