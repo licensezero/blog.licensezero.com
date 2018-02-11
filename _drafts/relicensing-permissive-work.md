@@ -24,25 +24,25 @@ Say you sit down tomorrow and write a nifty SVG visualization library in JavaScr
 
 You cut a 1.0.0 release and publish your code on GitHub and npm with MIT terms in `LICENSE` and `package.json`.
 
-The next day, you realize that your code may have implemented a novel approach to visualization.  You're not sure, but you suspect you could get a patent, even if you don't want one.  To head off concerns about whether you'll apply for a patent and start suing users for infringement, you decide to cut a new release with a different license that gives clear patent permission.  At the same time, you decide that you'd like to see source for changes that others make to your work, in return.
+The next day, you realize that your code may have implemented a novel approach to visualization.  You're not sure, but you suspect you could get a patent.  To head off concerns about whether you'll apply for a patent and start suing users for infringement, you decide to cut a new release with a different license that gives clear patent permission.  You also decide that you'd like to see source for changes that others make to your work, in return.
 
-You cut a 1.0.1 release of your library and publish under The Mozilla Public License 2.0.  MPL gives an explicit patent license, in addition to a copyright license, and it's also a copyleft license, so if fits your bill.
+You cut a 1.0.1 release of your library and publish under The Mozilla Public License, Version 2.0.  MPL gives an explicit patent license, in addition to a copyright license, and it's also a copyleft license, so if fits your bill.
 
-License aside, 1.0.0 and 1.0.1 are the same code.  1.0.0 has MIT terms in `LICENSE`.  1.0.1 has MPL terms in `LICENSE`.  As a user, what are my license terms for your code?
+License aside, 1.0.0 and 1.0.1 are the same code.  1.0.0 has MIT terms in `LICENSE`.  1.0.1 has MPL terms in `LICENSE`.  As a user, what are my license terms for your library?
 
 There are a few possibilities:
 
-1.  Perhaps MPL applies to everybody.  That's your most recent choice, and publishing the new version shows that MPL, not MIT, is what you intend.  It's as if you never licensed under MIT terms, even though there's a published version floating around with MIT terms in `LICENSE`.
+1.  MPL `AND NOT` MIT
 
-    It's MPL `AND NOT` MIT
+    Perhaps MPL applies to everybody.  That's your most recent choice, and publishing the new version shows that MPL, not MIT, is what you intend.  It's as if you never licensed under MIT terms, even though there's a published version floating around with MIT terms in `LICENSE`.
 
-2.  Perhaps folks get their choice of MIT and MPL terms.  They can change freely, without sharing back, under MIT.  But if you come after them for patent infringement, they're stuck without clear patent permission.  If they want the clear patent permission under MPL, they have to follow MPL's copyleft conditions.
+2.  MIT `XOR` MPL
 
-    It's MIT `XOR` MPL.
+    Perhaps folks get their choice of MIT and MPL terms.  They can change freely, without sharing back, under MIT.  But if you come after them for patent infringement, they're stuck without clear patent permission.  If they want the clear patent permission under MPL, they have to follow MPL's copyleft conditions.
 
-3.  Perhaps folks get MIT and MPL added together: permission to modify without sharing back under MIT, and clear patent permission under MPL.
+3.  MIT `OR` MPL
 
-    It's MIT `OR` MPL.
+    Perhaps folks get MIT and MPL added together: permission to modify without sharing back under MIT, and clear patent permission under MPL.
 
 How would the law decide?  At least two legal concepts apply: "reliance" and "revocation".
 
