@@ -60,20 +60,20 @@ Say you sit down tomorrow and write a nifty text formatting library.  Again, you
 
 You cut a 1.0.0 release and publish your code on GitHub and npm with MIT terms in `LICENSE`.
 
-A week later, you add some new functionality to the library, and quite a bit more code.  You own all the relevant rights in this new work, too.  It's another 10 commits.  Before publishing that new work, you decide that you want to make this new work, and your work going forward, available under [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
+A week later, you add some new functionality to the library, and quite a bit more code.  You own all the relevant rights in this new code, too.  It's another 10 commits.  Before publishing that new code, you decide that you want to make the new code, and your work going forward, available under [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
 
 You cut a 1.1.0 release with GPLv2 in `LICENSE`, instead of MIT.
 
-The same questions new terms for old code apply to your first 10 commits.  It isn't perfectly clear whether users get just GPLv2 terms for that work, an exclusive choice of MIT or GPLv2 terms, or the right to cherry-pick permissions from MIT and GPLv2.  It's isn't clear whether you've revoked the MIT license for your first 10 commits.
+The same questions about new terms for old code apply to your first 10 commits.  It isn't perfectly clear whether users get just GPLv2 terms for that code, an exclusive choice of MIT or GPLv2 terms, or the right to cherry-pick permissions from MIT and GPLv2.  It's isn't clear whether you've revoked the MIT license for your first 10 commits.
 
 It's a bit clearer that GPLv2 terms apply to code you added in your last 10 commits.
 
-The evidence is clearer.  You haven't released any version containing both the work from the last 10 commits and MIT terms.  As a user, if I download a release with your new work, that release also contains the new GPLv2 terms.  In terms of reliance, users downloading your releases will always see the terms they need to be aware of for your new code.
+The evidence is clearer.  You haven't released any version containing both the code from the last 10 commits and MIT terms.  As a user, if I download a release with your new code, that release also contains the new GPLv2 terms.  In terms of reliance, users downloading your releases will always see the terms they need to be aware of for your new code.
 
-Your intent is clearer.  First you wrote your MIT code, then you released it under MIT terms, only then did you write your new code, and you released that new code only under GPLv2.  In terms of revocation, you haven't sent any signal that GPLv2 no longer applies to your new work.
+Your intent is clearer.  First you wrote your MIT code, then you released it under MIT terms, only then did you write your new code, and you released that new code only under GPLv2.  In terms of revocation, you haven't sent any signal that GPLv2 no longer applies to your new code.
 
-In C, C++, Java, and some other languages, developers commonly put license terms, or header comments identifying license terms, in individual source files, rather than at the root of the repository or in package metadata.  Projects in those languages often combine code under different license terms.  Methods for dealing with that diversity of terms, like header comments, also work for different terms applied to different work by a single developer.  New work, especially in a new file, can have its own header comment, notifying readers that different license terms apply to work in that file.
+In C, C++, Java, and some other languages, developers commonly put license terms, or header comments identifying license terms, in individual source files, rather than at the root of the repository or in package metadata.  Projects in those languages often combine code under different license terms.  Methods for dealing with that diversity, like header comments, also work for different terms applied to different code by the same developer.  New code, especially in a new file, can have its own header comment, notifying readers that different license terms apply to code in that file.
 
-If the effect you want is to keep your original 10 commits worth of work on MIT terms, and license only your new work on GPLv2 terms, you could do so with comments in the code indicating which work you license under which terms.  At a higher level, you could change license metadata in `package.json` from `MIT` to `(MIT AND GPL-2.0-only)`, and rely on notes in `README` or even Git history to help clarify which parts of the code are MIT-licensed, and which parts are GPLv2-licensed.
+If the effect you want is to keep your original 10 commits worth of code on MIT terms, and license only your new code on GPLv2 terms, you could do so with comments in the code indicating which code you license under which terms.  At a higher level, you could change license metadata in `package.json` from `MIT` to `(MIT AND GPL-2.0-only)`, and rely on notes in `README` or even Git history to help clarify which parts of the code are MIT-licensed, and which parts are GPLv2-licensed.
 
 # Expectations <a id="shouldnt"></a>
