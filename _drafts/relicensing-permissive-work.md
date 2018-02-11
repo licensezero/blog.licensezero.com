@@ -46,11 +46,11 @@ There are a few possibilities:
 
 How would the law decide?  At least two legal concepts apply: "reliance" and "revocation".
 
-If I download version 1.0.0 of your library, best I can tell, based on your actions, you intend to license me and everyone else under MIT terms.  I might rely on the terms in `LICENSE` for 1.0.0, and make changes that I don't share.  If you sue me for infringement, claiming that I didn't meet your MPL conditions, I'll protest that I didn't see your version 1.0.1, or hear about your license change, and that MIT still applies, at least to 1.0.0.  You set me up to rely on an MIT license.  The law generally protects reliance on clear, outward signs of permission.  It disfavors sneaky traps.
+If I download version 1.0.0 of your library, best I can tell, based on what you put in that release, you intend to license me and everyone else under MIT terms.  I might rely on the terms in `LICENSE` for 1.0.0, and make changes that I don't share.  If you sue me for infringement, claiming that I didn't meet your MPL conditions, I'll protest that I didn't see your version 1.0.1, or hear about your license change, and that MIT still applies, at least to 1.0.0.  You set me up to rely on an MIT license.  The law generally protects reliance on outward signs of permission.  It disfavors sneaky traps.
 
-What if you send me a message, before dragging me into court, that says the MIT license no longer applies?  Can you "revoke" your MIT license?  Some open source licenses, like Apache 2.0, say explicitly that permissions granted are "irrevocable", and can't be revoked.  It's isn't clear whether other open source licenses can be revoked at will.
+What if you send me a direct message that says the MIT license no longer applies?  Can you "revoke" your MIT license?  Some open source licenses, like Apache 2.0 and GPLv3, say explicitly that permissions granted are "irrevocable", and can't be revoked outside specific circumstances.  It's isn't clear whether other open source licenses can be revoked at will.
 
-In the end, the law isn't clear.  The outcome for a particular piece of software might have as much to do with context---whether the user knew of the license change, how that change was documented, separate communications between user and developer---as with what license terms say.
+In the end, the law isn't clear.  The outcome for a particular license for a particular piece of software might have as much to do with particular context---whether the user knew of the license change, how that change was documented, what communications about developer intentions the user actually received---as with what any particular open source license terms say.
 
 ## New Code, New Terms
 
