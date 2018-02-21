@@ -1,6 +1,6 @@
 ---
 title: Relicensing Permissive Work
-description:
+description: picking battles one at a time
 layout: post
 ---
 
