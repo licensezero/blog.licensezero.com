@@ -52,6 +52,18 @@ Open source developers can leverage their influence into support by accepting do
 
 # Freedom
 
+The fact that a developer made a particular piece of useful open source yesterday does not mean that they have to make improvements to it today, or other open source software consumers would like tomorrow.  Independent open source developer control their time, and their contributions.
+
 ## What to Do Next
 
-## Tacit Knowledge
+The freedom to decide what work to do next gives independent open source developers the ability to sell that freedom to companies, in the form of service contracts.  Those service contracts may produce more open source software, they may produce proprietary software, or they may produce no software at all, but only advice or consulting.
+
+Companies can always hire other developers to do these things, as well.  But an open source developer can often get them done more efficiently, especially if they relate to their prior open source work.
+
+[Switchmode](https://github.com/switchmode/switchmode) is a free, open form contract for developers doing a mix of open and closed work.  Its terms are compatible with open source work, in both the proprietary and paid-open-source contexts, unlike any standard consulting contracts.  It's designed to take away the legal friction of doing deals between companies and open source leaning developers.
+
+## Private Knowledge
+
+The ideal open source project is entirely open and transparent.  Some may know it better than others, but everything necessary to read up---user documentation, developer documentation, overviews of key implementation decisions, hosting guides, deployment configurations---comes with the project.  It is up to the developer of the open source project how much of this knowledge actually gets written out in the open, and how much of it they retain privately.  For parts of this knowledge that are hard to relate to others in writing---tacit knowledge, like the philosophy behind a project or tool set---it's up to the developer how much time they spend developing ways to make that knowledge explicit, instead.
+
+Open source developers can leverage private knowledge into support by selling training, consulting, and other services, or by selling copies of, or access to, proprietary materials like books, documentation, and training guides.
