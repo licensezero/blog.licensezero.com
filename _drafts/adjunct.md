@@ -1,25 +1,54 @@
 ---
+title: Commons Club
+description: open source as adjunct to proprietary software
 layout: post
 ---
 
 Trapped in social networks that manipulate and abuse us.
 Trapped on marketplaces that sell (and leak) info about us.
-Trapped in closed, proprietary software we can't opt out of.
-Trapped making closed, proprietary software for others.
+Trapped with closed, proprietary programs we can't opt out of.
+Trapped making closed, proprietary networks and programs for others.
+
 Making closed, proprietary software out of open source.
 
-Open source software is winning. Software freedom is not. If
-there were ever a case for a difference, there it is.
+As software developers, today's hand-wringing about privacy
+and manipulation seems laughably overdue. Software people,
+knowing how software gets made, often choose to use very
+differently from mom, pop, and the kids.
+When we do join into mainstream networks and services,
+we deploy technical measures, from privacy settings to
+browser extensions and anonymization tools, that come
+easily just to nerds like us.
 
-A reverse correlation: open source up, software freedom
-down. But not a coincidence. Open source "wins" in large
-part by shedding software freedom and accepting a role as
+Open source software is winning. Software freedom is not. If
+there were ever a short case for a difference, there it is.
+
+Perhaps open source doesn't belong in conversations about
+user rights, privacy protections, transparency, choice.
+But it doesn't belong because it chooses not to belong.
+Open source is free software minus software freedom.
+Free software took a policy position on user-facing issues.
+Open source takes a position on user-facing issues only
+when the users facing issues happen to be programmers.
+
+Open source "wins" in large part by accepting a role as
 adjunct to to proprietary software. It's more efficient to
 build proprietary networks---social, commercial, and
 otherwise---using open source. But it's more profitable,
 prevailing practice suggests, to offer users of those
-systems no meaningful right to patch, fork, or even set
-user-facing policy.
+systems no meaningful right to patch, fork, or set policy.
+
+It's tempting to reassure ourselves that all software
+is open source these days, because it's increasingly
+made of open source.
+And it's often true that, compared to the hard programming problems
+solved in the database or the programming language or the
+parser or the wire protocol---often open source---the
+relatively thin layer of proprietary implementation, application
+code, and design on top is merely [application-specific, brackish
+residue that can't be so easily abstracted away][residue].
+
+[residue]: https://github.com/substack/blog/blame/9d89edcd55b7424d8c0f65d5c0dfd2dec34993c0/module_steps.markdown#L75
 
 I can improve Facebook's front-end framework, improving
 Facebook's ability to make front-end changes. I can fork
