@@ -4,51 +4,52 @@ description: open source as adjunct to proprietary software
 layout: post
 ---
 
-Trapped in social networks that manipulate and abuse us.
-Trapped on marketplaces that sell (and leak) info about us.
-Trapped with closed, proprietary programs we can't opt out of.
-Trapped making closed, proprietary networks and programs for others.
+Sucked into social networks that manipulate and abuse us.
+Drawn into marketplaces that sell  data about us. Stuck with
+closed, proprietary programs we can't opt out of. Trapped
+making closed, proprietary programs to trap others.
 
 Making closed, proprietary software out of open source.
 
 As software developers, today's hand-wringing about privacy
-and manipulation seems laughably overdue. Software people,
-knowing how software gets made, often choose to use very
-differently from mom, pop, and the kids.
-When we do join into mainstream networks and services,
-we deploy technical measures, from privacy settings to
-browser extensions and anonymization tools, that come
-easily just to nerds like us.
+and manipulation seems comically, pitiably late. Software
+people know how software business gets done, and partake
+more judiciously. When we join into mainstream networks and
+services, we take steps, from privacy settings to browser
+extensions and anonymization tools, that come easily only to
+our kind. But we know they're just half-measures. We're tech
+people, but we might as well be plumbers, as far as other
+devs' apps are concerned.
 
 Open source software is winning. Software freedom is not. If
 there were ever a short case for a difference, there it is.
 
 Perhaps open source doesn't belong in conversations about
-user rights, privacy protections, transparency, choice.
-But it doesn't belong because it chooses not to belong.
-Open source is free software minus software freedom.
-Free software took a policy position on user-facing issues.
-Open source takes a position on user-facing issues only
-when the users facing issues happen to be programmers.
+user rights, privacy protections, transparency, choice. But
+it chooses not to belong. Free software takes a position on
+user-facing issues. Open source takes a position on
+user-facing issues only when the users happen to be
+programmers.
 
-Open source "wins" in large part by accepting a role as
-adjunct to to proprietary software. It's more efficient to
-build proprietary networks---social, commercial, and
-otherwise---using open source. But it's more profitable,
-prevailing practice suggests, to offer users of those
+That's why open source "wins". It wins, dilutely, because
+proprietary software wins, and open source accepts a role as
+adjunct to proprietary software. It's more efficient to
+build proprietary code---social networks, commercial
+networks, locked-in user communities---using open source
+code. But it's more profitable to offer users of those
 systems no meaningful right to patch, fork, or set policy.
+So the business plan goes.
 
 It's tempting to reassure ourselves that all software
-is open source these days, because it's increasingly
-made of open source.
-And it's often true that, compared to the hard programming problems
+is open source these days, because it's increasingly made of
+open source and [like open source][innersource]. And it's
+often true that, compared to the hard programming problems
 solved in the database or the programming language or the
-parser or the wire protocol---often open source---the
-relatively thin layer of proprietary implementation, application
-code, and design on top is merely [application-specific, brackish
-residue that can't be so easily abstracted away][residue].
+parser or the wire protocol---often open---the layer of
+closed implementation, application code, and design on top
+measures relatively thin.
 
-[residue]: https://github.com/substack/blog/blame/9d89edcd55b7424d8c0f65d5c0dfd2dec34993c0/module_steps.markdown#L75
+[innersource]: https://en.wikipedia.org/wiki/Inner_source
 
 I can improve Facebook's front-end framework, improving
 Facebook's ability to make front-end changes. I can fork
@@ -57,10 +58,10 @@ Inc. to run. But Facebook isn't a front-end framework, and
 Twitter isn't a database. I can't improve the network parts
 of those networks for myself. Even if sloughing away all the
 open source reveals but a relatively thin layer of
-proprietary integration code, that layer makes the decisions
-that affect the user, that set rules and incentives
-throughout the network. Patches to that layer aren't
-welcome. That power belongs to the host.
+proprietary integration, that layer makes the decisions that
+affect user-users, that set rules and incentives throughout
+the network. Patches to that layer aren't welcome. That
+power belongs to the host.
 
 Network power is pervasive power. Networks represent
 standing value propositions. Those propositions compel, less
