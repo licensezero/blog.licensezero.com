@@ -72,18 +72,17 @@ market maker to find the products and prices we need.
 
 Software freedom laid our collective foundation. And
 software freedom advocates aspired, consciously, to network
-power. In specific domains, the GPL still wields. It's so
+power. In specific domains, the GPL still reigns. It's so
 much easier to port GCC to your new architecture than to
 write a brand new compiler. It's so much easier to tweak
 WordPress than to seed your own blog-platform community.
 Software freedom isn't _enforced_, emphasis _force_. Life is
 simply better with free run of GPL software than without it.
 
-That network power affects not just software that software
-freedom loving hackers write. It affects trade-offs for all
-software writers.  Including freedom loving hackers at work
-at companies utterly indifferent about, or hostile to,
-software freedom.
-
-In the end, only pervasive network power can exert
-meaningful, user-centric power across the board.
+The beauty of that kind of network power is that it affects
+not just the software that you write, and not just the
+software that other, similarly-aligned, freedom-loving
+hackers write. It affects trade-offs for nearly everyone who
+writes software in a domain touched by the network. It
+affects trade-offs for managers of hackers at companies that
+don't give a hoot about software freedom.
