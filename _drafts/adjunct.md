@@ -42,33 +42,33 @@ So the business plan goes.
 
 It's tempting to reassure ourselves that all software
 is open source these days, because it's increasingly made of
-open source and [like open source][innersource]. And it's
-often true that, compared to the hard programming problems
-solved in the database or the programming language or the
-parser or the wire protocol---often open---the layer of
-closed implementation, application code, and design on top
-measures relatively thin.
+open source and [made like open source][innersource]. And
+it's often true that, compared to the hard programming
+problems solved in the database or the programming language
+or the parser or the wire protocol---often open---the layer
+of closed implementation, application code, and design on
+top looks relatively thin.
 
 [innersource]: https://en.wikipedia.org/wiki/Inner_source
 
-I can improve Facebook's front-end framework, improving
-Facebook's ability to make front-end changes. I can fork
-Twitter's databases, making twitter.com cheaper for Twitter,
-Inc. to run. But Facebook isn't a front-end framework, and
-Twitter isn't a database. I can't improve the network parts
-of those networks for myself. Even if sloughing away all the
-open source reveals but a relatively thin layer of
-proprietary integration, that layer makes the decisions that
-affect user-users, that set rules and incentives throughout
-the network. Patches to that layer aren't welcome. That
-power belongs to the host.
+I can improve Facebook's front-end framework, increasing
+Facebook's ability to make cost-efficient front-end changes.
+I can optimize Twitter's databases, making twitter.com
+cheaper for Twitter, Inc. to run. But Facebook isn't a
+front-end framework, and Twitter isn't a database. I can't
+improve the network parts of those networks for myself. Even
+if sloughing away all the open source reveals but a
+relatively thin film of proprietary integration, that layer
+makes the decisions that affect user-users, that set rules,
+capabilities, and incentives. Patches to that layer aren't
+welcome. That's a network-owner prerogative.
 
 Network power is pervasive power. Networks represent
 standing value propositions. Those propositions compel, less
-by what the network hosts offer, and more by what other
-users offer. We'll abide a creepy social network to be
-social with the right people. We'll abide a jostling market
-maker to find the products and prices we need.
+by what the network owners offer, and more by what the users
+they attract offer. We'll abide a creepy social network to
+be social with the right people. We'll abide a jostling
+market maker to find the products and prices we need.
 
 Software freedom laid our collective foundation. And
 software freedom advocates aspired, consciously, to network
