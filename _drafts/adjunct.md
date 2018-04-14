@@ -4,25 +4,28 @@ description: open source as adjunct to proprietary software
 layout: post
 ---
 
-Sucked into social networks that manipulate and abuse us.
-Drawn into marketplaces that sell  data about us. Stuck with
+Pulled into social networks that manipulate and abuse us.
+Drawn into marketplaces selling data about us. Stuck with
 closed, proprietary programs we can't opt out of. Trapped
-making closed, proprietary programs to trap others.
+making closed, proprietary programs to stick others.
 
 Making closed, proprietary software out of open source.
 
 As software developers, today's hand-wringing about privacy
 and manipulation seems comically, pitiably late. Software
-people know how software business gets done, and partake
-more judiciously. When we join into mainstream networks and
+people know how software sausage gets made, and partake more
+ambivalently. When we join up to mainstream networks and
 services, we take steps, from privacy settings to browser
 extensions and anonymization tools, that come easily only to
-our kind. But we know they're just half-measures. We're tech
-people, but we might as well be plumbers, as far as other
-devs' apps are concerned.
+our kind. But all-in, we know they're just half-measures.
+We're tech people, but we might as well be plumbers, as far
+as other devs' apps are concerned.
 
 Open source software is winning. Software freedom is not. If
 there were ever a short case for a difference, there it is.
+You want to fix it. You know how to fix it. But you're not
+allowed. Train ten new programmers, and they're not allowed,
+either.
 
 Perhaps open source doesn't belong in conversations about
 user rights, privacy protections, transparency, choice. But
@@ -35,10 +38,12 @@ That's why open source "wins". It wins, dilutely, because
 proprietary software wins, and open source accepts a role as
 adjunct to proprietary software. It's more efficient to
 build proprietary code---social networks, commercial
-networks, locked-in user communities---using open source
-code. But it's more profitable to offer users of those
-systems no meaningful right to patch, fork, or set policy.
-So the business plan goes.
+networks, locked-in user communities---on open source code.
+But it's more profitable, so they say, to offer users of
+those systems no meaningful right to patch, fork, or set
+policy. By all means put users in the business plan, but
+only as fonts of payment and the occasionally irremediable
+hassle.
 
 It's tempting to reassure ourselves that all software
 is open source these days, because it's increasingly made of
@@ -47,19 +52,25 @@ it's often true that, compared to the hard programming
 problems solved in the database or the programming language
 or the parser or the wire protocol---often open---the layer
 of closed implementation, application code, and design on
-top looks relatively thin.
+top measures relatively thin.
 
 [innersource]: https://en.wikipedia.org/wiki/Inner_source
 
-I can improve Facebook's front-end framework, increasing
-Facebook's ability to make cost-efficient front-end changes.
-I can optimize Twitter's databases, making twitter.com
-cheaper for Twitter, Inc. to run. But Facebook isn't a
-front-end framework, and Twitter isn't a database. I can't
-improve the network parts of those networks for myself. Even
-if sloughing away all the open source reveals but a
+But that's a distinction that falls a well tuned distance
+short of a difference. I can improve Facebook's front-end
+framework, increasing Facebook's ability to make
+cost-efficient front-end changes, or increase that
+framework's popularity, creating more developers Facebook
+can hire. I can optimize LinkedIn's databases, making
+linkedin.com cheaper for LinkedIn to run, and squash bugs
+that might cost its people time. But Facebook isn't a
+front-end framework, and LinkedIn isn't a database. I can't
+improve the actual network parts of those networks for
+myself.
+
+Even if sloughing away all the open source reveals but a
 relatively thin film of proprietary integration, that layer
-makes the decisions that affect user-users, that set rules,
+makes the choices that affect user-users, that set rules,
 capabilities, and incentives. Patches to that layer aren't
 welcome. That's a network-owner prerogative.
 
