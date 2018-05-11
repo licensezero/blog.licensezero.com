@@ -5,14 +5,14 @@ layout: post
 ---
 
 To software developers, today's hand-wringing about privacy,
-security, and manipulation comes comically, pitiably late.
-Software people know how software gets made, and why.  When
-we join up to mainstream networks, services, and apps, we
-take steps, from privacy settings to browser extensions to
-Tor, that come easily only to our kind.  But all-in, we know
-they're just half-measures.  We're tech people, but we might
-as well be plumbers or insurance brokers, as far as other
-devs' apps are concerned.  Other devs' apps made
+security, and user manipulation comes comically, pitiably
+late.  Software people have  software gets made, and why.
+When we join up to mainstream networks, services, and apps,
+we take steps, from privacy settings to browser extensions
+to Tor, that come easily only to our kind.  But all-in, we
+know they're just half-measures. We're tech people, but we
+might as well be plumbers or insurance brokers, as far as
+other devs' apps are concerned. Other devs' apps made
 increasingly with open source.
 
 Open source software is winning.  Software freedom---the
