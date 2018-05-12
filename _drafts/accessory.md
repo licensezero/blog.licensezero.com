@@ -9,7 +9,7 @@ user manipulation comes comically, pitiably late.  Software
 people have long taken extra steps when using the big online
 platforms, from privacy settings to browser extensions to
 throwaway addresses and Tor, that show what they know about
-the industry.  But they also know all of that's mostly
+the industry.  But developers also know all of that's mostly
 theater.  Developers know technology, but they might as well
 be plumbers, insurance brokers, or grandma---in a word,
 marks---as far as other devs' apps are concerned. That's
@@ -23,17 +23,17 @@ case for a difference, there it is.
 
 Those of us looking beyond our own developer experiences to
 those of all the folks affected by software need to take
-stock of how we got here, and think strategically about what
-to do next.
+stock of how we got here.  We need to think strategically
+about what to do next.
 
 # In Crowd
 
 Many programmers believe that open source doesn't belong in
 conversations about privacy, transparency, or end-user
 choice.  They're right.  Open source chooses not to belong.
-Free software takes a stand on user-facing issues. Open
-source takes a stand on user-facing issues, beyond the right
-to _be_ a user, only when users happen to be programmers.
+Free software takes a stand on user-facing issues. Apart
+from the right to _be_ a user, open source takes a stand on
+user-facing issues only when users happen to be programming.
 
 That makes open source a club.  Within the club, there's
 camaraderie, a more refined code of conduct, and
@@ -42,7 +42,8 @@ practices outside the club, like invasive ads and expecting
 pay for work, are strongly discouraged within it.  But
 membership is extended exclusively to programmers.
 Non-programmers benefit only by member invitation.
-Invitations usually cost time, money, privacy, or the lot.
+Invitation usually costs time, money, privacy, or all of the
+above.
 
 [kite]: https://github.com/atom-minimap/minimap/issues/588
 
@@ -63,8 +64,8 @@ more made of open source, and even _like_ open source, as
 innersource.  When we look at proprietary apps and services
 from top to bottom, the layer of closed, proprietary
 integration, application, and design code on top of the
-stack---often open and common---measures relatively thin. At
-least technically speaking.
+open, common stack measures relatively shallow.  At least
+technically speaking.
 
 [usage]: https://www.blackducksoftware.com/about/news-events/releases/companies-lack-open-source-policies
 
@@ -98,12 +99,12 @@ Networks are value propositions like any other, but network
 owners work more like brokers than retailers.  Lots of
 valuable users make a beneficial network, and that benefit
 can overwhelm the cost of an irksome or incompetent broker.
-We'll abide a creepy social network to socialize with the
-right people.  We'll abide a slimy marketplace to buy the
-right product at the right price.  We'll even abide social
-networks and market makers who get creepier, slimier, and
-clumsier over time, as long as network effects stack up
-faster than the owner gets worse.
+So we'll abide a creepy social network to socialize with the
+right people.  And we'll abide a slimy marketplace to buy
+the right product at the right price.  We'll even abide
+social networks and market makers who get creepier, slimier,
+and clumsier over time, as long as network effects stack up
+faster than the owner goes downhill.
 
 _Network effect_ is Valley Speak, not a hacker term.  But
 software freedom advocates bid consciously for network
@@ -138,7 +139,7 @@ to software freedom.
 
 Copyleft-based software freedom was a sound network play,
 and it achieved network-level results.  It's also succumbing
-to the signature crumbling decadence of networks, too:
+to the signature crumbling decadence of networks:
 backward-looking hubris.  When network owners mire down in
 reverence for past accomplishments, secure in the thought
 that their network is too big not to matter forever, we dub
@@ -169,16 +170,16 @@ That dynamic partially explains why so many pillars of the
 GPL network feel ever more like legacy systems.  That's not
 to say stagnant or doomed.  Far from it: GPL software
 remains much of the most mature and battle-tested, with the
-broadest supporting constituencies.  But a combination of
-factors conspire against the movement.  The license terms
-for those projects ever more seem to date them.
+broadest supporting constituencies.  The value in `LICENSE`
+don't animate these projects.  They date them.  A
+combination of factors conspire against the movement.
 
 Nearest to my interest is license obsolescence.  The ASP
 loophole, which allowed creators of proprietary software
 services to avoid the requirement to share source code under
 copyleft licenses, especially GPLv2, was legally awkward to
 close by nature.  FSF closed it in AGPL, but failed to merge
-AGPL and GPL in GPLv3, in part due to fork threats to keep
+AGPL and GPL in GPLv3, in part due to threats to fork
 development of existing GPLv2 code under those more
 permissive terms.  We now have a GPLv3 with a known loophole
 and an AGPLv3 that's very easy to isolate, ban, and scorn.
@@ -186,9 +187,9 @@ and an AGPLv3 that's very easy to isolate, ban, and scorn.
 Meanwhile, the ASP business model, rebranded "Software as a
 Service", exploded again.  As did the use of small software
 libraries and development tools, which slide through
-loopholes neither GPL closes.  The situation left many
-staunch software freedom advocates without an effective
-public license.  Licenses without teeth---and a lot of
+loopholes no GPL closes.  The situation left many staunch
+software freedom advocates without an effective public
+license option.  Licenses without teeth---and a lot of
 unhelpful complexity---don't acquire strong reputations in
 the field.
 
@@ -196,17 +197,17 @@ the field.
 
 Over time, we should expect a repeating pattern of
 permissively licensed software, funded or blessed by
-industry, cloning or replacing and refining tools first
-popularized under copyleft terms.  Copyleft licenses impose
-some additional friction over permissive licenses, by their
-nature.  When a concept is proven, demand for lower-friction
-terms increases, and lower friction itself creates a
-competitive advantage.  For reference: MySQL and PostgreSQL.
+industry, cloning or replacing tools first popularized under
+copyleft terms.  Copyleft licenses impose some additional
+friction over permissive licenses, by their nature.  When a
+concept is proven, demand for lower-friction terms
+increases, and lower friction itself creates a competitive
+advantage.  For reference: MySQL and PostgreSQL.
 
 Software freedom advocacy in software development cannot
 depend on reinforcing its bulwarks to remain relevant and
-continue to exerting network power for end-user rights.  It
-must hold a position---a moving position---at the knife's
+continue exerting network power for end-user rights.  It
+must hold a position---a dynamic position---at the knife's
 edge of the state of the art.  Free software was born
 cloning proprietary programs.  It can't survive that way,
 with proprietary software companies paying to reimplement
