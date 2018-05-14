@@ -8,7 +8,7 @@ For fellow software developers, today's public hand-wringing
 about privacy, security, and user manipulation comes
 comically, pitiably late.  The tech-savvy have long taken
 extra steps when using the big online platforms, from
-privacy sett to browser extensions to Tor.  Those steps tell
+privacy settings to browser extensions to Tor.  Those steps tell
 what insiders know about their industry.
 
 But the tech-savvy also know that it's a losing fight.
