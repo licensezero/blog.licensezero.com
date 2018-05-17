@@ -32,7 +32,7 @@ in those conversations.  Free software takes a stand on
 user-facing issues like transparency, access to code, and
 modification.  Apart from the right to _be_ an end-user,
 open source takes a stand on user-facing issues if and only
-if the users are programmers.
+if the users happen to be programmers.
 
 That makes open source something of a club.  Within the
 club, there's camaraderie, a more refined code of conduct,
