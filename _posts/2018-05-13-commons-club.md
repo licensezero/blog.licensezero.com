@@ -135,8 +135,8 @@ advocates write or choose to use, but software that anyone
 writes.  The cost, if any, is a set of structural
 constraints that enforce transparency, adaptability, and the
 ability to secede from a network and start one's own if the
-cost of abiding a bad steward runs over.  The benefits often
-outweigh it.
+mad monarch of your current network becomes insufferable.
+The benefits often outweigh it.
 
 # Past
 
