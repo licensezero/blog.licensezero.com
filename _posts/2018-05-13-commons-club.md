@@ -168,8 +168,8 @@ likewise, as with [Go].
 [Go]: https://golang.org
 
 Figuring out what to code is damn hard.  Rebuilding what's
-been done and proven, slightly better this time, is standard
-operating procedure.
+been done and proven, slightly better this time, is the
+norm.
 
 # Present
 
