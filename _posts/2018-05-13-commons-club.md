@@ -136,7 +136,7 @@ writes.  The cost, if any, is a set of structural
 constraints that enforce transparency, adaptability, and the
 ability to secede from a network and start one's own if the
 mad monarch of your current network becomes insufferable.
-The benefits often outweigh it.
+But we'll suffer a lot to avoid disturbance to our networks.
 
 # Past
 
