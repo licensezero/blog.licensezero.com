@@ -210,7 +210,7 @@ ahistorical belief that licensing _can't_ effectively
 express or protect software freedom values.  Many active
 developers feel not just that open source doesn't belong in
 conversations about software freedom, but that copyleft or
-licensing in general doesn't really belong.  No wonder.
+even licensing in general don't really belong.  No wonder.
 They've never seen them coupled with efficacy.
 
 # Future
