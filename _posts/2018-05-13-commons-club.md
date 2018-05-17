@@ -222,7 +222,7 @@ developers more devoted to software freedom.  Copyleft
 licenses impose some additional friction over permissive
 licenses, by their nature.  When a concept is proven, demand
 for similar functionality under lower-friction terms
-increases, and lower friction terms themselves bestow
+increases, and lower-friction terms themselves bestow
 marginal competitive advantage.
 
 The free software movement was born cloning proprietary
