@@ -54,9 +54,9 @@ It's more efficient to build proprietary code---social
 networks, marketplaces, locked-in user communities---on open
 source freebies.  But it's more profitable, prevailing
 wisdom says, to deny users of those networks meaningful
-rights to set policy, guide development, or defect.  By
-conventional wisdom, a profitable app or service creates its
-own laity, so it can conspire against it.
+rights to set policy, guide development, or defect.  As
+standard operating procedure, a profitable app or service
+creates its own laity, so it can conspire against it.
 
 But isn't _all_ software these days really open source, or
 heading that way?  After all, proprietary software is ever
