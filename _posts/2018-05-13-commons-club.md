@@ -56,7 +56,7 @@ source freebies.  But it's more profitable, prevailing
 wisdom says, to deny users of those networks meaningful
 rights to set policy, guide development, or defect.  As
 standard operating procedure, a profitable app or service
-creates its own laity, so it can conspire against it.
+creates its own laity to conspire against, for cash.
 
 But isn't _all_ software these days really open source, or
 heading that way?  After all, proprietary software is ever
@@ -74,11 +74,11 @@ least technically speaking.
 But that's a distinction falling conveniently short of a
 user difference.  I can improve [Facebook's front-end
 framework][react], making it easier to develop facebook.com,
-and drawing in more developers Facebook might like to hire
-for the job.  I can optimize [LinkedIn's database][kafka],
-making linkedin.com cheaper to run, and fewer tickets for
-LinkedIn staff to handle.  But Facebook isn't a front-end
-framework, and LinkedIn isn't a database.
+and drawing in more developers Facebook might like to hire.
+I can optimize [LinkedIn's database][kafka], making
+linkedin.com cheaper to run, and fewer tickets for LinkedIn
+staff to handle.  But Facebook isn't a front-end framework,
+and LinkedIn isn't a database.
 
 [react]: https://reactjs.org
 
