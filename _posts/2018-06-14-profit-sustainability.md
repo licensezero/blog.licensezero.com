@@ -1,6 +1,6 @@
 ---
 title: Profit for Us, Sustainability for You
-description: evolving the open source conversation to solve the open source problem
+description: evolving the open source conversation to solve open source inequity
 layout: post
 ---
 
