@@ -14,7 +14,7 @@ layout: post
 >
 > He was willing to share his work with a community that shares software, but saw no reason to give a handout to a business making products that would be off-limits to our community. His goal was different from mine, but he decided that the GNU GPL was useful for his goal too.
 
-[Torvalds says](https://youtu.be/1Mg5_gxNXTo?t=47m20s)
+<a id="torvalds"></a>[Torvalds says](https://youtu.be/1Mg5_gxNXTo?t=47m20s)
 
 > My argument for liking [GPL] version two, and I still think version two is a great license, was that I give you source code, you give me your changes back, we're even.
 >
