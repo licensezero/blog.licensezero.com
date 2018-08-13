@@ -4,17 +4,17 @@ description: from recognition to change for indie open devs
 layout: post
 ---
 
-Good writing on open source inequity gains power speaking truth to hype.  It corroborates the difficult lived experiences of open source developers in ways open source myth and open source theory can't and don't.  But in the end, whether that power motivates any lasting change is down to open source developers.  Not those who write about them.
+Good writing on open source inequity gains power speaking truth to fantasy.  It corroborates the difficult lived experiences of open source developers in ways open source myth and open source theory can't and don't.  But in the end, whether that power motivates any lasting change is down to open source developers.  That's where we are now.
 
 Witness: If making open source is hard on you, that doesn't automatically mean you're weak, crazy, ungrateful, or doing it wrong.  Even when performed exactly as any particular best-practitioner prescribes---you'll have to pick one, since they disagree---open source is unfair to a great many people.  Especially to independent developers.  Perhaps to you.
 
-How did reading that paragraph make you feel? Did it stir your conscience, as a consumer of others' work? Did it embolden you to assert yourself, as an open source developer? Did you read your own specific experiences---abusive comments, lazy patches, no fiscal support, dearth of recognition---into its generalities?
+Did that paragraph stir your conscience, as a consumer of others' work?  Did it embolden you to assert yourself, as an open source developer?  Did you read your own specific experiences---abusive comments, lazy patches, no fiscal support, dearth of recognition---into its generalities?
 
-Good muckraking does that.  Juxtaposing preconception with harsh reality begs reform.  But muckraking doesn't tell anyone what to do next.
+Good muckraking does that.  Clashing preconception with harsh reality begs reform.  But it doesn't tell anyone what to do next.
 
-Some muckrakers do.  Inasmuch, they go beyond reporting, to become activists, entrepreneurs, and theoreticians.  To speak with authority, they have to start from the common place: validating thoughts and feelings you share, by revealing your point of view to a broader audience.  But what comes next, the specific call to action, derives from the proponent's experience, and not necessarily from yours.  It reflects how they see the world, and the tools at their disposal.  It reflects their politics and personal style.  It reflects where they come from, who they know, and where they're comfortable.
+Some reporters become reformers.  They branch out as activists, entrepreneurs, and theoreticians.  To speak with authority, they have to start from the common place: validating thoughts and feelings you share, by revealing your point of view to a broader audience.  But what comes next, the specific call to action, derives from the proponent's experience, and not necessarily from yours.  It reflects how they see the world, and the tools at their disposal.  It reflects their politics and personal style.  It reflects where they come from, who they know, and where they're comfortable.
 
-Consider this blog, and License Zero more generally.  Manifestly unjust experiences, first- and second-hand, motivate this project.  I've sketched some of them, as at the top of [_Mercenary Rapport_](https://blog.licensezero.com/2017/10/16/mercenary-rapport.html).  I could tell many more.  But License Zero reflects not just the open source environment we share, but my specific path through it.
+Consider this blog, and License Zero more generally.  Manifestly unjust experiences, first- and second-hand, motivate this project.  I've sketched some of them, as at the top of [_Mercenary Rapport_](https://blog.licensezero.com/2017/10/16/mercenary-rapport.html).  I could tell many more.  But License Zero doesn't follow inexorably from the open source environment.  It reflects my specific through that environment, as well.
 
 Licensing is a tool I know very well.  Likewise CLIs and minimalist web APIs.  I got my dev legs in indie work and contracting.  Day-to-day, I work with open source companies, independent developers, and startups, selling products and services into larger enterprises and online.  But I keep faith in open collaborative models' ability to challenge traditional firms in key areas.  That ideology brought me into software, when I was yet a child.
 
