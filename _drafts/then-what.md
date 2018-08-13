@@ -30,4 +30,6 @@ Fortunately, open source thrives on diversity and low-stakes wagers. New practic
 
 In the current environment of near universal acclaim for open source consumption, producer-side realism is heresy. Facts permitting, we'd all choose to believe that open source is inherently fair, revolutionary, set apart from industry and commercial concerns. Some facts do not, and those facts irk the faithful.
 
-There is unavoidable drama in any overdue confrontation with reality. Any solution to independent developer compensation will have to rankle twice: once in requiring more of open source consumers, second in addressing a problem most consumers don't see to begin with, or outright deny, on the basis of old myths and theories of open source that accord perfectly well with their own, limited experience.
+There is unavoidable drama waiting there, as in any overdue confrontation with reality. Any approach, like License Zero, will rankle twice: once in addressing a problem most consumers don't see to begin with, or outright deny, on the basis of old myths and theories of open source, once in requiring more of open source consumers. Old myths and theories accord perfectly well with many consumers' limited experiences. Writing and talk about the dark side of open source contribution go directly to that discrepancy. But that story is largely told, for anyone willing to find it.
+
+It's time to talk about what is fair, and not just what isn't.
