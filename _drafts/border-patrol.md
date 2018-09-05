@@ -1,21 +1,22 @@
 ---
 title: Border Patrol
-description: Commons Clause, Lerna, and the open source dead zone
+description: Commons Clause, Lerna, and the open source demilitarized zone
 layout: post
 ---
 
-Two new licensing ideas, two new licensing dramas.  [Commons Clause](https://commonsclause.com) patches existing open source licenses, limiting commercial use and resale.  [Lerna](https://github.com/lerna/lerna/blob/19a7f5d4bd88b9cc50b603adcf171623227ec554/LICENSE) added a preamble to their license to cut out companies contracting for US Immigration and Customs Enforcement, then reverted the change under protest themselves.
+Two new license texts, two new license dramas.  [Commons Clause](https://commonsclause.com) patches existing open source licenses, taking back permission for commercial resale.  [Lerna](https://github.com/lerna/lerna/blob/19a7f5d4bd88b9cc50b603adcf171623227ec554/LICENSE) added a preamble to their license to cut out companies contracting for US Immigration and Customs Enforcement, then reverted, facing a developer protest of their own.
 
-As legal tools, Commons Clause and Lerna-style exclusions fill small niches.  They matter little in the grand scheme.  Many companies fork their own open projects, continuing development as proprietary software.  But relatively few of those continue developing in the open, or want to allow the specific, narrow kind of free, unattended commercial use that Commons Clause permits, the second time.  Corporate bad behavior offends many a conscience.  But relatively few developers will pick that battle in `LICENSE`, or frankly, do anything about it at all.
+As legal tools, Commons Clause and Lerna-style exclusions fill small niches.  They matter little in the grand scheme.  Many companies fork their own open projects, continuing development as proprietary software.  Few of those keep code in the open, or allow the specific, narrow kind of unattended commercial use that Commons Clause allows gratis.  Corporate bad behavior offends many a conscience.  But relatively few developers will pick a battle in `LICENSE`, or frankly, do anything at all.
 
-As episodes of open source politics, however, both Commons Clause and Lerna reveal a great deal.  And what they reveal is deeply disturbing.  Each incident extends two developing trends:
+As episodes of open source politics, however, both Commons Clause and Lerna sagas reveal a great deal.  And what they reveal is deeply disturbing.  Each extends two developing trends:
 
-1. Vocal open source partisans lash out more fervently against new licensing and development approaches that come close to open source orthodoxy than they do against closed and proprietary approaches.  Make proprietary software with open source, the community will honor your choice.  Offer open source terms, but not to everyone, or offer public terms that aren't quite open source, and the pious will flood your social media with scorn.  Many will tell you to go fully closed.
-2. Incorrect legal statements, flawed legal reasoning, and the imputed legal soundness of foundation-blessed policy positions create fear, uncertainty, and doubt in developers without legal support of their own.  Mental and emotional bombardment leaves a false impression of the law that's often exactly wrong, favoring conservatism and conformity.
+1. Vocal open source partisans lash out more fervently against new licensing and development approaches that come close to open source orthodoxy, or against open source approaches different from their own, than they do against closed and proprietary software.  Make proprietary software with open source, the community will honor your choice.  Offer open source terms, but not to everyone, or offer public terms that aren't quite open source, and the pious will flood your social media with scorn, often with orders to go fully closed.
 
-The prime movers behind Commons Clause and the Lerna change  could have done better at minimizing needless drama and confusion.  So much better.  But anyone trying something new in the community, even carefully, should expect heat.  As an attorney, legal misinformation and empty legal threats worry me most.  But the more pressing issue, for anyone attempting to solve urgent open source problems that take the power of licensing, is the insistence on a kind of dead, innovation-free zone around current open source practice.
+2. Incorrect legal statements, flawed legal reasoning, and the imputed legal soundness of foundation-blessed policy positions create fear, uncertainty, and doubt in developers without legal support of their own.  The bombardment leaves an impression of the law that's often exactly wrong, favoring conservatism and conformity.
 
-We should take this opportunity to examine why partisans feel compelled not just to guard the walls of their definitions, but to sortie against anything that comes close.
+The prime movers behind Commons Clause and the Lerna change  could have done better at minimizing needless drama and confusion.  Much better.  But anyone trying something new in the community, even carefully, should expect heat.  As an attorney, legal misinformation and empty legal threats worry me most.  But the more pressing issue, for anyone attempting to solve urgent open source problems that require the power of licensing, is the insistence on a kind of dead, innovation-free zone around current open source practice.
+
+We should take this opportunity to examine why some feel compelled not just to guard the walls of the Open Source Definition or the Free Software Definition, but to sortie outside them, to rout anything that comes close.
 
 # Flatland
 
@@ -28,7 +29,7 @@ proprietary                               open source
 software                                     software
 ```
 
-On that line, we could further subdivide free and open source software into _permissive software_ under terms like MIT, BSD, and Apache, and _copyleft software_ under terms like GPL, MPL, and EPL.  How you order those subtypes depends on your politics.  
+On that line, we could further subdivide open source software into _permissive software_ under terms like MIT, BSD, and Apache, and _copyleft software_ under terms like GPL, MPL, and EPL.  How you order those subtypes depends on your politics.
 
 Software freedom advocates describe copyleft software as not just open, like permissive software, but locked open, in that it can't be put into proprietary software, at least in particular ways.  In their view, additional conditions make copyleft software more open than permissive software:
 
@@ -48,39 +49,40 @@ proprietary                      copyleft  permissive
 software                         software    software
 ```
 
-The one-dimensional view of open source correctly renders this, the classic debate _within_ free and open source software.  But like a cartoon, this one-dimensional view massively oversimplifies, in order to emphasize.  We can make it fail just by asking where to plot _source-available software_: software for which source code is available, but without any permissive or copyleft license.
+The one-dimensional view of open source correctly renders this, the classic debate _within_ free and open source software.  But like a cartoon, this one-dimensional view massively oversimplifies, in order to focus on and emphasize differences within the greater context.  We can make it fail just by asking where to plot _source-available software_: software for which source code is available, but without any permissive or copyleft license.
 
 # Topography
 
-To render source-available software's relationship to permissive, copyleft, and proprietary software, we need both dimensions that affect our ability as programmers to use and reuse software:
+To render source-available software's relationship to permissive, copyleft, and proprietary software, we need _two_ dimensions that affect our ability as programmers to use and reuse software:
 
 1. _availability_ of source in the preferred form for making changes, from completely open to completely closed
+
 2. _permission_ to work with source code available to us, from all-rights-reserved to all-rights-granted
 
 As perpendicular axes:
 
 ```
-                    │source              
-                    │open                
-                    │                    
-    source          │     open           
-    available       │     source         
-    software        │     software       
-                    │                    
+                    │source
+                    │open
+                    │
+    source          │     open
+    available       │     source
+    software        │     software
+                    │
                     │          all rights
                     │             granted
 ────────────────────┼────────────────────
-all rights          │                    
-reserved            │                    
-                    │                    
-    proprietary     │                    
-    software        │                    
-                    │                    
-              source│                    
-              closed│                      
+all rights          │
+reserved            │
+                    │
+    proprietary     │
+    software        │
+                    │
+              source│
+              closed│
 ```
 
-Perpendicular, intersecting lines of availability and permission run like warp and weft through the whole history of software.
+Intersecting lines of availability and permission run like warp and weft through the whole history of software.
 
 Consider RMS' parable of the malfunctioning printer.  RMS is a programmer.  He could have fixed the busted printer's software.  But he never got the chance.  First because he couldn't get the source code.  The manufacturer wouldn't make it available to him.  Second because even if he had got the source code, perhaps by a leak from an employee at the manufacturer, the manufacturer wouldn't have given him permission to fix it, or to share his fix with others.  To fix the printer's software, RMS needed both source and permission to work with it.  Source code without permission wouldn't do, and neither would permission without source code.
 
@@ -90,7 +92,7 @@ We see the same two dimensions in the Open Source Definition, adapted from the D
 
 It isn't enough to use distribution terms, otherwise known as a license, that meets the criteria.  The license has to apply to source code we can get our hands on.
 
-The choice of the term "open source", and attempts to trademark it, run into trouble precisely because "open source" has natural meaning in just one dimension, but tries to cover two.  The phrase "open source software" is plain, common English for software with source that is open, as in available.  "Open" doesn't naturally say anything about permission to modify, distribute, and so on, though that's just as essential.  So activists have spent twenty years repeating over and over that software isn't open source software just because its source is open.
+<!--The choice of the term "open source", and attempts to trademark it, run into trouble precisely because "open source" has natural meaning in just one dimension, but tries to cover two.  The phrase "open source software" is plain, common English for software with source that is open, as in available.  "Open" doesn't naturally say anything about permission to modify, distribute, and so on, though that's just as essential.  So activists have spent twenty years repeating over and over that software isn't open source software just because its source is open.-->
 
 <!--In this, at least, there is progress.  The phrase "free software" also has a common, natural meaning.  But it's in the wrong dimension---price---and free doesn't necessarily describe free software in that dimension.  The _L_ for _libre_ in FLOSS tries to correct this misstep.  Nobody wants to write FLOSARGS for "free/libre or open-source and all-rights-granted software".-->
 
