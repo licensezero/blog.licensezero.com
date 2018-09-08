@@ -127,21 +127,23 @@ There are good reasons for specific companies to dislike even the revised terms,
 
 The point of view one has to take to make this out as a victory has to be narrow and shallow.  Lots of projects are MIT.  Now React is  MIT, too.  But MIT alone is a far inferior to BSD with the `PATENTS` addition as a patent license, which was the problem to begin with.  By taking all this time to fret on its patent terms, Facebook has all but proclaimed they hold patents reading on React.  And perhaps on React's clones, often MIT licensed from folks unlikely to own any patents, but newly popular in the wake of React's licensing drama.
 
-# No Man's Land
+# Spoilers
 
-I began by noting that the reactions to Commons Clause and the Lerna exclusion show that vocal members of the open source community seem to be more comfortable with proprietary software---unavailable source and all rights reserved---than with source-available approaches that come close to open source.  When a project attempts to occupy territory _between_ proprietary and open source as practiced today, it hears either that it should close its source code, or that it should revert to a standard open source license.
+When a project attempts to take a position _between_ proprietary and open source as practiced today, it hears either that it should close its source code, or that it should revert to a standard open source license.  Thus by vote of applause and rotten tomatoes, the wisdom of unsolicited opinion on social media I reviewed held that Redis Labs should continue development of its Redis modules in private, or take down its repositories entirely, and that React and Lerna should revert to unadorned permissive terms.
 
-On social media that I reviewed, by vote of applause and rotten tomatoes, the wisdom of unsolicited opinion seemed to hold that Redis Labs should continue development of its Redis modules in private, or take down its repositories entirely, and that Lerna should revert to unadorned MIT terms.  One in each direction.
+I've done my best to understand the dynamic at play.  As I've read, reread, and debated others, I've kept returning to the idea of the _two-party system_.  The practical effect of social pressure in the community, if it has its way, would be that projects compare what they need and want to the platforms of the pure proprietary model, on the one hand, and to permissive open source, on the other, and pick the one that comes closest, even if both are distant compromises.  Third-party options may suit particular projects better, but in the end, from the point of view of major-party loyalists, they mostly work a spoiler effect on the nearest incumbent.
 
-I've done my best to understand the dynamic at play.  As I've read, reread, and debated others, the concept that's come to work best is the _buffer zone_.  The practical effect of social pressure in the community, if it has its way, would be that projects retreat either to the proprietary stronghold, or to the open source camp, and leave the space between a bare, unsettled DMZ with clear lines of sight from one extreme to the other.  So rather than ignore or shun software under terms that fall outside their community boundaries, activists lower their gates and charge out to meet each one, like an invading army, even if it's just three guys who landed a PR to a repo they'd never heard of.
-
-# Dominoes
-
-When pressed, defenders of the open source realm tend to express explicitly that these innovations pose threats to their community as they understand it.  It's often difficult to get past those assertions, to the why.  The reasons I've heard sound in two recurring themes: _confusion_ and _efficiency_.
+When pressed, open source hardliners tend to express that near innovations pose threats to their community as they know it.  The reasons I've heard sound in two recurring themes: _confusion_ and _efficiency_.
 
 On the infrastructure side, confusion manifests as worry that users who come to open source will have their expectations frustrated, or fall prey to a kind of bait-and-switch.  Among the properly open source code users find through a distribution, repository, source code host, or search platform, they may unwittingly find software they don't have permission to use in their particular way, for their particular business, or for their particular purpose.  Infrastructure-based efficiency concerns lament that even users who become aware these traps exist will have to spend time looking where they step.
 
 On license terms, beyond invocation of the Open Source Definition or the Free Software Definition, confusion concerns sound much as they would from a marketer tending a well known brand.  Experimenters shouldn't be permitted to skim value off the good name of open source.  Experiments shouldn't raise doubts about where the borders of open source or free software fall.  All for the benefit of consumers.  As for efficiency, no consumer wants another license to read.  Even if it says something new, or might enable more developers to make more software available.
+
+# Free Mandate
+
+Confusion-based concerns about near-threats to open source track the two-party spoiler effect metaphor, but efficiency concerns do not.  There is one peculiar sense in which most developers are constrained to act through organizations like foundations, on account of efficiency: producing and interpreting of licenses.  In other words, foundations have the lawyers, and developers don't.
+
+Otherwise, the metaphor fails.  With the of some projects under direct foundation stewardship, developers don't make policy for their projects through foundation intermediaries.  They do themselves.
 
 # Preoccupied Territory
 
