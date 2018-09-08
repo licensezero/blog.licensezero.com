@@ -1,26 +1,18 @@
----
-title: Border Patrol
-description: Commons Clause, Lerna, and the software demilitarized zone
-layout: post
----
+React, Redis Labs, and Lerna.  Three license experiments, and three license spats, in less than one year.  In each case, much drama ensued.  And in each case, the thrust of angry partisan protest wasn't just that these new approaches weren't free or open source, but that they shouldn't exist at all.  Implicitly, that they posed a threat, and a serious, even systemic threat, to software.  Somehow.
 
-Two new license texts, two new license dramas.  [Commons Clause](https://commonsclause.com) patches existing open source terms, taking back permission for commercial resale.  [Lerna](https://github.com/lerna/lerna/blob/19a7f5d4bd88b9cc50b603adcf171623227ec554/LICENSE) added a preamble to their license to cut out companies contracting for US Immigration and Customs Enforcement, then reverted, facing a developer protest of their own.
+Facebook put a `PATENTS` grant next to its BSD license for React.  Redis Labs patched its licenses to pull back the right to resell new work, going forward.  Lerna tacked a preamble onto MIT to exclude companies collaborating with U.S. Immigration and Customs Enforcement.  These were niche license changes.  Few other developers will want them.  And they will matter little, if at all, in the grand scheme.  But they were attacked as if they mattered.
 
-As legal tools, Commons Clause and Lerna-style exclusions fill small niches.  They matter little in the grand scheme.  Many companies fork their own open projects, continuing development as proprietary software.  Few of those keep code in the open, or allow the specific, narrow kind of unattended commercial use that Commons Clause permits, gratis.  Corporate behavior offends many a conscience.  But relatively few developers pick a battle in `LICENSE`, or frankly, do anything at all.
+Vocal free and open source software partisans aren't just policing the self-declared borders of their communities, taking an occasional mission trips abroad.  They're launching preemptive sorties into nearby territory, to preserve a kind of buffer zone around existing open source practice and infrastructure.  A buffer zone of license and development-practice choices that might very prove a sustainable home for projects.
 
-As episodes of open source politics, however, both Commons Clause and Lerna reveal a great deal.  And what they reveal is deeply disturbing for anyone who sees not just the promise, but the problems of open source today.  Each episode adds a new dot on two long-developing trend lines:
+As an attorney, I'm troubled most by the use of baseless legal fear, uncertainty, and doubt to pressure those who dare to experiment within their rights.  But that is a matter of tactics, incidental to the policy.  We are working in a new open source world, where two extremes---market-optimized "closed" on the one hand, and a socially-policed "open" on the other---stand in staunch alliance.  That alliance of practice serves its constituent-practitioners well.  So does a policy of forcing other software, not so well, into one camp or the other.
 
-1. Vocal open source partisans lash out more fervently against new licensing and development approaches that come close to open source orthodoxy than they do against closed and proprietary software.  Offer open source terms, but not to everyone, or offer public terms for public code that aren't quite open source as consumers expect, and the pious will flood your social media with scorn.  Some will demand that you take your code fully closed.
+If you lose under the status quo, and don't fancy joining up with one of the winners, the effect of this policy is to take the power of licensing out of your hands.  Whether you want fair compensation, recognition, freedom for users, or to express heartfelt beliefs past what is and isn't good software, you will have to fight Goliath without your sling.  That's the new rule these policing efforts seek to enforce, in practice.
 
-2. Incorrect legal statements, flawed legal reasoning, and the imputed legal soundness of foundation-blessed policy positions create fear, uncertainty, and doubt in developers without legal support of their own.  Bombardment leaves an impression of the law that's often exactly wrong.
+We ought to recognize this change, our right to reject it as illegitimate, and our ability to call the bluff behind it.  We ought to understand the insecurities that underly it in the first place.  And through that, how to respond.
 
-The prime movers behind Commons Clause and the Lerna change could have done better at minimizing needless drama and confusion.  Much better.  But anyone trying something new in the community, even carefully, should expect heat.  As an attorney, legal misinformation and empty legal threats worry me most.  But the more pressing issue, for anyone attempting to solve open source problems that require licensing power, is the insistence on a kind of dead, innovation-free zone around current open source practice.
+# Spectrum
 
-We should examine why some feel compelled not just to guard the walls of the Open Source or Free Software Definition, but to sortie outside them, routing anything that comes close.  We should understand the insecurity behind such preemptive attack.
-
-# Flatland
-
-We often speak of software in terms of _open_ or _closed_, as if all software lay along one straight line:
+We often speak in terms of _open_ or _closed_, as if all software lay along one straight line:
 
 ```
 closed                                           open
@@ -31,7 +23,7 @@ software                                     software
 
 On that line, we could split open source into _permissive software_ under terms like MIT, BSD, and Apache, and _copyleft software_ under terms like GPL, MPL, and EPL.  Where to plot them depends on your politics.
 
-Software freedom advocates describe copyleft software as not only open, like permissive software, but locked open, in that it can't be put into proprietary software.  In their view, the additional license conditions make copyleft software the more open:
+Software freedom advocates describe copyleft software as not only open, like permissive software, but locked open, unable to be put in proprietary software.  In their view, these additional license rules make copyleft the more open:
 
 ```
 closed                                           open
@@ -40,7 +32,7 @@ proprietary                    permissive    copyleft
 software                         software    software
 ```
 
-Conversely, permissive-license advocates, sometimes called the BSD school, see the share-alike conditions of copyleft licenses as restrictions on what can be done with the software.  Since permissive software comes with fewer restrictions, permissive software is the more open:
+Conversely, permissive-license advocates, sometimes called the BSD school, see the share-alike rules of copyleft licenses as restrictions on what can be done with the software.  Permissive software comes with fewer rules, and that makes permissive the more open:
 
 ```
 closed                                           open
@@ -49,17 +41,16 @@ proprietary                      copyleft  permissive
 software                         software    software
 ```
 
-The one-dimensional view of open source correctly renders this, the classic debate _within_ free and open source software.  But like a cartoon, this one-dimensional view massively oversimplifies, in order to emphasize differences.  We start to reveal what the one-dimensional view hides by asking where to plot _source-available software_: software for which source code is available, but without any permissive or copyleft license attached.
+The one-dimensional view of open source correctly renders this, the classic debate _within_ free and open source software.  But like a cartoon, this one-dimensional view oversimplifies to emphasize differences.  We start to reveal what this one-dimensional view hides by asking where to put _source-available software_: software for which source code is available, but without any permissive or copyleft license.
 
-In terms of whether we can find source code, open source software and source-available software are they same.  In terms of the permission we have to work with the software, proprietary software and source-available software are the same.  That puts source-available software somewhere between proprietary and open source, but for two different reasons.
+In terms of whether we can find source code, open source software and source-available software are in the same family.  In terms of the permission we have to work with the software, proprietary software and source-available software are in the same family.  That puts source-available software somewhere between proprietary and open source, but for two different reasons.
 
-# Topography
+# Compass
 
-To render source-available software's relationship to permissive, copyleft, and proprietary software, we need _two_ dimensions that affect programmers' ability to work with software:
+To render source-available software's relationship to permissive, copyleft, and proprietary software faithfully, we need _two_ dimensions that affect programmers' ability to work with software:
 
 1. _availability_ of source in the preferred form for making changes, from completely open to completely closed
-
-2. _permission_ to work with source code available to us, from all-rights-reserved to all-rights-granted
+2. _permission_ to work with source code available to us, from all-rights-reserved to public-domain
 
 As perpendicular axes:
 
@@ -71,20 +62,20 @@ As perpendicular axes:
     available       │     source
     software        │     software
                     │
-                    │          all rights
-                    │             granted
+                    │              public
+                    │              domain
 ────────────────────┼────────────────────
 all rights          │
 reserved            │
                     │
-    proprietary     │
-    software        │
+    proprietary     │     terra
+    software        │     incognita
                     │
               source│
               closed│
 ```
 
-These intersecting lines of availability and permission run like warp and weft through the whole history of the industry.
+These intersecting lines of availability and permission run like warp and weft through the whole history of software.
 
 Consider RMS' parable of the malfunctioning printer.  RMS is a programmer.  He could have fixed the printer's software.  But he never got the chance.  First because he couldn't get the source code.  The manufacturer wouldn't make it available to him.  Second because even if he had got the source code, perhaps by a leak from a sympathetic employee, the manufacturer wouldn't have given him permission to fix it, or to share his fix with others.  To fix the printer's software, RMS needed both source and permission to work with it.  Source code without permission wouldn't do, and neither would permission without source code.
 
@@ -92,37 +83,41 @@ We see the same two dimensions in the Open Source Definition, adapted from the D
 
 > Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria: ...
 
-It isn't enough to use distribution terms, otherwise known as a license, to meet the criteria.  The license has to apply to source code we can actually get our hands on.
+It isn't enough to use distribution terms, otherwise known as a license, to meet the criteria.  The license has to apply to source code Debian can actually get its hands on.
 
-# Terra Cognita
+# Third Parties
 
-Commons Clause and the Lerna exclusion, as well as the public licenses for License Zero, [Parity](https://licensezero.com/licenses/parity) and [Prosperity](https://licensezero.com/licenses/prosperity), demonstrate that developers can vary availability and permission for their software independently.  There's no rule that if you make your source available, you have give everybody every permission to work with it.
+Commons Clause and the Lerna exclusion, as well as [Parity](https://licensezero.com/licenses/parity) and [Prosperity](https://licensezero.com/licenses/prosperity), the public licenses for License Zero, demonstrate that developers can vary availability and permission for their software independently.  There's no rule that if you make your source available, you have to give everybody every permission to work with it.  You withhold some or all permission to work with your code.
 
-As specific examples, these new approaches challenge the one-dimensional view of software, like the category of source-available software more generally.   That challenge can feel very present and real, since each of these new licensing tools is designed to apply to fully available source code, published and shared on the same platforms, and with the same tools, as open source.  For those who hold the one-dimensional model near and dear, the challenge is both theoretical and very practical.  This stuff exists, and it's on GitHub.
+As specific examples, these new approaches challenge the one-dimensional view of software, like the category of source-available software more generally.   That challenge can feel very present and real, since each of these new licensing tools is designed to apply to fully available source code, published and shared on the same platforms, and with the same tools, as permissive open source.  For those who hold the one-dimensional model near and dear, the challenge is both theoretical and very practical.  This stuff exists, it's on GitHub, and just because the developers haven't got around to picking a license from the blessed list.
 
 Commons Clause and Prosperity depart from open source orthodoxy by restricting certain kinds of commercial use.  In that, they serve the same roles as the noncommercial licenses long offered by Creative Commons, which publishes a full spectrum of public license choices for other kinds of creative work, including permissive- and copyleft-style options.  There are many, many creative works online under noncommercial Creative Commons licenses.  But software developers don't readily mix software under licenses with commercial use limits and open source in projects they publish.
 
 Discriminatory license terms, like the Lerna exclusion, receive the same treatment.  Free and open source licenses have often imposed conditions that discriminate in a practical way against proprietary software developers.  But the community as a whole has not accepted terms that deny permission to specific people, companies, governments, or organizations, or categories of them.  Intellectual property laws, like copyright laws and patent laws, give developers the legal power to do so.  But popular public licenses for software, as a rule, haven't exercised that power.
 
-Parity differs from Commons Clause, the Lerna exclusion, and Prosperity by extending a well established and broadly accepted kind of open source licensing term: copyleft conditions, which require developers who change or build on software to share their own source code on similarly generous terms.  Parity was written specifically to be an open source software license, but to go further than any open source license had gone before, demanding that developers share more code in more situations.  In other words, to update copyleft, extending it to a logical extreme.
+Parity differs from Commons Clause, the Lerna exclusion, and Prosperity by extending a well established and broadly accepted kind of open source licensing term: copyleft conditions, which require developers who change or build with software to share their own work on similarly generous terms.  Parity was written specifically to be an open source software license, but to go further than any open source license had gone before, demanding that developers contribute more code in more situations.  In other words, to make copyleft as strong as it could possibly be.
 
 From the permissive or BSD point of view, that would make Parity the least open open-source-style license ever written.  Conversely, from the software freedom or GPL point of view, Parity's thrust could make it more open even than AGPL, by locking code open against more kinds of proprietary closure.
 
-As it happens, some free software advocates reject Parity, but not because it wants to be extreme.  Parity requires contributing code back even if that code was written for private use, and not shared.  The Open Source Initiative has approved licenses that require contributing back private changes, but The Free Software Foundation has rejected such licenses as "non-free".
+# Constituencies
 
-From the FSF point of view, as I'm able to understand it, forcing contribution of private changes disqualifies a license categorically, like explicit commercial use limits or discrimination.  That means the FSF's categorical exclusions, best I can tell, prevent it from ever approving any license that would effectively implement "free for open source" for developer tools projects, as distinct from libraries and frameworks.  If I could write a license that closes the developer-tools loophole _and_ meets FSF's criteria, I would.
+As it happens, some free software advocates reject Parity, but not usually because of its goal.  Parity requires contributing code back even if that code was written for private use, and not shared.  The Open Source Initiative has approved licenses that require contributing back private changes, but The Free Software Foundation rejected those licenses as "non-free".
 
-# Istanbul, Constantinople
+From the FSF point of view, forcing contribution of private changes disqualifies a license categorically, like explicit commercial use limits or discrimination.  Best I can tell, that means the FSF's categorical exclusions prevent it from approving any license that would effectively implement "free for use in free software" for developer tools projects, as distinct from libraries and frameworks.  If I could write a license that closes the developer-tools loophole _and_ meets FSF's criteria, I would.
 
-It's important to look at new license experiments soberly, and to appreciate the sins, however esoteric or minor, for which they can be condemned by informed members of the community.  But recent history also teaches that the community's instinct to bite a novel license comes first, and the hunt for reasons only later.
+Prosperity, License Zero's noncommercial public license, fills a similar gap.  Like Parity, addresses projects that produce a complete, standalone application or plug-in, rather than a library, framework, or other component.  But "free for free software" doesn't make much sense when that standalone application isn't for creating software, such as a word processor or chat program.  If the developer wants a license to drive demand for paid licenses to support their work, the most direct approach is withholding permission to use.  Prosperity allows them to do so, while continuing to offer free use to non-commercial users, much as many proprietary software companies with free or low-cost educational and non-profit licensing programs do.
 
-Facebook's `PATENTS` file for React tacked terms onto a three-clause BSD license, much as Commons Clause tacks terms onto any standard license, and the Lerna team tacked terms onto MIT.  The part of Facebook's `PATENTS` file that offended some concerned defensive termination, a common open source license term that takes away your license if you sue others under patents.  In the end, Facebook combined an approach to defensive termination previously known and accepted as valid in open source, but in a new looking way.  That was enough for pitchfork and torches.
+Commons Clause fills a similar niche, with a slightly different twist.  Rather than withhold permission to use commercially, Commons Clause withholds permission to charge _sell_ commercially.  Users can still use for commercial purposes in house, within their own organizations.  That distinction allows customers to download, install, and demo the software for themselves, without any additional permission, while withholding the right to sell licenses to use in services provided to others, be they full applications, like web apps, or software-as-a-service offerings.  If the program is, say, a video compression program, users can download and use it internally for free, but need to buy another license from the developer to use in the video hosting service they offer online, or to offer video encoding as an API to other software businesses.
 
-Defensive termination terms in open source licenses vary, both in how much license they take away, and when they're triggered.  Some disliked that Facebook's original defensive termination provision triggered on any legal claim trying to invalidate a Facebook patent, and applied even if Facebook sued you under patents first.  In a rare show of legal responsiveness, Facebook actually updated their `PATENTS` file to address and clarify the trigger.  They took community feedback on their new terms.
+# Party Discipline
 
-There are good reasons for specific companies to dislike even the revised terms, but not good reasons to condemn them as outside open source practice.  Terms to much the same effect have long been approved both by Open Source Initiative and by the Free Software Foundation, as in the Common Public License written by IBM.  Furor came all the same.  OSI approved a variant of the BSD license---there are many---with Apache-style patent language bolted on, offering Facebook a chance to kiss the OSI ring for absolution.  Community commentators, for their part, preferred MIT, a dusty, old, but exceedingly popular form that never even says the word "patent".  And they got it.  Uniformity prevailed over substance, twice.
+Commons Clause and Lerna each varied from orthodox open source in ways that took them outside old definitions.  But recent history also teaches that the instinct to bite a novel license comes first, and justifying indictments come later.  Facebook attempted nothing particularly new with React, but went about it in a novel way.  The of nonconformity was enough for pitchforks and torches.
 
-# Buffer Zones
+The part of Facebook's `PATENTS` file that offended some implemented _defensive termination_, a common open source license term that takes away your free permission for the software if you sue others under patents.  Defensive termination terms in open source licenses vary, both in how much license they take away, and when they're triggered.  Some disliked that Facebook's original defensive termination provision triggered on any legal claim trying to invalidate a Facebook patent, and applied even if Facebook sued you under patents first.  In a rare show of responsiveness by a large corporation to legal comments on the Internet, Facebook actually updated their `PATENTS` file to address and clarify the trigger.  They took community feedback on their new terms.
+
+There are good reasons for specific companies to dislike even the revised terms, but not good reasons to condemn them as past the pale.  Terms to much the same effect have long been approved both by Open Source Initiative and by the Free Software Foundation, as in IBM's Common Public License.  Furor came all the same.  In the interim, OSI approved a variant of the BSD license---there are many---with Apache-style patent language bolted on, offering Facebook a chance to kiss the OSI ring.  Community commentators, for their part, preferred MIT, a dusty, old, but exceedingly popular form that never even says the word "patent".  And they got MIT.  Uniformity prevailed over substance, twice.
+
+# No Man's Land
 
 I began by noting that the reactions to Commons Clause and the Lerna exclusion show that vocal members of the open source community seem to be more comfortable with proprietary software---unavailable source and all rights reserved---than with source-available approaches that come close to open source.  When a project attempts to occupy territory _between_ proprietary and open source as practiced today, it hears either that it should close its source code, or that it should revert to a standard open source license.
 
