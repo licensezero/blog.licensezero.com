@@ -1,18 +1,23 @@
+---
+title: Border Patrol
+layout: post
+---
+
 React, Redis Labs, and Lerna.  Three license experiments, and three license spats, in less than one year.  In each case, much drama ensued.  And in each case, the thrust of angry partisan protest wasn't just that these new approaches weren't free or open source, but that they shouldn't exist at all.  Implicitly, that they posed a threat, and a serious, even systemic threat, to software.  Somehow.
 
-Facebook put a `PATENTS` grant next to its BSD license for React.  Redis Labs patched its licenses to pull back the right to resell new work, going forward.  Lerna tacked a preamble onto MIT to exclude companies collaborating with U.S. Immigration and Customs Enforcement.  These were niche license changes.  Few other developers will want them.  And they will matter little, if at all, in the grand scheme.  But they were attacked as if they mattered.
+Facebook put a `PATENTS` grant next to its BSD license for React.  Redis Labs patched its licenses to pull back the right to resell new work, going forward.  Lerna tacked a preamble onto MIT to exclude companies collaborating with U.S. Immigration and Customs Enforcement.  These were niche license changes.  Few other developers will want them.  And they will matter little, if at all, in the grand scheme.  But they were condemned like they mattered.  Facebook downgraded to MIT.  Lerna reverted its changes.
 
-Vocal free and open source software partisans aren't just policing the self-declared borders of their communities, taking an occasional mission trips abroad.  They're launching preemptive sorties into nearby territory, to preserve a kind of buffer zone around existing open source practice and infrastructure.  A buffer zone of license and development-practice choices that might very prove a sustainable home for projects.
+Vocal free and open source software partisans aren't just policing the self-declared borders of their communities, taking occasional mission trips abroad.  They're launching preemptive sorties into nearby territory, to preserve a kind of buffer zone around existing open source practice and infrastructure.  A buffer zone of license and development-practice choices that other members of the community are simultaneously exploring for solutions to problems current open source orthodoxy can't convincingly address.
 
-As an attorney, I'm troubled most by the use of baseless legal fear, uncertainty, and doubt to pressure those who dare to experiment within their rights.  But that is a matter of tactics, incidental to the policy.  We are working in a new open source world, where two extremes---market-optimized "closed" on the one hand, and a socially-policed "open" on the other---stand in staunch alliance.  That alliance of practice serves its constituent-practitioners well.  So does a policy of forcing other software, not so well, into one camp or the other.
+As a lawyer, I'm troubled most by the use of legal fear, uncertainty, and doubt to cow those experimenting with their rights.  But that is a matter of tactics, incidental to the strategy.  We are working in a new open source world, where two extremes---market-optimized "closed" on the one hand, and a socially-policed "open" on the other---stand in unequal, but mutually supportive, alliance.  That alliance of practice serves its practitioners well.  So does a policy of forcing others, not served so well, into one camp or the other.  We see that policy in action in calls for projects publishing all their source code, but holding some license permission back, to go ahead and close their source code, to fit the mold.
 
-If you lose under the status quo, and don't fancy joining up with one of the winners, the effect of this policy is to take the power of licensing out of your hands.  Whether you want fair compensation, recognition, freedom for users, or to express heartfelt beliefs past what is and isn't good software, you will have to fight Goliath without your sling.  That's the new rule these policing efforts seek to enforce, in practice.
+If you lose under the status quo, and don't fancy joining up with one of the big winners, the effect of this policy is to take the great equalizing power of licensing out of your hands.  Whether you want fair compensation, recognition, freedom for users, or to express heartfelt beliefs past what is and isn't good engineering, you will have to fight Goliath without your sling.  That's the new rule social sanction seeks seek to enforce, in practice.
 
-We ought to recognize this change, our right to reject it as illegitimate, and our ability to call the bluff behind it.  We ought to understand the insecurities that underly it in the first place.  And through that, how to respond.
+We ought to recognize this move, the limits of its legitimacy, and the lack of coercive muscle behind it.  We ought to understand the insecurities that underlie it in the first place.  When it's time to debate it, we ought to know how.
 
 # Spectrum
 
-We often speak in terms of _open_ or _closed_, as if all software lay along one straight line:
+Arguably, the seeds of spontaneous, distributed open source discipline take root in the very way we speak and think about open source.  Open source community members often speak in terms of _open_ or _closed_, as if all software lay along one straight line:
 
 ```
 closed                                           open
@@ -41,16 +46,17 @@ proprietary                      copyleft  permissive
 software                         software    software
 ```
 
-The one-dimensional view of open source correctly renders this, the classic debate _within_ free and open source software.  But like a cartoon, this one-dimensional view oversimplifies to emphasize differences.  We start to reveal what this one-dimensional view hides by asking where to put _source-available software_: software for which source code is available, but without any permissive or copyleft license.
+The one-dimensional view of open source correctly renders this, the classic debate _within_ free and open source software.  But like a cartoon, this one-dimensional view oversimplifies to emphasize differences.  We start to reveal what this one-dimensional view hides by asking where to put _source-available software_: software for which source code is available, but under different license terms, not permissive or copyleft.
 
 In terms of whether we can find source code, open source software and source-available software are in the same family.  In terms of the permission we have to work with the software, proprietary software and source-available software are in the same family.  That puts source-available software somewhere between proprietary and open source, but for two different reasons.
 
 # Compass
 
-To render source-available software's relationship to permissive, copyleft, and proprietary software faithfully, we need _two_ dimensions that affect programmers' ability to work with software:
+To render source-available software's relationship to permissive, copyleft, and proprietary software faithfully, we need _two_ dimensions:
 
 1. _availability_ of source in the preferred form for making changes, from completely open to completely closed
-2. _permission_ to work with source code available to us, from all-rights-reserved to public-domain
+
+2. _permission_ to work with source code available to us, from rights-reserved to public-domain
 
 As perpendicular axes:
 
@@ -58,24 +64,24 @@ As perpendicular axes:
                     │source
                     │open
                     │
-    source          │     open
-    available       │     source
-    software        │     software
+         source     │     open
+      available     │     source
+       software     │     software
                     │
                     │              public
                     │              domain
 ────────────────────┼────────────────────
-all rights          │
+rights              │
 reserved            │
                     │
     proprietary     │     terra
-    software        │     incognita
+       software     │     incognita
                     │
               source│
               closed│
 ```
 
-These intersecting lines of availability and permission run like warp and weft through the whole history of software.
+Because these intersecting lines of availability and permission affect programmers' ability to work with software, they run like warp and weft through the whole history of the industry.
 
 Consider RMS' parable of the malfunctioning printer.  RMS is a programmer.  He could have fixed the printer's software.  But he never got the chance.  First because he couldn't get the source code.  The manufacturer wouldn't make it available to him.  Second because even if he had got the source code, perhaps by a leak from a sympathetic employee, the manufacturer wouldn't have given him permission to fix it, or to share his fix with others.  To fix the printer's software, RMS needed both source and permission to work with it.  Source code without permission wouldn't do, and neither would permission without source code.
 
@@ -84,6 +90,8 @@ We see the same two dimensions in the Open Source Definition, adapted from the D
 > Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria: ...
 
 It isn't enough to use distribution terms, otherwise known as a license, to meet the criteria.  The license has to apply to source code Debian can actually get its hands on.
+
+Of course, both dimensions are in full effect with traditional proprietary software, as well.  A software company collects all rights in its products, through intellectual property agreements with employees and contractors.  Those terms also require personnel to keep technology, including source code, secret.  Software only travels from vendor to customer under specific, negotiated license, and then often only in compiled or obfuscated form.  The combination ensures minimum availability and maximum rights reserved, making the vendor the only efficient source for licenses and copies, but also maintenance, improvements, and support.
 
 # Third Parties
 
