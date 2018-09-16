@@ -16,7 +16,7 @@ But do you have the means to get it?
 
 React, Redis, Lerna.  Three license tiffs in less than one year.  Each reaffirming a troubling trend in open source politics: eroding respect for [developers' rights to choose their own terms](https://redmonk.com/sogrady/2018/09/10/tragedy-of-the-commons-clause/).  Eroding respect for the very lever the law gives creative individuals to demand something back from larger interests.  The very lever that made a free software movement possible.  The lever by which "open source" was first defined.
 
-Taking license power out of developers' hands, [telling them to settle for soft power](http://ebb.org/bkuhn/blog/2018/08/30/on-social-justice-software-licensing.html), sets the community police on a conflict course with those solving pressing community problems.  Problems that include financial inequity and the decay of copyleft.  Solutions that include License Zero.
+Taking license power out of developers' hands, [telling them to settle for soft power without precedent](http://ebb.org/bkuhn/blog/2018/08/30/on-social-justice-software-licensing.html), or to beg instead of charge, sets community police on a collision course with those solving pressing community problems.  Problems that include financial inequity and the decay of copyleft.  Solutions that include License Zero.
 
 I'll be frank.  Facebook's `PATENTS` file, Commons Clause, and Lerna-style blacklists don't matter that much, in the grand scheme of things.  They're niche tools, and few others will need or want to use them.  But you wouldn't know that from the reaction.
 
