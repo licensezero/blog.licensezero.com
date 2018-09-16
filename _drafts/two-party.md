@@ -1,6 +1,12 @@
+---
+title: The Two-Party System
+description:
+layout: post
+---
+
 # Overture
 
-Before GitHub, open source, and free software, before even hacks and hackers and hacking as we know them, there has always been a movement demanding something back from the computer industry.  Hackers and hobbyists wanted community.  Academics wanted collaboration.  Craftsmen wanted reputation.  Free software wanted purpose.  Open source, having inherited community, collaboration, reputation, and purpose from prior movements, wanted to keep those things, but also acceptance back into industry.  And got it.
+Before GitHub, open source, and free software, before even hacks and hackers and hacking as we know them, there has always been a movement of enthusiasts demanding something back from the computer industry.  Hackers and hobbyists wanted community.  Academics wanted collaboration.  Craftsmen wanted reputation.  Free software wanted purpose.  Open source, having inherited community, collaboration, reputation, and purpose from prior movements, wanted to keep those things, but also acceptance back into industry.  And got it.
 
 Having met its own definition of success, open source can no longer claim to be a counterculture.  Self-styled opposites---closed, proprietary software on the one hand, open, permissive software on the other---now thrive in self-declared symbiosis, at least for those who came from prior positions of strength.
 
