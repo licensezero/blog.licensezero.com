@@ -1,14 +1,12 @@
 ---
 title: The Two-Party System
-description:
+description: in search of a third way in software licensing
 layout: post
 ---
 
-# Overture
-
 Before GitHub, open source, and free software, before even hacks and hackers and hacking as we know them, there has always been a movement of enthusiasts demanding something back from the computer industry.  Hackers and hobbyists wanted community.  Academics wanted collaboration.  Craftsmen wanted reputation.  Free software wanted purpose.  Open source, having inherited community, collaboration, reputation, and purpose from prior efforts, wanted to keep those things, but also acceptance back into industry.  And got it.
 
-Having met its own definition of success, open source can no longer call itself a counterculture.  Self-styled opposites---closed, proprietary software on the one hand, open, permissive software on the other---now thrive in self-declared symbiosis, at least for those already in positions of strength.
+Having met its own definition of success, open source can no longer call itself a counterculture.  Self-styled opposites---closed, proprietary software on the one hand, open, permissive software on the other---now thrive in self-declared symbiosis, at least for those who came from positions of strength.
 
 If that includes you, these are heady days, with fulfillment aplenty,and money to boot.  If that doesn't include you, you may have good reason, like those before you, to demand something back from the industry, open source now included.  Perhaps accountability for corporate misconduct.  Perhaps respect for users.  Perhaps patches back, or a fair wage.
 
