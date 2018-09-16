@@ -1,6 +1,6 @@
 ---
 title: The Two-Party System
-description: in defense of a third way in software licensing
+description: in defense of the forgotten third way in open software licensing
 layout: post
 ---
 
