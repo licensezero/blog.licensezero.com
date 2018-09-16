@@ -199,7 +199,13 @@ On the license side, we also see accommodation, rather than control.  Standards 
 
 Overall, these developments explain why the greatest source of confusion for new open source community members is often a revelation that a licensed-obsessed definition stewarded by a foundation they've never heard of is supposed to define the movement.  And why open source advocates have spent the last twenty years, and will spend many more, attempting to convince programmers that having source that is open does not make software open source.  All the go-to license choices are older than the new programmers are.  Definitions promise uniformity and predictability, but you're either consuming indiscriminately, spending a lot of time picking through options for one that says "MIT" or "BSD", or using a tool that does it for you.
 
-# Swing Vote
+# Centrism
+
+Short-term, standardized radical-copyleft and source-available licenses could attract projects that might otherwise pick more permissive licenses, for lack of available, better-fitting options.  But long-term, third-way licenses might very well increase both the amount of software in the open, and the amount of permissively licensed software, as well.
+
+It's no longer any kind of secret that choosing maximally permissive terms hobbles a project financially.  Achieving popularity, in part by giving a permissive license, does not guarantee that _any_ of the value produced by the project will flow back to support those best positioned to continue its development.
+
+As a general rule, permissively licensed projects are either subsidized by large corporations for business reasons, or subsidized by individuals, with unpaid time.  Open source is only justifiable as a loss leader if the loss actually leads to a winning offer.  That means products or services that _aren't_ open source development, and compete with it for the time and energy of available developers.  Running both an open source development program and a winning business offering means either balancing the two very carefully, as an individual, or spinning up a firm, to field a team across which to distribute responsibilities.  If you can't or don't want to walk the tightrope alone, you need a path from fledgling product-company to company that can afford to give half its work product away as permissively licensed open source.
 
 <!--Can transition to open source later.-->
 
