@@ -1,5 +1,5 @@
 ---
-title: The Two-Party System
+title: Against the Two-Party System
 description: in defense of the forgotten third way in open software licensing
 layout: post
 ---
