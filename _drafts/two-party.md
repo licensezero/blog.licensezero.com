@@ -72,7 +72,7 @@ proprietary                      copyleft  permissive
 software                         software    software
 ```
 
-These competing one-dimensional views of open source correctly render this, the classic debate _within_ free and open source software.  But like a cartoon, this one-dimensional view oversimplifies to make large of small differences.  We start to reveal what this view hides by asking where to put _source-available software_: software for which source code is available, but under different license terms, not permissive or copyleft.  Here's the model:
+These competing one-dimensional views of open source correctly render the classic debate _within_ free and open source software.  But like a cartoon, this one-dimensional view oversimplifies to make large of small differences.  We start to reveal what this view hides by asking where to put _source-available software_: software for which source code is available, but under different license terms, neither permissive nor copyleft.  Here's the model:
 
 ```
 closed                                           open
@@ -81,14 +81,15 @@ proprietary            source             open source
 software              available              software
 ```
 
-How does source-available software end up in the middle? In terms of whether we can find source code, open source software and source-available software are of a kind: we can.  In terms of the permission we have to work with the software, proprietary software and source-available software are of a kind: there's no permissive or copyleft license.  That puts source-available software somewhere between proprietary and open source, but for two different reasons.  But there's just one line.
+How does source-available software end up in the middle?  In terms of whether we can find source code, open source software and source-available software are of a kind: we can.  In terms of the permission we have to work with the software, proprietary software and source-available software are of a kind: there's no permissive or copyleft license.  That puts source-available software somewhere between proprietary and open source, but for two very different reasons.
 
 # Compass
 
-To render source-available software's relationship to permissive, copyleft, and proprietary software faithfully, we need a dimension to plot for each dimension of difference:
+To render source-available software's relationship to permissive, copyleft, and proprietary software faithfully, a line from _open_ to _closed_ isn't enough.  We need a dimension for each dimension of difference:
 
-1. _availability_ of source in the preferred form for making changes, from completely open to completely closed
-2. _permission_ to work with source code available to us, from all-rights-reserved to public-domain
+1.  _availability_ of source code, from completely open to completely closed
+
+2.  _permission_ to work with source code, from all-rights-reserved to public-domain
 
 As perpendicular axes:
 
@@ -114,7 +115,7 @@ reserved            │
               closed│
 ```
 
-Because these intersecting lines of availability and permission affect programmers' ability to work with software, they run like warp and weft through the whole history of software.
+Because both availability and permission affect our ability to work with software, they run like warp and weft through the whole history of the software industry.
 
 Consider RMS' parable of the malfunctioning printer.  RMS could have fixed the printer's software.  But he never got the chance.  First because he couldn't get the source code.  The manufacturer wouldn't make it available to him.  Second because even if he had got the source somehow, the manufacturer wouldn't have given him permission to fix it, or to share his fix with others.  To fix the printer's software, RMS needed both source and permission to work with it.  Source code without permission wouldn't do, and neither would permission without source code.
 
