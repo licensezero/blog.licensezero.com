@@ -174,7 +174,7 @@ All of those trends sound terrible if you think all software ought to be in the 
 
 Perhaps what I'm missing here is a more complete map of the relationships between freedoms, as the FSF sees them.  With freedoms, there are always exceptions, always balances to be struck.  Sometimes one freedom yields to another, as of a higher priority, in particular circumstances.  We can feel our way around that territory, based on what the FSF has written, and what it has approved.  I don't think the FSF has published a map.
 
-But on the subject of how permissive copyleft licenses should be, the long thread I see running through the FSF's writing isn't principle, but pragmatism.  The watchword here is "strategy".  The FSF has compromised when it feared loss of popularity and attention, the only effective platform from which it can speak loudly through all the noise online.  So it publishes more permissive software than it might, and takes every change to talk free as in freedom over free as in beer.
+But on the subject of how permissive copyleft licenses should be, the long thread I see running through the FSF's writing isn't principle, but pragmatism.  The watchword here is "strategy".  The FSF has compromised when it feared loss of popularity and attention, the only effective platform from which it can speak loudly through all the noise online.  So it publishes more permissive software than it might, and takes every chance to talk free as in freedom over free as in beer.
 
 # Coalition
 
