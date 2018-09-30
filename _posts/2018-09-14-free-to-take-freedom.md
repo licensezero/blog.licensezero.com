@@ -1,6 +1,6 @@
 ---
 title: Free to Take Freedom
-description: Why can't "free for free software" be free software itself?
+description: Why can't free-for-free-software be free software itself?
 layout: post
 ---
 
