@@ -237,7 +237,7 @@ One action may infringe both copyright and patent.  For example, sending a custo
 
 ## Rule 1: Changes
 
-> 1. Contribute source code for changes you make to this software.
+> 1\. Contribute source code for changes you make to this software.
 
 The first copyleft-like rule, comparable in scope to the Lesser GPL and file-based copyleft licenses like the Mozilla Public License.  There are two major differences:
 
@@ -245,28 +245,39 @@ The first copyleft-like rule, comparable in scope to the Lesser GPL and file-bas
 
 2.  Parity's requirement to contribute changes triggers _when you make the change_, without any further requirement to make or distribute a copy to others.
 
+The latter impinges on what the Free Software Foundation calls the right to "private changes".  I've [written about that "fifth freedom", and problems I see with it.](https://blog.licensezero.com/2018/09/14/free-to-take-freedom.html#extra-freedom)  It apparently extends not just to changes for personal use, but changes made and disseminated throughout an organization, such as a company.
+
+Private changes are an obvious difference of principle between the Open Source Initiative and the Free Software Foundation.  OSI has approved several licenses that require sharing of private changes.  The FSF rejects those licenses as "nonfree".  I've brought this up recently to OSI, and received no indication that OSI and FSF are set to reconcile on it.
+
+All that aside, Parity crosses the line for several reasons:
+
+1.  By all the evidence I'm aware of, it's legally possible, and the purpose of Parity is to require contribution back of as much software as possible.
+
+2.  It's never been cheaper or easier to comply.
+
+3.  Requiring contribution of changes without any further requirement to trigger, like providing the changed software as a service over a network, reliably closes the ASP loophole, also known as the SaaS loophole, for changed versions.  There's no need to define or describe any additional concept for that trigger, like "Remote Network Interaction" under AGPLv3 or "External Deployment" under OSL 3.0.
+
+    Furthermore, if the original contributor publishes their source code, there is no loophole to close for unchanged versions of the project, to begin with.  That source is already available, and available to all on demand.
+
 ## Rule 2: Incorporating Software
 
-> 2. If you run or combine this software with other software in any
->    larger program, contribute all source code for that program.
+> 2\. If you run or combine this software with other software in any larger program, contribute all source code for that program.
+
+The second copyleft-like rule, paralleling stronger copyleft licenses like the GPLs.  Prior strong-copyleft licenses also speak in terms of "larger programs".
+
+Again, Parity doesn't add any additional requirement of "conveying" or distributing to others.  And very arguably, it doesn't need to, legally.  Ten- and twenty-year-old assumptions about the limits of what counts as a "derivative work" under copyright are foundering on decisions like Oracle v. Google.  The legal and policy trend is clearly toward a _broader_ definition of derivative work, and therefore more power to control works that build on existing material.
 
 ## Rule 3: Developed Software
 
-> 3. Contribute all source code for software you develop, deploy,
->    monitor, or run with this software.
+> 3\. Contribute all source code for software you develop, deploy, monitor, or run with this software.
 
 ## <a id="rule-4"></a>Rule 4: Notices
 
-> 4. Ensure everyone who gets a copy of this software from you,
->    in source code or any other form, gets the text of this
->    license and the copyright and source notices above.
+> 4\. Ensure everyone who gets a copy of this software from you, in source code or any other form, gets the text of this license and the copyright and source notices above.
 
 ## Rule 5: Defensive Termination
 
-> 5. Do not make any legal claim against anyone for infringing
->    any patent claim they would infringe by using this software
->    alone, accusing this software, with or without changes,
->    alone or as part of a larger program.
+> 5\. Do not make any legal claim against anyone for infringing any patent claim they would infringe by using this software alone, accusing this software, with or without changes, alone or as part of a larger program.
 
 ## <a id="contribution"></a>Contribution Requirements
 
