@@ -275,6 +275,8 @@ Again, Parity doesn't add any additional requirement of "conveying" or distribut
 
 > 4\. Ensure everyone who gets a copy of this software from you, in source code or any other form, gets the text of this license and the copyright and source notices above.
 
+A classic attribution requirement.  Akin to what we see in MIT-family terms, or in points 1 and 2 of BSD-family terms.
+
 ## Rule 5: Defensive Termination
 
 > 5\. Do not make any legal claim against anyone for infringing any patent claim they would infringe by using this software alone, accusing this software, with or without changes, alone or as part of a larger program.
