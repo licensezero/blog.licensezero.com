@@ -239,6 +239,12 @@ One action may infringe both copyright and patent.  For example, sending a custo
 
 > 1. Contribute source code for changes you make to this software.
 
+The first copyleft-like rule, comparable in scope to the Lesser GPL and file-based copyleft licenses like the Mozilla Public License.  There are two major differences:
+
+1.  Parity's [instructions for contribution](#contribution) require licensing and _publication_ of source, not licensing and providing source specifically to users.  The requirement of which license terms to use also differs, which we'll get to in comments to the instructions.
+
+2.  Parity's requirement to contribute changes triggers _when you make the change_, without any further requirement to make or distribute a copy to others.
+
 ## Rule 2: Incorporating Software
 
 > 2. If you run or combine this software with other software in any
@@ -262,13 +268,9 @@ One action may infringe both copyright and patent.  For example, sending a custo
 >    alone, accusing this software, with or without changes,
 >    alone or as part of a larger program.
 
-## Contribution Requirements
+## <a id="contribution"></a>Contribution Requirements
 
-> To contribute source code, publish the preferred form for making
-> changes through a freely accessible distribution system widely
-> used for similar source code, and license contributions not
-> already licensed to the public on terms as permissive as this
-> license accordingly.
+> To contribute source code, publish the preferred form for making changes through a freely accessible distribution system widely used for similar source code, and license contributions not already licensed to the public on terms as permissive as this license accordingly.
 
 ## Excuse
 
