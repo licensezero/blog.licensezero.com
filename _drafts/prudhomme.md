@@ -1,5 +1,5 @@
 ---
-title: The Righteous Artificers
+title: The Upright Artificer
 description: silent prudhommes of the software guild
 layout: post
 ---
@@ -16,13 +16,11 @@ layout: post
 
 ---
 
-The storied old parties of open software love to tell half-true lies about each other.
+The old parties of open software love to tell half-true lies about each other.
 
 The Free Software Party says Open Source strips Free Software of its values, sucking up to the nonfree software industry with promises of practical moneymaking benefits, for cash and acclaim.
 
 The Open Source Party says Free Software isn't really any different from Open Source, but preached too much fire and brimstone, missed the rebrand, and lost out.
-
-<!--You'll hear variations on these points repeatedly from each side.  But you won't hear Free Software partisans pushing the Open Source line, or Open Source partisans pushing the Fee Software line.-->
 
 You don't have to toe either line.  And you can still have plenty to say about the broader importance of software in the modern world.
 
@@ -44,8 +42,17 @@ Name a community institution speaking up for developers of open software against
 
 # Both-Either
 
-I know more than a few righteous artificers.  Many stay apprised of serious politics, and know their way around a collective action problem.  What accounts for their lack of representation?
+I know more than a few idealistic software artificers.  Many stay apprised of serious politics, and know their way around a collective action problem.  What accounts for their lack of representation?
 
-Those who believe good software is _right_, bad software is _wrong_, and open makes software better can get recognition for a bit of their worldview from each incumbent party.  From Free Software they can take confirmation for a moral dissatisfaction with nonfree software, and a desire to compete with and replace it.  With Open Source they can share emphasis on quality and process, and respect for software's role as a tool or means to real-world ends.  Those bits, taken together, corroborate something close to the whole artificer position.
+Those who believe good software is _right_, that bad software is _wrong_, and that open makes software better can get recognition for a bit of their view from each incumbent party.  From Free Software they can take confirmation for a moral dissatisfaction with nonfree software, and a desire to compete with and replace it.  With Open Source they can share emphasis on quality and process, and respect for software's role as a tool or means to real-world ends.  Those bits, taken together, corroborate something close to the whole outlook.
 
-The trouble is they do not come together.  They coincide with other views artificers don't hold.  The artificer therefore learns to subsist on half-measures: the right tool, optimized for the wrong purpose, inevitably ill-suited in particular circumstances.  Some artificers use copyleft licenses like GPL to keep their work open, even though those licenses [preach lots they don't believe in](https://www.gnu.org/licenses/gpl-3.0.en.html#preamble), and [work only half well for getting patches back](https://writing.kemitchell.com/2018/08/28/Unhappy-Coincidences.html#software-freedom-doesnt-mean-patches-back).  Some artificers use pared-down permissive licenses to avoid the hassle of GPL compliance, 
+Trouble is, they don't come as a package.  They coincide with other views artificers don't hold.  The artificer therefore learns to subsist on half-measures: the right tool or decision, optimized for a different purpose, inevitably ill-suited in particular circumstances.  Some use copyleft licenses like GPL to keep their work open, even though those licenses [preach lots they don't believe in](https://www.gnu.org/licenses/gpl-3.0.en.html#preamble), [work only half well for getting patches back](https://writing.kemitchell.com/2018/08/28/Unhappy-Coincidences.html#software-freedom-doesnt-mean-patches-back), and [come deliberately crippled with loopholes](https://blog.licensezero.com/2018/09/14/free-to-take-freedom.html).  Some artificers use pared-down permissive licenses to avoid the hassle of GPL compliance, [shooting their companies in the feet]() and [empowering uses they find morally repugnant for reasons far less esoteric than software freedom](https://github.com/lerna/lerna/pull/1616).  It's fairly easy to see in license terms, since they're well documented.  But the same plays out in myriad ways.
+
+# Unsettled
+
+There's no reason the artificer outlook ought to settle for scraps off other parties' tables.  The artificer view is consistent, and compelling, on its own.  In fact, it responds better and more clearly to many pressing issues in software.
+
+For years, the popular press has gushed stories about surveillance, invasion of privacy, and the scurrilous practices of data- and ad-based software businesses.  Unlike Open Source, the artificer criticizes those companies from a position of principle.  Software can and should be built to afford control and protection of personal data.  Unlike Free Software, the artificer can criticize in the same terms that offended users employ.  Proprietary social networks are _broken_ insofar as they abuse users and squander what trust they're given, by poor design and insecure practice.  There's no call to drive the conversation away from privacy toward a jargon-leaden, highly abstract notion of software freedom, and then back into privacy by exhorting auntie to learn Unix and patch her social network.
+
+For years, both Free Software and Open Source have extolled the power of programmers working on problems that call to them, rather than problems to which they're assigned.
+
