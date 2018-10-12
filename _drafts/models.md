@@ -38,7 +38,7 @@ We can chart a course through those choices by going back to what end users need
 2. _Distribution_:  Software that's been written, but not shared, isn't much use to anyone else.
 3. _Permission_:  Even if the software's been written, and even if you happen on a copy or other access, you face legal trouble for using without a license.
 
-Each of these is _necessary_, but not alone _sufficient_.  Users need all three.
+Each of these is _necessary_, but not alone _sufficient_.  Users need all three at scale.
 
 Developers can meet each of these needs _completely_ or _partially_. They can also meet them at different times.  Let's simplify to _before payment_ and _after payment_.  So developers can implement software before they get paid, or after payment.  They can do half an implementation before they get paid, and half after.  They can give no permission or limited permission before they get paid, and complete permission after.
 
@@ -50,7 +50,9 @@ But of course permission isn't the only dimension in which an open source busine
 
 Selling implementation of software that you will distribute with broad permission is paid open source development.  Rather than writing a bunch of code, distributing it, and then figuring out how to charge for it, you charge first, then develop and deliver.
 
-It's very possible, and indeed common, to combine implementation- and permission-based models.  Sign a contract for paid open source development.  Make sure you retain ownership of intellectual property in your work, especially copyright, and commit to release on the terms of an open-only license, like AGPL.  Charge a premium for the development work, since for most end-users, you won't have another opportunity to get paid for the same work.  But add two notes to the licensing information for your project. First, mention that you'll entertain offers to dual license existing work on more permissive terms.  Second, mention that you'll happily do paid contract work to develop the project further, on the same kind of terms you used before.
+It's very possible, and indeed common, to combine implementation- and permission-based models.  Sign a contract for paid open source development.  Make sure you retain ownership of intellectual property in your work, especially copyright, and commit to release on the terms of an open-only license, like AGPL.  Charge a premium for the development work, since for most end-users, you won't have another opportunity to get paid for the same work.  But mention in your license notice that you'll entertain offers to dual license existing work on more permissive terms.
+
+If there's work still to do, you can also mention that you'll happily do paid contract work to develop the project further, on the same kind of terms you used before.  If you'd already implemented that software, and sold it as proprietary software, you'd be running the _Open Core_ model, with the proprietary add-ons as the "Closed Shell".  Instead you're sticking to a pure open source model, by moving implementation after payment.  
 
 Alternatively, implement software for which you think there will be demand, without a business deal in place.  This entails a bit of speculation on your part, both in what you think is worth making, and also in the time you take to make it.  Distribute this software under open-only terms.  But also offer to relicense some or all of your work on more permissive terms, like MIT or Apache 2.  Signing that deal is essentially a dual licensing transaction, except the alternative license, which would usually apply only to the customer in traditional dual licensing, applies to everyone, just like the public license.  Instead of giving each customer complete permission, one by one, after payment, you give everyone complete permission after payment.
 
