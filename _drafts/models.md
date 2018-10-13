@@ -2,49 +2,53 @@
 layout: post
 ---
 
-Most open source business models aren't really business models at all.  They presuppose some other, autonomous business model, and offer up open source as an add-on, to make it better.  Open's just a means of selling more of something closed.
+Most open source business models aren't really business models at all.  They presuppose some other business model, and proffer open source as a way to make it better.  Selective openness is just a way to sell more of something closed.
+
+If you start from a desire to work in the open, and want to work backwards from there, to a business model, it's worth identifying, focusing on, and exploring the business models that actually stand on their own.
 
 Consider the business models summarized in Raymond's _Magic Cauldron_:
 
-- _Loss-Leader/Market Positioner_, example Netscape's Mozilla, presupposed a proprietary server software business.
+- _Loss-Leader/Market Positioner_, example Netscape's Mozilla, presupposes a proprietary software business.
 
-- _Widget Frosting_, example Apple Darwin, presupposed a hardware business.
+- _Widget Frosting_, example Apple Darwin, presupposes a hardware business.
 
-- _Give Away the Recipe, Open A Restaurant_, examples Cygnus and RedHat, presupposed a professional services practice.
+- _Give Away the Recipe, Open A Restaurant_, examples Cygnus and RedHat, presupposes a professional services business.
 
-- _Accessorizing_, example O'Reilly Media, presupposed bookselling.
+- _Accessorizing_, example O'Reilly Media, presupposes a hard goods business.
 
-- _Free the Software, Sell the Brand_, example Star Office, now OpenOffice.org and LibreOffice, presupposed a trademark and a certification program.
+- _Free the Software, Sell the Brand_, example Star Office, now OpenOffice.org and LibreOffice, presupposes a certification business.
 
-- _Free the Software, Sell the Content_, no example given, presupposed a content subscription business.
+- _Free the Software, Sell the Content_, no example given, presupposes an intangible media business.
 
 But one of Raymond's models was not like the others:
 
-- _Free the Future, Sell the Present_, key example Ghostscript, described how companies can offer their latest work on proprietary terms, but allow older versions to lapse onto open source terms. 
+- _Free the Future, Sell the Present_, key example Ghostscript, describes companies that offer their latest work on proprietary terms, but release older versions as open source.
 
-We see this model continue today.  Ghostscript continues to use it.  [The Business Source License](https://mariadb.com/bsl11), originally written for MariaDB, open successor to MySQL, implements it automatically, through legal terms.
+Like _Loss-Leader_, _...Sell the Present_ presupposes a proprietary software business to lead into.  It's just there's a silver lining: closed work opens up in time.  Rather than relying on scheduled publication of formerly closed work, [The Business Source License](https://mariadb.com/bsl11), originally written for MariaDB, open successor to MySQL, implements the transition in legal terms.  The company can therefore publish its latest immediately, or even work in the open to begin with, and see its work "released" automatically. That puts the project on a kind of treadmill.  It must always keep developing, keep maintaining, keep offering new functionality worth licensing, to have a business model.  On the other hand, real-time publication and automatic release ensure the community's ability to work with the code will outlive the company, should it fail.
 
-We could describe this kind of delayed-release approach as a kind of _dual licensing_.  When a new version comes out, it's available on two different sets of terms: the public open source terms, usually GPL or other copyleft, and the private, commercial terms for sale.  Other dual licensing businesses release their code under open terms immediately, and offer commercial terms for sale for old as well as new contributions.
+For incomplete software like libraries and frameworks, useful when built into other programs, this treadmill proved unnecessary.  By choosing an open license that prohibits reuse in closed software, the developer withholds an opportunity to sell licenses for closed reuse.  It can license not just its latest and greatest software, which it's also free to release as open source as soon as it's developed, but also old work.  Ghostcript itself eventually adopted this approach, releasing its latest and greatest under GPL terms in real time, while charing commercial users for permission to build on and distribute Ghostscript as part of closed systems, especially printers.  Like MySQL before it, Ghostscript became _dual-licensed_: available on both public open source terms, usually GPL or other copyleft, and private, commercial terms.
 
-Why does this matter?  Because traditional dual-licensing and delayed-release models _make money by selling the value of the software, by selling permission to use it legally_.  Permission-based business models are business models unto themselves, no other model required or assumed.  Substantially _all_ the outputs of a business running that kind of model can be open source software, open documentation, and other parts of the open package.  Substantially _all_ the time of its engineers can go toward those outputs, rather than private services, proprietary code, or other outputs that compete with open development for time and energy.
+Crucially, dual licensing makes money by selling the value of software, in the form of deals for permission to reuse in closed systems.  That makes dual licensing, and the class of permission-based models more broadly, complete in themselves.  Permission-based business models don't have to presuppose any other business model, to bring money into the picture.  Nonetheless, substantially _all_ the outputs of a dual-licensing business can be open source software, open documentation, and other parts of the open package.  Substantially _all_ the time of its engineers can go toward open outputs, rather than private services, closed code, or other efforts that compete with open development for time and energy.
 
-If open source is a must, a complete plan offers all kinds of benefits, from operation simplicity to lower overhead and clarity of business mission.  There's no splitting time between open and closed software, or succumbing to incentives to make features closed, as for _Loss-Leader_, now often called _Open Core_.  There's no need to develop a capital-intensive hardware, media, or publishing business in parallel or first, or to contend with the second-rate status of software development in subservience to that primary model, as under _Widget Frosting_, _Accessorizing_, or _...Sell the Content_.  There's no call to divert time and attention to services, or to specialize developers as product people or service people, or to deal with the relatively poor scaling dynamics of services plays, as under _Give Away the Recipe..._ or _...Sell the Brand_.  Just make open software, make it as good as you can, and charge money for the right to add that value to closed projects.
+A complete plan offers all kinds of benefits, from operation simplicity to lower overhead and clarity of business mission.  There's no splitting time between open and closed software, or succumbing to incentives to make features closed, as for _Loss-Leader_, now often called _Open Core_.  There's no need to develop a capital-intensive hardware, media, or publishing business in parallel or first, or to contend with the second-rate status of software development in subservience to that primary model, as under _Widget Frosting_, _Accessorizing_, or _...Sell the Content_.  There's no call to divert time and attention to services, or to specialize developers as product people or service people, or to deal with the relatively poor scaling dynamics of services plays, as under _Give Away the Recipe..._ or _...Sell the Brand_.  Just make open software, make it as good as you can, and charge money for the right to add that value to closed projects.
 
-Fortunately, dual-licensing and delayed release are broad categories, and not the only ones within their category.  "Pure" open source business models in fact offer quite a bit of choice.  Choice helps tailor a model to a particular kind of software or financial situation.
+# Variations
 
-We can chart a course through those choices by going back to what end users need to benefit from software:
+Fortunately, dual-licensing and delayed release are broad categories, and representative of a larger "pure" open source family.  Pure models offer quite a bit of choice, which makes it possible to tailor a model to particular software and particular business situations.
+
+We can map those choices by generalizing what end users need to benefit from software:
 
 1. _Implementation_: Vaporware isn't useful.
 2. _Distribution_:  Software that's been written, but not shared, isn't much use to anyone else.
 3. _Permission_:  Even if the software's been written, and even if you happen on a copy or other access, you face legal trouble for using without a license.
 
-Each of these is _necessary_, but not alone _sufficient_.  Users need all three at scale.
+Each of these is _necessary_, but not alone _sufficient_.  Users need all three at any significant scale.
 
-Developers can meet each of these needs _completely_ or _partially_. They can also meet them at different times.  Let's simplify to _before payment_ and _after payment_.  So developers can implement software before they get paid, or after payment.  They can do half an implementation before they get paid, and half after.  They can give no permission or limited permission before they get paid, and complete permission after.
+Developers can meet each of these needs _completely_ or _partially_. They can also meet them at different times, _before payment_ and _after payment_.  Developers can implement software before they get paid, or after payment.  They can also do half an implementation before they get paid, and half after.  They can give limited permission before they get paid, or none at all, and complete permission after.
 
-If your plan is to implement, distribute, and give permission away, completely and for free, you do not have much of a business plan.  Your generosity might enhance _another_ business plan, among those Raymond mentions, but being very generous is the opposite of a plan for getting paid.  If you receive any compensation for your generosity, either the customer is practicing charity, or someone has made a mistake.  Charity if the "customer" knew they didn't owe you, mistake if they wrongly thought they did.
+If your plan is to implement, distribute, and give permission away, completely and for nothing, full stop, you do not have a business plan.  If you have additional plans, perhaps they add up to such a plan.  Perhaps one of those Raymond lists.  Perhaps a plan for more personal benefit, social enjoyment, like educational value or reputation.  But charity, on its own is the antithesis of a plan for getting paid.  If you receive compensation for charity, either you weren't actually practicing charity, your "customer" was, or one of you made a mistake.
 
-Permission-based business plans like dual licensing and delayed release typically don't hold back on implementation or distribution.  They implement all the code needed to make their projects complete, and distribute all of that code.  Even in terms of permission, permission-based business models still give quite a lot of away.  Typically, that means permission to use the open software as provided, but not to build closed software with open.  When the open software is a framework, library, or another unfinished components---it doesn't do anything useful on its own---its primary "use" value is building other software, and that isn't covered by the public license, if the application is closed.  Dual licensing companies sell that missing permission to customers.
+Archetypical permission-based business plans like dual licensing typically don't hold back on implementation or distribution.  They implement all the code needed to make their projects complete, and distribute all of that code.  Even in terms of permission, permission-based business models still give quite a lot of away.  Their business model is selling whatever permission is "missing" form their choice of public license, from their customers' points of view.  But even common public license choices come riddled with known loopholes, especially for internal and software-as-a-service use.
 
 But of course permission isn't the only dimension in which an open source business model can hold back.  Implementation-based business models are in fact even more broadly practiced than permission-based models.  So much so, in fact, that we often neglect to mention them in business-model conversations at all.
 
