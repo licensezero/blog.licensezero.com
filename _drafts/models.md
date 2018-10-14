@@ -59,9 +59,11 @@ We can map those choices by stepping away from the vendor point of view, into th
 
 Each of these is _necessary_, but not alone _sufficient_.  Users need all three at any significant scale.
 
-Developers can meet each of these needs _completely_ or _partially_.  They can implement all the software a customer needs or wants, or only part of it.  They can  distribute code by publication on the Internet, or share it only with customers.  They can grant permission to do everything with their software, or only some things.  They can grant permission for the software to everyone, or only to customers.
+Developers can meet each of these needs _completely_ or _partially_.  They can implement all the software a customer needs or wants, or only part of it.  They can  distribute code by publication on the Internet, or share it only with customers.  They can grant permission to do everything with their software, or only some things.
 
 Developers can also meet users' needs at different times.  They can implement software before payment or after payment.  They can do half an implementation before payment, and half after.  They can give limited permission before they get paid, or none at all, and limited or complete permission after.  Some models incorporate time through deadlines or schedules.  That's true of _...Free the Future_: closed software gets released as open on a schedule.  Other models incorporate time for conditionality.  Under _Dual Licensing_, users start out in time without complete permission.  But they might buy additional permission in the future.
+
+Finally, developers can to some extent segment implementation, distribution, and especially permission. They can implement what one customer needs or wants, but not what another does.  They can distribute copies to some users, but not to others.  They can grant permission for the software to everyone, or only to customers.
 
 In meeting user needs with open software over time, developers don't have total freedom.  There are some invariant, background rules and and practicalities that create linkages between choices about user needs, and act as practical constraints on an open developer's approach.
 
@@ -80,6 +82,76 @@ You can have a business without a complete open source business model, but you w
 # Exploration
 
 With all of this in mind, we can begin to chart particular complete, pure open source business models, both known-viable and innovative.
+
+There are a few ways to group these models.  Most obviously, we can categorize by the user needs they leverage: implementation, distribution, or permission.  Hybrid models leverage more than one.  Within our framework, the relevant question is:
+
+> Which user needs does the model meaningfully fulfill only after payment, for at least some users?
+
+We can also ask whether a model requires meaningful speculation on the part of the developer.  Within our framework, that means:
+
+> Does the developer implement before payment?
+
+The higher the cost of implementation---the more labor-intensive, the more expensive inputs like outside help, data, and development tools, the more the business chooses to implement up-front---the greater the speculative bet.  Large enough bets require enlisting outside speculators, be they investors, lenders, or contributors willing to work for deferred or equity compensation, further limiting the number of businesses that can employ the model.
+
+We can also ask whether the model segments the market for any particular user need.  In our terms:
+
+> Does the developer complete any user need on a user-by-user basis?
+
+Segmenting implementation, distribution, or permission implies an administrative or transactional cost.  Treating everyone consistently, by writing the same code, published to the net, under license terms that apply the same to everyone, is relatively simple online.  But as we'll see, segmentation also enables many business models.
+
+## Dual Licensing
+
+Release software under an open-only license, and charge customers for permission to use for closed software.
+
+- Implementation: complete before payment (speculative)
+- Distribution: complete before payment
+- Permission:
+  - use in open software before payment
+  - use in closed software after payment, for the paying customer only
+
+The key question for dual licensing is whether a suitably acceptable open-source license allows the developer to release without giving away all the permission customers want.  That's usually true when the software is a library or framework that will be built into applications distributed to end-users, or into web applications provided to end-users.  Licenses like RPL, OSL, AGPL, and GPL require developers to provide complete source code and an open-source license to end-users in those cases, which closed-software developers refuse to do.
+
+[License Zero](https://licensezero.com) automates the back-end dual licensing process of selling permission to use in closed software.  License Zero's [Parity license](https://licensezero.com/licenses/parity) makes dual licensing viable for developer tools, like bundlers, compilers, static analyzers, debuggers, and editors, by eliminating any license difference between software that's developed by copying or linking in code, building on top of a framework, incorporating into a network service, or built with a developer tool.  Licensed use of Parity-licensed software to create other software requires release of the other software.
+
+## Paid Relicensing
+
+Release software under an open-only license, and offer to change to a permissive license for a fee.
+
+- Implementation: complete before payment (speculative)
+- Distribution: complete before payment
+- Permission:
+  - use in open software before payment
+  - use in closed software, after payment, for all users
+
+Paid relicensing differs form dual licensing only in segmentation of permission after payment.  Dual licensing segments by customer.  Each customer buys their own license to use in closed software.  Paid relicensing doesn't segment.  Once _anyone_ pays for permission to use in closed source, _everyeone_ gets complete permission.
+
+As a consequence, the cost of paid relicensing should greatly exceed the cost of buying closed-software permission for a single customer.  The developer is forfeiting not just the ability to sell permission to the customer again, but also the ability to sell all other potential customers.  But paid relicensing at a higher price can and does make sense, financially, in specific circumstances. Often, the relicensing customer intends to build and distribute a product that its own customers will in turn build into closed software.  On the developer side, a willingness to relicense for a single price often reflects the administrative burden or doing and processing licensing deals with all possible customers.  Taking a single payment to relicense works a bit like a lump sum payment for an annuity, selling a share of stock that would otherwise yield dividends, or any other present-value exchange.
+
+As with dual licensing, open-source license terms need to afford granting meaningfully partial permission.  License Zero [allows developers to offer paid relicensing](https://guide.licensezero.com/#relicensing), and automates the process of taking payment and closing the transactions.
+
+## Delayed Release
+
+- Implementation: complete before payment
+- Distribution:
+  - Old Code: complete before payment
+  - New Code:
+    - none before payment
+    - complete after payment, to the paying customer only
+- Permission:
+  - Old Code:
+    - none before scheduled release
+    - complete after scheduled release
+  - New Code:
+    - none before payment
+    - complete after payment, to the paying customer only
+
+A delayed-release model can employ any kind of open license: a permissive license that permits reuse in closed software, or a copyleft license that doesn't.
+
+Though delayed-release models have largely evolved toward dual licensing, delayed release remains useful in modeling around dual licensing's limitations.  If the software itself is an application, usable on its own, open source licensing doesn't offer an effective partial-permission option.  Effectively, releasing that application under any open source license gives all permission away, to all users.  That means developers can't give partial permission before payment, and complete permission only after.  But delaying release of the latest and greatest version gives a business the ability to distribute partially before payment, and distribute completely after payment.
+
+License Zero doesn't implement the pure delayed release model.  Instead, License Zero's [Prosperity license](https://licensezero.com/licenses/prosperity) gives developers a license that only covers noncommercial use.  Very few people consider noncommercially licensed projects to be "open source".  But such a license gives developers terms with which to offer meaningfully partial permission before payment, allowing them to use the dual licensing model.  As compared to delayed release, noncommercial licensing also allows developers to license the whole value of the software they've created, rather than just the difference between the old code they've release, and the latest and greatest.
+
+## ...
 
 Archetypical permission-based business models like dual licensing and delayed release typically focus on permission alone.  They implement all the code needed to make their projects worth licensing, and distribute all of that code under an open source license, prior to any payment.
 
