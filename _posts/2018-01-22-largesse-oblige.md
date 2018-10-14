@@ -84,7 +84,7 @@ Basically, it's the coins from [John Wick](https://en.wikipedia.org/wiki/John_Wi
 
 # Subaltern
 
-This view comports nicely with open source as mere adjunct to proprietary software development.  In essence, open source becomes a performance enhancer for system integrators making proprietary products and services: things people other than programmers actually interact with and derive value from.  <!--TODO: link blog post-->More and more free software gets written, but it gets harder and harder to make do without proprietary apps and services.
+This view comports nicely with open source as mere adjunct to proprietary software development.  In essence, open source becomes a performance enhancer for system integrators making proprietary products and services: things people other than programmers actually interact with and derive value from.  More and more free software gets written, but it gets harder and harder to make do without proprietary apps and services.
 
 A single, additional ray of hope shines through: open source developers can trade on reputation developed within open source development for cash, while remaining within open source.  They don't have to write proprietary code to pay rent.  They can stay pure.
 
