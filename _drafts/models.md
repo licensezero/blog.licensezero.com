@@ -187,76 +187,14 @@ We could also hybridize with paid relicensing and delayed release.
 
 Who can dual license the newly implemented software depends on who owns the intellectual property rights in it, especially copyright.  If the developer transfers rights to the client, as work made for hire or by assignment, the company has the legal power to grant more complete permission, not the developer.  Conversely, if the developer retains its intellectual property rights, the developer can grant more complete permission.  If client and developer agree to share rights, by joint ownership or cross-licensing, they can set their own rules for dual licensing and sharing compensation.  When the developer retains rights, the contract for implementation typically includes a complete license to the client paying for development.
 
-## Dual-Licensed Core
+## Paid Distribution
 
-Release a shell of features, additions, or compliments to a dual-licensed core.
+Release software and charge for distributing copies.
 
-- Implementation:
-  - Core: before payment (speculative)
-  - Shell: before payment (speculative)
+- Implementation: before payment (speculative)
 - Distribution:
-  - Core: complete before payment
-  - Shell: complete before payment
-- Permission:
-  - Core:
-    - none or partial before payment
-    - complete after payment
-  - Shell: complete before payment
+  - none before payment
+  - complete after payment, to the paying customer only
+- Permission: complete before payment
 
-This approach to the shell is not a complete business model.  The developer gives complete implementation, distribution, and permission away.
-
-## Dual-Licensed Shell
-
-Release a core system, and dual-license a shell of features, additions, or complimentary software.
-
-- Implementation:
-  - Core: before payment (speculative)
-  - Shell: before payment (speculative)
-- Distribution:
-  - Core: complete before payment
-  - Shell: complete before payment
-- Permission:
-  - Core: complete before payment
-  - Shell:
-    - none or partial before payment
-    - complete after payment
-
-This approach to the core is not a complete business model.  The developer gives complete implementation, distribution, and permission away.
-
-## Counterexample: Open Core (Closed Shell)
-
-Release a core system, and sell a closed shell of features, additions, or complimentary software.
-
-- Implementation:
-  - Open Core: before payment (speculative)
-  - Closed Shell: before payment (speculative)
-- Distribution:
-  - Open Core: complete before payment
-  - Closed Shell:
-    - none, partial, or complete before payment
-    - complete after payment
-- Permission:
-  - Open Core:
-    - complete or partial before payment
-    - complete after payment
-  - Closed Shell:
-    - none before payment
-    - complete after payment
-
-The developer can
-
-CockroachDB flags
-
-# ...
-
-Traditional and dual licensing and delayed release entail speculation.  Businesses practicing those models implement software, or buy an implementation to license, before any customer payment.  They incur present obligations to cover the cost of implementation, in expectation of uncertain license fees in the future.  The higher the cost of implementation---the more labor-intensive, the more expensive inputs like outside help, data, and development tools, the more the business chooses to implement up-front---the greater the speculative bet.  Large enough bets require enlisting outside speculators, be they investors, lenders, or contributors willing to work for deferred or equity compensation.
-
-But of course permission isn't the only dimension in which an open source business model can hold back, and not all models include speculation.  Selling implementation of software that you'll distribute under open terms is paid open source development.  Rather than writing a bunch of code, distributing it, granting permission, and then figuring out how to charge for it, you charge first, then develop, deliver, and license.
-
-Implementation-based business models are even more broadly practiced than permission-based models.  So much so, in fact, that commentators often leave them out of business-model conversations entirely.
-
-It's very possible, and indeed common, to combine implementation- and permission-based models.  Sign a contract for paid open source development.  Make sure you retain ownership of intellectual property in your work, especially copyright, and commit to release on the terms of a copyleft license, like AGPL.  Charge a premium for the development work, especially if most end-users will get all the permission they need under AGPL, and you probably won't have further opportunity to get paid for the same work.  When you release the software you've been paid to implement, mention in your license notice that you'll entertain offers to dual license existing work on more permissive terms.
-
-If there's additional functionality still to implement, you can also mention that you'll happily do paid contract work to develop the project further, on the same kind of terms you used before.  If you'd already implemented that software, and sold it as proprietary software, you'd be running an _Open Core_ model, with the proprietary add-ons as the "Closed Shell".  Instead you're sticking to a pure open source model, by implementing after payment, and releasing as open source. 
-
-Alternatively, implement software for which you think there will be demand, without a business deal in place.  This entails a bit of speculation on your part, both in what you think is worth making, and also in the time you take to make it.  Distribute this software under open-only terms.  But also offer to relicense some or all of your work on more permissive terms, like MIT or Apache 2.  Signing that deal is essentially a dual licensing transaction, except the alternative license, which would usually apply only to the customer in traditional dual licensing, applies to everyone, just like the public license.  Instead of giving each customer complete permission, one by one, after payment, you give everyone complete permission after payment.
+The FSF once made money this way.  Cheap, Web-based distribution and the freedom to redistribute under open licenses have made it nearly extinct.
