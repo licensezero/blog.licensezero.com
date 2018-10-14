@@ -81,11 +81,11 @@ You can have a business without a complete open source business model, but you w
 
 # Exploration
 
-With all of this in mind, we can begin to chart particular complete, pure open source business models, both known-viable and innovative.
+With all of this in mind, we can begin to chart a few complete, pure open source business models, both known-viable and innovative.
 
-There are a few ways to group these models.  Most obviously, we can categorize by the user needs they leverage: implementation, distribution, or permission.  Hybrid models leverage more than one.  Within our framework, the relevant question is:
+There are a few ways to group models.  Most obviously, we can categorize by the user needs they leverage: implementation, distribution, or permission.  Hybrid models leverage more than one.  Within our framework, the relevant question is:
 
-> Which user needs does the model meaningfully fulfill only after payment, for at least some users?
+> Which needs does the model fulfill for at least some users only after payment?
 
 We can also ask whether a model requires meaningful speculation on the part of the developer.  Within our framework, that means:
 
@@ -95,9 +95,9 @@ The higher the cost of implementation---the more labor-intensive, the more expen
 
 We can also ask whether the model segments the market for any particular user need.  In our terms:
 
-> Does the developer complete any user need on a user-by-user basis?
+> Does the developer fulfill any user need on a user-by-user basis?
 
-Segmenting implementation, distribution, or permission implies an administrative or transactional cost.  Treating everyone consistently, by writing the same code, published to the net, under license terms that apply the same to everyone, is relatively simple online.  But as we'll see, segmentation also enables many business models.
+Segmenting implementation, distribution, or permission implies an administrative or transactional cost.  Treating everyone the same, by writing the same code, publishing to the net, and licensing under one set of terms that apply the same to everyone, is relatively simple, thanks to the Web.  But as we'll see, segmentation also creates business opportunity.
 
 ## Dual Licensing
 
@@ -131,7 +131,7 @@ As with dual licensing, open-source license terms need to afford granting meanin
 
 ## Delayed Release
 
-- Implementation: complete before payment
+- Implementation: complete before payment (speculative)
 - Distribution:
   - Old Code: complete before payment
   - New Code:
@@ -151,9 +151,103 @@ Though delayed-release models have largely evolved toward dual licensing, delaye
 
 License Zero doesn't implement the pure delayed release model.  Instead, License Zero's [Prosperity license](https://licensezero.com/licenses/prosperity) gives developers a license that only covers noncommercial use.  Very few people consider noncommercially licensed projects to be "open source".  But such a license gives developers terms with which to offer meaningfully partial permission before payment, allowing them to use the dual licensing model.  As compared to delayed release, noncommercial licensing also allows developers to license the whole value of the software they've created, rather than just the difference between the old code they've release, and the latest and greatest.
 
-## ...
+## Paid Open Development
 
-Archetypical permission-based business models like dual licensing and delayed release typically focus on permission alone.  They implement all the code needed to make their projects worth licensing, and distribute all of that code under an open source license, prior to any payment.
+Contract to develop and release open software for pay.
+
+- Implementation:
+  - none or incomplete before payment (non-speculative)
+  - complete after payment
+- Distribution:
+  - none before payment
+  - complete after payment
+- Permission:
+  - none before payment
+  - complete or partial after payment
+
+Commentators often forget paid open development among business models.  It suffers many of the same drawbacks as professional service models, including paid support.  But when priced rationally, it can do well.
+
+Note that paid development can entail release of code under any open source license.  That license is usually agreed ahead of time.
+
+## Paid Development Hybrids
+
+Contract to develop and release open software under a copyleft license for pay, then employ a permission-based model.  For example, with dual licensing:
+
+- Implementation:
+  - none or partial before payment (non-speculative)
+  - complete after payment
+- Distribution:
+  - none before payment
+  - complete after payment
+- Permission:
+  - use in open software before payment
+  - use in closed software, after payment, for all users
+
+We could also hybridize with paid relicensing and delayed release.
+
+Who can dual license the newly implemented software depends on who owns the intellectual property rights in it, especially copyright.  If the developer transfers rights to the client, as work made for hire or by assignment, the company has the legal power to grant more complete permission, not the developer.  Conversely, if the developer retains its intellectual property rights, the developer can grant more complete permission.  If client and developer agree to share rights, by joint ownership or cross-licensing, they can set their own rules for dual licensing and sharing compensation.  When the developer retains rights, the contract for implementation typically includes a complete license to the client paying for development.
+
+## Dual-Licensed Core
+
+Release a shell of features, additions, or compliments to a dual-licensed core.
+
+- Implementation:
+  - Core: before payment (speculative)
+  - Shell: before payment (speculative)
+- Distribution:
+  - Core: complete before payment
+  - Shell: complete before payment
+- Permission:
+  - Core:
+    - none or partial before payment
+    - complete after payment
+  - Shell: complete before payment
+
+This approach to the shell is not a complete business model.  The developer gives complete implementation, distribution, and permission away.
+
+## Dual-Licensed Shell
+
+Release a core system, and dual-license a shell of features, additions, or complimentary software.
+
+- Implementation:
+  - Core: before payment (speculative)
+  - Shell: before payment (speculative)
+- Distribution:
+  - Core: complete before payment
+  - Shell: complete before payment
+- Permission:
+  - Core: complete before payment
+  - Shell:
+    - none or partial before payment
+    - complete after payment
+
+This approach to the core is not a complete business model.  The developer gives complete implementation, distribution, and permission away.
+
+## Counterexample: Open Core (Closed Shell)
+
+Release a core system, and sell a closed shell of features, additions, or complimentary software.
+
+- Implementation:
+  - Open Core: before payment (speculative)
+  - Closed Shell: before payment (speculative)
+- Distribution:
+  - Open Core: complete before payment
+  - Closed Shell:
+    - none, partial, or complete before payment
+    - complete after payment
+- Permission:
+  - Open Core:
+    - complete or partial before payment
+    - complete after payment
+  - Closed Shell:
+    - none before payment
+    - complete after payment
+
+The developer can
+
+CockroachDB flags
+
+# ...
 
 Traditional and dual licensing and delayed release entail speculation.  Businesses practicing those models implement software, or buy an implementation to license, before any customer payment.  They incur present obligations to cover the cost of implementation, in expectation of uncertain license fees in the future.  The higher the cost of implementation---the more labor-intensive, the more expensive inputs like outside help, data, and development tools, the more the business chooses to implement up-front---the greater the speculative bet.  Large enough bets require enlisting outside speculators, be they investors, lenders, or contributors willing to work for deferred or equity compensation.
 
