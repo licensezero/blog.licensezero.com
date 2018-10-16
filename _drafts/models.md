@@ -108,7 +108,37 @@ We can also ask whether the model segments the market for any particular user ne
 
 Segmenting implementation, distribution, or permission carries an administrative or transactional cost.  Treating everyone the same, by writing the same code, publishing to the net, and licensing under one set of terms that apply the same to everyone, is relatively simple, thanks to the Web.  But as we'll see, segmentation also creates business model choice.
 
-Let's map and group and some models we've already discussed, then move on to some we haven't.  From there, we can chart a course to some less familiar, hybrid models.
+Let's map and group and some models we've already discussed, then move on to some we haven't.  From there, we can chart a course from purebred models to less familiar hybrid models.
+
+## The Coordinate System
+
+Software users have three needs: _implementation_, _distribution_, _permission_.
+
+Software user needs are fulfilled with more or less _completeness_, at some point in _time_.
+
+A model _leverages_ a user need if it completes that need in time only after payment.
+
+A model is _segmented_ if it completes a user need for less than all users at a time.
+
+A model is _speculative_ if it implements, partially or completely, at any time before payment.
+
+## Purebred Models Outline
+
+- Leverages Permission
+  - Speculative
+    - Segmented: [Dual Licensing](#dual-licensing)
+    - Unsegmented: [Paid Relicensing](#paid-relicensing)
+  - Non-Speculative:
+    - Segmented: ???
+    - Unsegmented: ???
+- Leverages Distribution
+  - Speculative
+    - Segmented: [Paid Distribution](#paid-distribution)
+    - Unsegmented: [Paid Release](#paid-release)
+  - Non-Speculative: None (Developers cannot distribute as yet unimplemented software.)
+- Leverages Implementation
+  - Speculative: None (Models leveraging implementation are non-speculative by definition.)
+  - Non-Speculative: [Paid Development](#paid-development) (segmented or unsegmented)
 
 ## Dual Licensing
 
