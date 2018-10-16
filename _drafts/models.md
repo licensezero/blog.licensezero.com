@@ -129,8 +129,8 @@ A model is _speculative_ if it implements, partially or completely, at any time 
     - Segmented: [Dual Licensing](#dual-licensing)
     - Unsegmented: [Paid Relicensing](#paid-relicensing)
   - Non-Speculative:
-    - Segmented: ???
-    - Unsegmented: ???
+    - Segmented: [Paid Development to Dual Licensing](#paid-development-hybrids)
+    - Unsegmented: [Paid Development to Paid Relicensing](#paid-development-hybrids)
 - Leverages Distribution
   - Speculative
     - Segmented: [Paid Distribution](#paid-distribution)
