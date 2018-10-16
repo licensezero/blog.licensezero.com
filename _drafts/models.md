@@ -217,6 +217,18 @@ Commentators often forget paid open development among business models.  It suffe
 
 Note that paid development can entail release of code under any open source license.  That license is usually agreed ahead of time.
 
+## Paid Distribution
+
+- In Brief: Release software and charge for distributing copies.
+
+- Implementation: before payment (speculative)
+- Distribution:
+  - none before payment
+  - complete after payment, to the paying customer only
+- Permission: complete before payment
+
+The FSF once made money this way.  Cheap, Web-based distribution and the freedom to redistribute under open licenses have made it nearly extinct where reliable Internet access is widespread.
+
 ## Paid Development Hybrids
 
 - In Brief: Contract to develop and release open software under a copyleft license for pay, then employ a permission-based model.  For example, with dual licensing:
@@ -236,15 +248,3 @@ We could also hybridize with paid relicensing and delayed release.
 Who can dual license the newly implemented software depends on who owns the intellectual property rights in it, especially copyright.  If the developer transfers rights to the client, as work made for hire or by assignment, the company has the legal power to grant more complete permission, not the developer.  This is very common in standard contractor agreements, which typically aim to transfer all intellectual property to the company, in part just to avoid the effort and delay needed to decide whether the company needs the rights or not.
 
 Conversely, if the developer retains its intellectual property rights, the developer can grant more complete permission.  Client and developer could also agree to share rights, by joint ownership or cross-licensing, perhaps with rules about sharing dual licensing revenue.  Regardless, whenever the developer retains rights, the contract for implementation typically includes a complete license to the client.
-
-## Paid Distribution
-
-- In Brief: Release software and charge for distributing copies.
-
-- Implementation: before payment (speculative)
-- Distribution:
-  - none before payment
-  - complete after payment, to the paying customer only
-- Permission: complete before payment
-
-The FSF once made money this way.  Cheap, Web-based distribution and the freedom to redistribute under open licenses have made it nearly extinct where reliable Internet access is widespread.
