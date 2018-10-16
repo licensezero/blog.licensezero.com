@@ -129,8 +129,8 @@ A model is _speculative_ if it implements, partially or completely, at any time 
     - Segmented: [Dual Licensing](#dual-licensing)
     - Unsegmented: [Paid Relicensing](#paid-relicensing)
   - Non-Speculative:
-    - Segmented: [Paid Development to Dual Licensing](#paid-development-hybrids)
-    - Unsegmented: [Paid Development to Paid Relicensing](#paid-development-hybrids)
+    - Segmented: [Paid Development to Dual Licensing](#hybrids)
+    - Unsegmented: [Paid Development to Paid Relicensing](#hybrids)
 - Leverages Distribution
   - Speculative
     - Segmented: [Paid Distribution](#paid-distribution)
@@ -229,7 +229,7 @@ Note that paid development can entail release of code under any open source lice
 
 The FSF once made money this way.  Cheap, Web-based distribution and the freedom to redistribute under open licenses have made it nearly extinct where reliable Internet access is widespread.
 
-## Paid Development Hybrids
+## Hybrids
 
 - In Brief: Contract to develop and release open software under a copyleft license for pay, then employ a permission-based model.  For example, with dual licensing:
 
