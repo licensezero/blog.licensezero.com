@@ -1,6 +1,6 @@
 ---
-title: Mapping True Open Source Business Models
-description:
+title: Exploring Complete Open Source Business Models
+description: a framework for financial independence
 layout: post
 ---
 
