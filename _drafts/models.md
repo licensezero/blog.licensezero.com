@@ -10,7 +10,7 @@ If you want to work in the open, you need an open source business model that sta
 
 # History
 
-The history of open source software is a bid for acceptance from the software industry.  The software industry mostly sells closed software, as apps or services, so key to courting industry was showing open could complement closed.  
+The history of open source software is a bid for acceptance from the software industry.  The software industry mostly sells closed software, as apps or services, so key to courting industry was showing open could complement closed.
 
 Consider the business models summarized in Eric S. Raymond's _Magic Cauldron_:
 
@@ -74,9 +74,9 @@ Finally, developers can segment implementation, distribution, and especially per
 
 # Constraints
 
-Practical circumstances, the nature of software, and norms of open software limit developers' choices.  There are some invariant background rules and and practicalities that impose constraints, linking choices about user needs and affecting what choices developers can make over time.  Some choices simply aren't available.
+Practical circumstances, the nature of software, and norms of open software limit developers' choices.  There are some invariant background rules and practicalities that impose constraints, linking choices about user needs and affecting what choices developers can make over time.  Some choices simply aren't available.
 
-For example, on the legal front, once software's distributed under a standard open source license, it's legally and practically difficult to _reduce_ the permission others receive for the same software.  On the other hand, it can be relatively straightforward to reduce permission for as yet unreleased code, by applying different license terms for working going forward, and to increase permission for code already released, by announcing a license change.  It's difficult to change the license terms for a prior published release from MIT to GPL, but it's often possible to apply GPL to new work on an old MIT project, or to change the terms for your old work from GPL to MIT. 
+For example, on the legal front, once software's distributed under a standard open source license, it's legally and practically difficult to _reduce_ the permission others receive for the same software.  On the other hand, it can be relatively straightforward to reduce permission for as yet unreleased code, by applying different license terms for working going forward, and to increase permission for code already released, by announcing a license change.  It's difficult to change the license terms for a prior published release from MIT to GPL, but it's often possible to apply GPL to new work on an old MIT project, or to change the terms for your old work from GPL to MIT.
 
 For a mix of legal and practical reasons, once code's distributed with open source permission, it's usually hard or impossible to control further distribution or permission.  You can grant an MIT license for particular software to a particular customer.  They may just keep the software to themselves, especially if it represents a competitive advantage.  But there's no stopping them publishing the same code online, resulting in free copies and licenses for everyone.  Conversely, granting permission under typical commercial terms gives developers fine-grained, configurable control over who else gets a copy and permission, and when.
 
@@ -98,7 +98,7 @@ There are a few ways to group models.  Most obviously, we can categorize by the 
 
 > Which needs does the model fulfill for at least some users only after payment?
 
-Purebred models leverage primarily one particular user need.  Hybrid models leverage more than one.  
+Purebred models leverage primarily one particular user need.  Hybrid models leverage more than one.
 
 We can also ask whether a model requires meaningful speculation on the part of the developer.  Within our framework, that means:
 
@@ -282,7 +282,7 @@ I've tried to offer structure for thought about open source business models, gen
 
 The open source community is in the throes of a broad debate about the scope of the community and the role that licensing norms play in it.  Having achieved acceptance at the pinnacles of the software industry, many in the open source movement are keen to capitalize and consolidate the approaches that serve that coalition best, notably patent-conscious, permissive license terms and broad commitments to detente and the use of exclusive soft power in copyleft communities.  Meanwhile, independent developers and small firms attempting to survive and thrive in an increasingly top-heavy industry are returning to reciprocal licensing as a bulwark against incumbent advantage.  They're suffering for the compromises written into the supposedly strong-copyleft community licenses they adopted, written for very different purposes, and riddled with compromises not in their interest.
 
-BSD-school community members and enterprises have ensured emblems of acceptance for ever more permissive licenses, even legally precarious ones like FPL/0BSD and Unlicense.  Strong reciprocal licenses enjoy a similarly diverse constituency: free and open advocates tired of ruinous compromise, on the one hand, and independent and small businesses who need simple, complete business models, on the other.   But the radical copyleft constituency is not nearly so organized, not yet so self-consciously a coalition.  That is beginning to change, as more activists see their work slip through loopholes in old community licenses, and more entrepreneurial developers realize there's no blessed license with which which to drive any effective "free for open source" bargain, on strangely arbitrary grounds.
+BSD-school community members and enterprises have ensured emblems of acceptance for ever more permissive licenses, even legally precarious ones like FPL/0BSD and Unlicense.  Strong reciprocal licenses enjoy a similarly diverse constituency: free and open advocates tired of ruinous compromise, on the one hand, and independent and small businesses who need simple, complete business models, on the other.   But the radical copyleft constituency is not nearly so organized, not yet so self-consciously a coalition.  That is beginning to change, as more activists see their work slip through loopholes in old community licenses, and more entrepreneurial developers realize there's no blessed license with which to drive any effective "free for open source" bargain, on strangely arbitrary grounds.
 
 That asymmetry plays out in the large.  Open source now functions far more readily to exacerbate disparity, by allowing winners already flush with chips to double down when they stack the cards in their favor, and by establishing corporate charity as the entry fee for the online developer peer community, than to help upstarts challenge incumbents, as it once did.  That imbalance calls, in part, for more standardization in source-available, use-limited licensing, the ["third way"](https://blog.licensezero.com/2018/09/16/two-party.html) advocated here before.  But it also calls for a renewed project to reinvigorate maintenance of strong copyleft, both in license terms and within the community.  That's good not just for currently underserved open source contributors.  A broad contributor base is, and essential, for the movement as a whole.
 
