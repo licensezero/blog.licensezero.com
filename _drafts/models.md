@@ -1,12 +1,12 @@
 ---
-title: Exploring Complete Open Source Business Models
-description: a framework for financial independence
+title: Mapping Open Business Models
+description: a systematic approach to practical approaches, proven and innovative
 layout: post
 ---
 
 Most open source business models aren't business models at all.  They assume a business model, and tell us that open source will make it better.  Very often, the actual business model is "sell closed software", one way or another.  Open's just a way of selling closed.
 
-If you want to work in the open, you need an open source business model that stands on its own.  Fortunately, complete open source models exist, and many have long track records.  There is also plenty of new territory left to explore.  This post offers the first draft of a map for that territory.
+If you want to work in the open, you need an open source business model that stands on its own.  Fortunately, complete open source models exist, and many have long track records.  There is also plenty of new territory left to explore.  This post is a map.
 
 # History
 
@@ -40,11 +40,9 @@ The Business Source License, originally written for MariaDB, successor to MySQL,
 
 Whether a company releases its old code by publishing it on a schedule, or by publishing under proprietary terms and relicensing on schedule, the company steps onto a treadmill.  It has to keep developing, keep maintaining, keep offering new functionality worth licensing on its own, to earn license fees.  It can't rely on revenue from code written long ago, because that becomes open, allowing use without pay.  But if the company fails, automatic release ensures its code will remain available for the open community, which can use and develop it on open terms.
 
-For incomplete software like libraries and frameworks, useful only when built into other programs, the treadmill proved unnecessary.  By choosing an open license that prohibits reuse in closed software---a _copyleft_ license like AGPL---companies create opportunity to sell licenses for closed use.  They can license not just their latest work, released as open source as soon as it's developed, but also old work.
+For incomplete software like libraries and frameworks, useful only when built into other programs, the treadmill proved unnecessary.  By choosing an open license that effectively prohibits reuse in closed software---a _copyleft_ license like AGPL---companies create opportunity to sell licenses for closed use.  They can license not just their latest work, released as open source as soon as it's developed, but also old work.
 
-This is _Dual Licensing_ as we know it today. Release software under a copyleft license, and sell alternative licenses for the same software to do what the copyleft license doesn't allow.
-
-MySQL famously applied this model to the client libraries for their database.  Ghostcript eventually followed, releasing its latest and greatest under GPL terms in real time, while charging commercial developers for permission to build on and distribute Ghostscript as part of closed systems.  Printer manufacturers, who build Ghostscript into their printers' software, paid to ship the latest and greatest, without making the rest of their systems open to competitors.
+This is _Dual Licensing_ as we know it today. Release software under a copyleft license, and sell alternative licenses for the same software to do what the copyleft license doesn't allow.  MySQL famously applied this model to the client libraries for their database.  Ghostcript eventually followed, releasing its latest and greatest under GPL terms in real time, while charging commercial developers for permission to build on and distribute Ghostscript as part of closed systems.  Printer manufacturers, who build Ghostscript into their printers' software, paid to ship the latest and greatest, without making the rest of their systems open to competitors.
 
 # Completeness
 
@@ -143,13 +141,12 @@ A model is _speculative_ if it implements at any time before payment.
     - Unsegmented: [Paid Release](#paid-release)
   - Non-Speculative: [Paid Development](#paid-development) (segmented or unsegmented)
 - Leverages Implementation
-  - Speculative: None (Models leveraging implementation are non-speculative by definition.)
+  - Speculative: None, by definition.
   - Non-Speculative: [Paid Development](#paid-development) (segmented or unsegmented)
 
 ## Dual Licensing
 
 - In Brief: Release software under an open-only license, and charge customers for permission to use for closed software.
-
 - Implementation: complete before payment (speculative)
 - Distribution: complete before payment
 - Permission:
@@ -165,7 +162,6 @@ Developer tools like bundlers, compilers, static analyzers, debuggers, and edito
 ## Paid Relicensing
 
 - In Brief: Release software under an open-only license, like AGPL, and offer to relicense the software onto permissive terms that permit use in closed programs, like MIT, for a fee.
-
 - Implementation: complete before payment (speculative)
 - Distribution: complete before payment
 - Permission:
@@ -217,7 +213,6 @@ Very few people consider noncommercial or use-limited licenses to be "open sourc
 ## Paid Open Development
 
 - In Brief: Contract to develop and release open software for pay.
-
 - Implementation:
   - none or incomplete before payment (non-speculative)
   - complete after payment
@@ -241,7 +236,6 @@ License Zero doesn't address paid development.  [Switchmode](https://github.com/
 ## Paid Distribution
 
 - In Brief: Release software and charge for distributing copies.
-
 - Implementation: before payment (speculative)
 - Distribution:
   - none before payment
@@ -253,7 +247,6 @@ The FSF once made money this way.  Cheap, Web-based distribution and the freedom
 ## Hybrids
 
 - In Brief: Contract to develop and release open software under a copyleft license for pay, then employ a permission-based model.  For example, with dual licensing:
-
 - Implementation:
   - none or partial before payment (non-speculative)
   - complete after payment
@@ -278,14 +271,14 @@ License Zero can also play nice with other _Paid Development_ approaches.  It's 
 
 # Wider World
 
-I've tried to offer structure for thought about open source business models, generalizing open source history from early on.  But any attempt always represents the moment it was thought up, more than any other.
+I've tried to offer structure for thought about open source business models, generalizing open source history from early on.  But any generalization of history unavoidably represents the moment it was thought up, more than any other.
 
-The open source community is in the throes of a broad debate about the scope of the community and the role that licensing norms play in it.  Having achieved acceptance at the pinnacles of the software industry, many in the open source movement are keen to capitalize and consolidate the approaches that serve that coalition best, notably patent-conscious, permissive license terms and broad commitments to detente and the use of exclusive soft power in copyleft communities.  Meanwhile, independent developers and small firms attempting to survive and thrive in an increasingly top-heavy industry are returning to reciprocal licensing as a bulwark against incumbent advantage.  They're suffering for the compromises written into the supposedly strong-copyleft community licenses they adopted, written for very different purposes, and riddled with compromises not in their interest.
+The open source community is in the throes of a broad debate about the scope of the community and the role that licensing norms play in it.  Having achieved acceptance at the pinnacles of the software industry, many in the open source movement are keen to capitalize and consolidate the approaches that serve that coalition best, notably patent-conscious, permissive license terms and broad commitments to detente and soft power when copyleft's unavoidable.  Meanwhile, independent developers and small firms attempting to survive and thrive in an increasingly top-heavy industry are returning to reciprocal licensing as a bulwark against incumbent advantage.  They're suffering for the compromises drafted into the supposedly strong-copyleft community licenses they repurposed.
 
-BSD-school community members and enterprises have ensured emblems of acceptance for ever more permissive licenses, even legally precarious ones like FPL/0BSD and Unlicense.  Strong reciprocal licenses enjoy a similarly diverse constituency: free and open advocates tired of ruinous compromise, on the one hand, and independent and small businesses who need simple, complete business models, on the other.   But the radical copyleft constituency is not nearly so organized, not yet so self-consciously a coalition.  That is beginning to change, as more activists see their work slip through loopholes in old community licenses, and more entrepreneurial developers realize there's no blessed license with which to drive any effective "free for open source" bargain, on strangely arbitrary grounds.
+BSD-school community members and enterprises have ensured emblems of acceptance for ever more permissive licenses, even legally precarious ones like FPL/0BSD and Unlicense.  Strong reciprocal licenses enjoy a similarly diverse constituency: free and open advocates tired of ruinous compromise, on the one hand, and independent and small businesses who need straightforward, complete, minimally speculative business models, on the other.   But the radical copyleft constituency is not nearly so organized, not yet a self-conscious coalition.  That is beginning to change, as more activists see their work slip through loopholes in old terms, and more entrepreneurial developers realize there's no blessed license with which to drive any effective "free for open source" bargain for their, for very arbitrary sounding reasons.
 
-That asymmetry plays out in the large.  Open source now functions far more readily to exacerbate disparity, by allowing winners already flush with chips to double down when they stack the cards in their favor, and by establishing corporate charity as the entry fee for the online developer peer community, than to help upstarts challenge incumbents, as it once did.  That imbalance calls, in part, for more standardization in source-available, use-limited licensing, the ["third way"](https://blog.licensezero.com/2018/09/16/two-party.html) advocated here before.  But it also calls for a renewed project to reinvigorate maintenance of strong copyleft, both in license terms and within the community.  That's good not just for currently underserved open source contributors.  A broad contributor base is, and essential, for the movement as a whole.
+That asymmetry plays out in the large.  Open source now functions far more readily to exacerbate disparity, by allowing winners already flush with chips to double down where they can stack cards in their favor, and by establishing corporate charity as the entry fee for the online developer peer community, than to help upstarts challenge incumbents, as it once did.  That imbalance calls, in part, for more standardization in source-available, use-limited licensing, the ["third way"](https://blog.licensezero.com/2018/09/16/two-party.html) advocated here before.  But it also calls for a renewed project to reinvigorate and maintain strong copyleft, both legally and socially.  Vigorous copyleft serves not just the currently underserved among open source contributors, but the open source movement as a whole, by preserving the broad base that made it relevant to begin with.
 
 ---
 
-Special thanks to [Dave Zvenyach](https://esq.io/blog/) for inspiration to get this written and early feedback.
+Special thanks to [Dave Zvenyach](https://esq.io/blog/) for inspiration to write and early feedback.
