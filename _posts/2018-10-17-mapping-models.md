@@ -1,6 +1,6 @@
 ---
 title: Mapping Open Business Models
-description: a systematic approach to practical approaches, proven and innovative
+description: a systematic approach to practical models, proven and innovative
 layout: post
 ---
 
