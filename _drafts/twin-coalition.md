@@ -1,0 +1,16 @@
+---
+title: Twin Coalition
+layout: post
+---
+
+We are witnessing the rebirth of a forgotten coalition in open software: activist hackers and upstart businesspeople.  Strange bedfellows.  But they share an interest in assaulting the status quo of the software industry, not subsidizing it.  They unite around radical copyleft licensing, as a defensive weapon to protect their insurgencies.  They need terms that make "free for open software" mean what it says, legally and practically. 
+
+The copyleft coalition has existed nearly as long as open software has.  It existed before "open source" was coined.
+
+So has its sister coalition, BSD-school, anti-IP hackers and established software companies.  These equally strange bedfellows share an interest in eliminating transaction costs, as terms review, license compatibility issues, and enforcement.  They unite around permissive licensing, an equally radical tool, as a means to [reverse their way out of the defaults of intellectual property law](https://oss.kemitchell.com/#operating-environment).  The permissive coalition needs license terms that make "free for whatever you want" mean what it says, legally and practically.
+
+The permissive coalition has occupied the spotlight for the past ten years.  That's testament to the success of the movement that coined "open source" to achieve widespread enterprise adoption.  That movement jettisoned the radical rhetoric and lefty stylings of the copyleft coalition's activist arm, expounded by Richard Stallman and the Free Software Foundation, and replaced it with the loose economic rhetoric and libertarian stylings of Eric Raymond.
+
+The open source movement did not, and could not, jettison the copyleft coalition's business constituency.  After all, the vast majority of business are small, and managers at smaller firms have more discretion to OK radical departures from received business wisdom, as was open source at the time.  That meant the open source movement couldn't cast aside the licenses that served the business arm of the copyleft coalition, as producers of new software or consumers of important work like GNU coreutils and Linux, either, despite their being [decked out in the activist trappings open source was trying to cast off](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html#preamble).
+
+The Open Source Initiative approved [functional copyleft licenses without that rhetoric](https://opensource.org/licenses/Sleepycat).  But it also approved licenses that went further, strengthening copyleft as a defensive tool for open leaning, software producing companies.  So was [Plan 9](https://opensource.org/licenses/Plan9), the [Reciprocal Public License](https://opensource.org/licenses/RPL-1.5), and [Open Watcom](https://opensource.org/licenses/Watcom-1.0).  The Free Software Foundation rejected each of those, for reasons peculiar to activist hackers, and not shared by business managers.  Both organizations eventually came together to approve the [GNU Affero GPL](https://opensource.org/licenses/Watcom-1.0), originally written to close the loophole for an initiative with a business plan to get activist-type hackers paid.
