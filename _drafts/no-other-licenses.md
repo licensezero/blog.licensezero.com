@@ -4,9 +4,10 @@ description:
 layout: post
 ---
 
-License Zero supports just two public license choices: [Parity], a short maximalist copyleft license, and [Prosperity](https://licensezero.com/licenses/prosperity), a short noncommercial license.  Why not [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html), or even [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html), probably the most common choices for dual licensing?  Why not [QPL](https://opensource.org/licenses/QPL-1.0) or [RPL], purpose-written for dual licensing and OSI-approved?
+License Zero supports just two public license choices: [Parity], a short maximalist copyleft license, and [Prosperity], a short noncommercial license.  Why not [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html), or even [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html), probably the most common choices for dual licensing?  Why not [QPL](https://opensource.org/licenses/QPL-1.0) or [RPL], purpose-written for dual licensing and OSI-approved?
 
 [Parity]: https://licensezero.com/licenses/parity
+[Prosperity]: https://licensezero.com/licenses/prosperity
 
 Users building closed, commercial software need a single [command](https://github.com/licensezero/cli) to run, to find all the private licenses they need:
 
@@ -83,18 +84,51 @@ All of this hack-and-patch complexity makes it damn difficult for even plucky se
 1. Which open source license do I pick to make my software "free for open source"?
 2. Can I use this work I found under such-and-such "free for open source" license in my project?
 
-Companies pay me hundreds, sometimes thousands of dollars to answer these questions.  Which is ridiculous.  Especially when my answer is "no good option" or "no clear answer".  Especially when I have to interrogate at least one engineer, and cave dive into at least one codebase, before I can deliver the bad news.
+Companies pay me hundreds, sometimes thousands of United States Dollars to answer these questions.  Which is ridiculous.  Especially when my answer is "no good option" or "no clear answer".  Especially when I have to interrogate at least one engineer, and cave dive into at least one codebase, before I can deliver the bad news.
 
 There are some easy cases.  But you can't spot them confidently without spending a whole lot of time reading, analyzing, and talking about copyleft legacy systems first.  The best heuristic is general old-fashionedness.  The closer the software being licensed, and the software people will want to make with it, to the way things were done back in 1989, the better the chance of a solid, effective answer.
 
-If I could write "Which license?" as a chat bot, I would.  That wouldn't do anything for the people who have to hear "no option".  But it would help some of the rest.  Unfortunately, I can't.  The decision tree is too wide and too deep.  Even when there is an answer, there is always the threat of new vulnerabilities.  The question is put the right way, but it can't be answered in the same terms.
+If I could write "Which license?" as a chat bot, I would.  That wouldn't do anything for the people who have to read:
 
-If I could write "Can I use this?" as a test to run in CI, I would.  I tried.  In the end, it involved far too much configuration, even within the relatively modern, consistent playpen of npm, under the conventions of that single ecosystem.  The [program](https://www.npmjs.com/package/licensee) I have that works requires a whitelist of licenses.  To avoid that format, I'd need a file full of flags corresponding essentially to the questions that I'd ask a client, as a lawyer, in order to map to a whitelist of licenses.  Whether I ask for licenses or legal assessments that point to licenses, if I'm asking developers, I'm asking for trouble.  That isn't solving the problem, it's turning the easy parts into software, pushing the hard parts onto the user, and slapping `"AS IS", WITHOUT WARRANTY OF ANY KIND` on it.
+```
+No option for you.
+Please rate my service today...
+```
 
-Permissive licenses seem to get simpler.  Not necessarily better, but simpler.  Sometimes [dangerously so](https://opensource.org/licenses/FPL-1.0.0).  Copyleft gets more complex, and seems to get worse.
+It might help some of the rest.  Unfortunately, I can't.  The decision tree is too wide and too deep.  Even when there is an answer, it always comes with an expiration date, waiting for new vulnerabilities.  Many prior copyleft implementations are electively coupled to legal definitions, which [change on us](https://en.wikipedia.org/wiki/Oracle_America,_Inc._v._Google,_Inc.).  In the end, "Which open source license do I pick to make my work free for free only?" is putt it the right way, but can't be answered in the same good terms in which it's asked.
 
-Copyleft is thrashing in the tar pit.  It can't get out of where it is now, and where it is now, it's sinking.
+If I could write "Can I use this?" as a program to run in continuous integration, I would, too.  I tried.  In the end, it involved far too much configuration, even within the relatively modern, consistent playpen of npm, under the conventions of that single ecosystem.  The [program](https://www.npmjs.com/package/licensee) I use personally and with clients requires a whitelist of licenses.  To avoid that format, I'd need a file full of flags corresponding essentially to the questions that I'd ask a client, as their lawyer, in order to map to licenses for a whitelist.  Whether I ask for licenses or legal assessments that point to licenses, if I'm asking developers, I'm asking for trouble.  That isn't solving the problem.  It's turning the easy parts into software, pushing the hard parts onto the user, and slapping `"AS IS", WITHOUT WARRANTY OF ANY KIND` on it.
+
+A mess in the legal, and no software salvation in sight.  Where does that leave us?
+
+Permissive licenses seem to get simpler.  Not necessarily better, but simpler.  Sometimes [dangerously so](https://opensource.org/licenses/FPL-1.0.0).
+
+Meanwhile, copyleft gets more complex, and seems to get worse.
+
+Copyleft is thrashing in the tar pit.  It can't get out of where it is now, and where it it, it's sinking.
 
 # Refactor
 
-So I wrote a new license: The License Zero Reciprocal Public License.  That license became [Parity].
+So I trod off to fresh ground, and wrote a new license: The License Zero Noncommercial Public License.  I pasted the noncommercial bits of Creative Commons' CC-BY-NC into BSD, and went from there.  Lots of work modernizing the base terms.  Now it's [Prosperity].
+
+Some of my friends and colleagues won't use a noncommercial license.  They insist on copyleft, but not on the FSF's compromises or self-limitations.  So I wrote another license: The License Zero Reciprocal Public License.  I pasted "free for open source" into BSD, and went from there.  Modernized the base terms.  Split it out into three rules, for clarity.  Required sharing alike, but not necessarily on the same terms, to avoid some compatibility headaches and facilitate some new collaborative licensing models.  After a few months through the tar pit, the escaped survivor became [Parity].  Lots and lots of good feedback from there.
+
+The decision tree for developers into and out of License Zero is now pretty simple.
+
+If the majority of people will use your software to make other software, consider [Parity].  Application?  Library?  Framework?  Toolkit?  Plugin?  Front-end?  Back-end?  Peer-to-peer?  Compiled?  Interpreted?  Distributed?  Interpreter?  Package manager?  Dev tool?  Doesn't matter.  [Parity] it is.
+
+If the majority of people will use your software to do something else, consider [Prosperity].
+
+The decision tree for users is much simplified, too.
+
+Building closed software?  You need private licenses for [Parity] code.
+
+Doing commercial work?  You need private licenses for [Prosperity] code.
+
+Static or dynamic linking?  Distributed or networked application?  Modified or unmodified use?  Production or development dependency?  Doesn't matter.  See above.  And `licensezero quote --help`.
+
+# Apologia
+
+If you're running a dual licensing play with GPL or AGPL or OSL or RPL or, heck, even Sleepycat, I'd love to help you.  But License Zero and your project's license would not be good for each another.  License Zero can only complicate itself by [reverently binging itself to the mast of the past](https://blog.licensezero.com/2018/05/13/commons-club.html#past).  Standing where we are now, I can't place license history above either developers or users, or pretend that their needs pale in comparison to network benefits in emerging language communities.
+
+As it turns out, radical copyleft and noncommercial licenses, while gnawing for those, like me, who have invested in the old terms and their vagaries, turn out to be simpler for eschewing compromise.  By taking the community's intentions and understandings and writing them into legal terms, License Zero avoids the complexity of dictating to practice from theory and history.  That, in turn, makes room in the complexity budget for the software and other conventions---metadata, private licenses, collaboration management---that close the loop for developers looking to stay independent while bootstrapping their projects.
