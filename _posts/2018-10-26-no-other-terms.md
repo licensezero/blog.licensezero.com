@@ -24,7 +24,7 @@ licensezero buy
 licensezero buy --open
 
 # Building closed noncommercial software:
-licensezero buy --nonmcommercial
+licensezero buy --noncommercial
 ```
 
 Reliable, usable integration of code and terms isn't possible with the exception-ridden, spaghetti-terms copyleft licenses of the past.  We'd need a `--static-linking` flag.  A `--within-organization` flag. A `--using-gplv2` flag.  A `--just-separate-modules` option.  We'd need `--network-service` and `--without-changes`.  And several more.  The manpage would be a law treatise on copyleft licensing.
@@ -63,7 +63,7 @@ When large proprietary software companies with megaton legal talent prohibit str
 
 However, in time, licenses that meant "free for open source" to start come to mean something less, something more complicated.  They come to mean what they actually say.  Something far more esoteric.  Something inherently weaker.
 
-Eventually, when enough valuable software comes under a particular strong-copyleft license, or a company wants to appropriate a particular piece of work badly enough, lawyers are summoned, limits are test, words are stretched, lines are smudged, and loopholes open.  Essentially, every strong copyleft license is its own kind of bug bounty program: first proprietary user to the software, past the license, wins a first-mover advantage.  The more valuable the software, the greater the advantage---the greater the bounty.  Of course, once a loophole is known, it never stays a secret.
+Eventually, when enough valuable software comes under a particular strong-copyleft license, or a company wants to appropriate a particular piece of work badly enough, lawyers are summoned, limits are tested, words are stretched, lines are smudged, and loopholes open.  Essentially, every strong copyleft license is its own kind of bug bounty program: first proprietary user to the software, past the license, wins a first-mover advantage.  The more valuable the software, the greater the advantage---the greater the bounty.  Of course, once a loophole is known, it never stays a secret.
 
 # Hacks, Patches, and Holes
 
