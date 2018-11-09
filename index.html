@@ -2,15 +2,15 @@
 layout: default
 ---
 <ol class=posts>
-	{% for post in site.posts %}
-	<li>
-		<p class=date>{{ post.date | date: "%Y-%m-%d" }}</p>
-		<a href="{{ post.url }}" class=title>
-			{{ post.title | smartify }}
-		</a>
+  {% for post in site.posts %}
+  <li>
+    <p class=date>{{ post.date | date: "%Y-%m-%d" }}</p>
+    <a href="{{ post.url }}" class=title>
+      {{ post.title | smartify }}
+    </a>
     <p class=description>
       {{ post.description }}
     </p>
-	</li>
-	{% endfor %}
+  </li>
+  {% endfor %}
 </ol>
