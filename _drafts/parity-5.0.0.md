@@ -330,9 +330,9 @@ Finally, note that Rule 3 acts as a fallback or catch-all contribution rule in s
 
 > Ensure everyone who gets a copy of this software from you, in source code or any other form, gets the text of this license and the contributor and source code lines above.
 
-Rule 4 mirrors so-called "attribution conditions" found in the overwhelming majority of open source licenses, permissive or copyleft.  See, for example, the second paragraph of the MIT License, and clauses 1 and 2 of the two-clause BSD license.  Copies of the software must come with copies of the license and its notices.
+Rule 4 mirrors "attribution conditions" found in the overwhelming majority of open source licenses, permissive or copyleft.  See, for example, [the second paragraph of the MIT License](https://spdx.org/licenses/MIT.html), and [clauses 1 and 2 of the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html).  Copies of the software must come with copies of the license and its notices.
 
-Rule 4 differs slightly from most existing open source licenses in requiring copies of _two_ notices: the contributor line, analogous to copyright notices in prior licenses, and the source code line, peculiar to Parity.  Requiring that users pass along word on where to find source code---and potentially, where to contribute back---helps to prevent users from ending up with software they're told is open source, but with no way to find that source.
+Rule 4 differs slightly from most existing open source licenses to preserve _two_ notices: the contributor line, analogous to copyright notices in prior licenses, and the source code line, peculiar to Parity.  Requiring that users pass along word on where to find source code---and potentially, where to contribute back---helps to prevent users from ending up with software they're told is open source, but with no way to find that source.
 
 As a practical matter, I expect most Parity licensors to list a GitHub repository address or project homepage URL on their source code lines. 
 
@@ -340,92 +340,95 @@ As a practical matter, I expect most Parity licensors to list a GitHub repositor
 
 > Do not make any legal claim against anyone for infringing any patent claim they would infringe by using this software alone, accusing this software, with or without changes, alone or as part of a larger application.
 
-Rule 5 implements a so-called "defensive termination" or "patent termination" provision.  These provisions are common in recent open source licenses, especially licenses that address patents explicitly.  The overall gist: If someone sues _you_ for patents, you get your right to sue _them_ on your patents back.
+Rule 5 implements a "defensive termination" or "patent termination" provision.  These provisions are common in recent open source licenses, especially licenses that address patents explicitly.  The overall gist: If someone sues _you_ for patents, they don't get to use your open license to stop you suing back.
 
 Rule 5 largely follows the approach of [Apache 2.0 section 3](https://www.apache.org/licenses/LICENSE-2.0#patent), the current benchmark for enterprise-friendly, patent-aware open source terms.  Rule 5 triggers on a patent claim against anyone, not just the original developer or a named organization.  Once triggered, Rule 5 ends all permission granted for the software, not just patent permission.
 
-Note the reuse of "legal claim", "patent claim", "infringe", "changes", and "larger application".  Rule 5 parallels terms in the [patent permission](#patent-scope) language above it and the [damages exclusion](#damages-exclusion) below it, developing those them by consistent usage.  That development can help in legal disputes, as evidence of what the terms meant in context.  But it also helps coders and other non-legal readers understand a few of the unavoidably legal terms sprinkled throughout the otherwise plain-language text.
+Note the reuse of "legal claim", "patent claim", "infringe", "changes", and "larger application".  Rule 5 parallels terms in the [patent permission](#patent-scope) language above it and the [damages exclusion](#damages-exclusion) below it, developing their meanings by consistent usage.  That development can help in legal disputes, as evidence of what the terms meant in context.  It also helps coders and other non-legal readers understand a few of the unavoidably legal terms sprinkled throughout the otherwise plain-language text.
 
 ## Contribution Instructions
 
 > To contribute software, publish all its source code, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, and license contributions not already licensed to the public on terms as permissive as this license accordingly.
 
+Parity's [contribution rules](#contribution-rules) say when and what users must contribute back.  These instructions say how.
+
 ### Definition of "Contribute"
 
 > To contribute software, ...
 
-The [three contribution rules](#contribution-rules) all require users to "contribute" various kinds of software.  This part tells what "contribute" means.
+The [three contribution rules](#contribution-rules) all require users to "contribute" various kinds of software.  This part connects to the rules by defining "contribute".
 
 ### Publication of All Source Code
 
 > ... publish all its source code ...
 
-Parity departs from most popular copyleft licenses to date in requiring that users share back not by giving source code to downstream users, but by requiring them to publish source codes that everyone can find and access it.  As a practical matter, this is how cooperative users of copyleft code choose to make source code available, anyway.  Even uncooperative copyleft users _made_ to share source code by enforcement of the copyleft license often post source code online, rather than distribute copies of source code to each recipient of the software who didn't get a copy to begin with.
+Parity departs from most popular copyleft licenses to date in requiring that users share back not by giving source code to downstream users, but by requiring them to publish source code so that the public at large can find and access it.  As a practical matter, this is how cooperative users of copyleft code choose to make source code available, anyway.  Even uncooperative copyleft users _made_ to share source code by license enforcement often post source code online, rather than distribute copies of source code to each recipient of the software who didn't get a copy to begin with.
 
-Note that as with [the contribution rules](#contribution-rules), Parity's instructions for contributing source code don't draw any unnecessary lines between source code that does and does not need to be share.  _All_ source code for the software covered by the rule must be shared.  For example, under [Rule 2](#rule-2), all source code for the "larger application" that the licensed software is made "a part of" must be contributed.
+Note that as with [the contribution rules](#contribution-rules), Parity's instructions for contributing source code don't draw any unnecessary lines between source code that does and does not need to be contributed.  _All_ source code for the software covered by the rule must be contributed.  For example, under [Rule 2](#rule-2), all source code for the "larger application" that the licensed software is made "a part of" must be contributed.
 
 ### Preferred Form
 
 > ... in the preferred form for making changes ...
 
-Parity follows the language of existing copyleft licenses, like the GPLs, as well as language in the Open Source Definition, in requiring the preferred form of source code.  Contributing just minified, pregenerated, or other intermediate source-code-like content doesn't satisfy Parity's contribution rules.
+Parity follows the language of existing copyleft licenses, like the [GPLs](https://www.gnu.org/licenses/gpl-3.0.en.html#section1), as well as [language in the Open Source Definition](https://opensource.org/osd#include-source-code), in requiring the preferred form of source code.  Contributing just minified, generated, or other intermediate source code content doesn't satisfy Parity's contribution rules.
 
 ### Distribution System
 
 > ... through a freely accessible distribution system widely used for similar source code ...
 
-The purpose of this phrase is to ensure that new contributors publish their work such that others can find it and acquire it.  The specific language attempts to abstract past and current preferred methods for open source collaboration, from shell accounts to FTP servers, web directories, package repositories, and collaboration platforms like public GitHub.
+This phrase ensures that new contributors publish their work such that others can find it and get copies of it.  The specific language attempts to abstract past and current preferred methods for open source collaboration, from shell accounts to FTP servers, web directories, package repositories, and collaboration platforms.
 
-This definition also attempts to honor that different communities prefer different distribution systems.  Parity puts the burden on the new contributor to determine which system is widely used for source code like the source code they must contribute.
+This language also honors diversity in development communities' preferences.  Parity puts the burden on the new contributor to determine which system is widely used for source code like the source code they must contribute, and to use that system.
 
-Alternatively, Parity could put the whole burden of choosing the proper distribution system on the new contributor.  For example, Parity could require publication where users will expect it, where they'll be able to find it, and where they'll be able to get it free of charge.  I've avoided that approach to date, because readers seem to jump from the current language to a particular system more readily.
+Alternatively, Parity could put the whole burden of choosing the proper distribution system on the new contributor.  For example, Parity could require publication where users will expect it, where they'll be able to find it, and where they'll be able to get it free of charge.  That would go more directly to the goal of the license.  But I've avoided that approach to date, because readers seem to stumble on terms written that way, while they readily jump from the current language to a particular system in mind.
 
 ### Contribution Licensing
 
 > ... and license contributions not already licensed to the public on terms as permissive as this license accordingly.
 
-All effective copyleft licenses require _both_ source code and a license for it.  Parity differs from prior copyleft licenses in the terms it requires for required contributions.
-First, Parity only requires licensing code that isn't already licensed on terms at least as permissive as Parity itself.  If part of the source code to be contributed is already available under qualifying open terms, the developer needn't republish, relicense, or outright avoid that source code.
+All effective copyleft licenses require _both_ sharing source code _and_ licensing it under acceptable terms.  Parity differs from prior copyleft licenses by substantially loosening its licensing requirements.
 
-Second, Parity doesn't require that new contributors use Parity terms for their work.  Rather, Parity requires that new contributors use terms at least as permissive as Parity.
+First, Parity only requires licensing code that isn't already licensed on qualifying terms.  If part of the source code to be contributed is already available under qualifying open terms, the developer needn't republish, relicense, or avoid that source code.
 
-Open source license specialists, and especially open source license specialists who aren't lawyers, and don't work with other kinds of software licenses on a regular basis, "permissive" means something a bit more specific.  "Permissive" contrasts with "copyleft" or "reciprocal", as a category.  On a scale from maximally permissive open source terms, like 0BSD or FPL, to maximally strong copyleft, Parity falls at the extreme strong end of copyleft.  In those terms, Parity is perhaps the least permissive open software license yet written.  Nearly any popular open software license is arguably "as permissive" as Parity.
+Second, Parity doesn't require contributors to use Parity terms for their work.  Any terms at least as permissive as Parity qualify.
 
-In the grand scheme of things, open source included, open software licenses are all incredibly permissive.  Without a license, copyright and patent law permit very little.  Open software licenses substantially reverse those defaults.
+Open source license specialists, and especially open source license specialists who aren't lawyers and don't regularly work with other kinds of software licenses, often use "permissive" in a specific way.  In particular, "permissive" contrasts with "copyleft" or "reciprocal", as a category.  On a scale from maximally permissive terms, like [0BSD](https://spdx.org/licenses/0BSD.html), to maximally strong copyleft, Parity falls at the extreme strong end of copyleft.  Seen this way, Parity might be the least permissive open software license ever written.  Any popular open software license is arguably "as permissive" as Parity, and moreso.
 
-The phrase "as permissive" may be the most vague bit of language in Parity.  It's not clear whether a court would look to the open-source-jargon meaning of "permissive", or its plain meaning.  It's not clear how a court would analyze specific licenses, especially specific licenses with rules different in kind from Parity's.  For example, the the Artistic License 2.0 has rules about changing the name of a changed copy of the licensed program, to avoid conflicts with the name of the "Standard Version".  Artistic 2.0 therefore prohibits some actions that Parity permits, like changing the standard versions without yielding its name, while Parity prohibits some actions that Artistic 2.0 does not, like hoarding private changes.  It's not entirely clear whether Artistic 2.0 is "as permissive" as Parity 5.0.0.
+In the grand scheme of things, open source included, open software licenses are all incredibly permissive.  Without a license, copyright and patent law permit very little.  Everything which is not permitted is forbidden.  Open software licenses substantially reverse those defaults.  Everything which is not forbidden is permitted.
 
-Spelling out precisely what kinds of terms are allowed, or which specific licenses are allowed, would double or triple Parity's length.  Such an approach would amount to a survey of open source licensing terms or a clone of existing approved-license lists.  It was also go out of date, and require either ongoing maintenance or delegation to a decision making body, to decide which terms qualify.
+The phrase "as permissive" may be the most vague bit of language in Parity.  It's not precisely clear whether a court would look to the open-source-jargon meaning of "permissive", or its more general meaning.  It's not precisely clear how a court would analyze specific licenses, especially specific licenses with rules different in kind from Parity's.  For example, the the Artistic License 2.0 has rules about changing the name of a changed copy of the licensed program, to avoid conflicts with the name of the "Standard Version".  Artistic 2.0 therefore prohibits some actions that Parity permits, like changing the standard versions without yielding its name, while Parity prohibits some actions that Artistic 2.0 does not, like hoarding private changes.
 
-None of that seems worthwhile.  As written, Parity clearly permits many popular permissive licenses, especially popular academic permissive licenses like MIT- and BSD-family terms.  In parallel with Parity, I've drafted and released [Charity](http://licensezero.com/licenses/charity), which is essentially Parity with the contribution rules removed.  Sharing much of the same text, Charity is clearly more permissive than Parity.
+Generalizing all the kinds of terms that qualify, or listing out specific qualifying licenses, would double or triple Parity's length.  Such an approach would amount to either a survey of open source licensing terms, or a near clone of an existing approved-license list.  It would also go out of date, inevitably, and require either ongoing maintenance or delegation to a decision making body.
 
-I continue to experiment with terser ways to clarify the language.  For example, a future version of Parity might require terms that permit at least the actions that Parity does.  That would exclude licenses with peculiar conditions and requirements, like Artistic 2.0.  Please [share any ideas or feedback you may have](https://github.com/licensezero/parity-public-license/issues/new).
+None of that seems wise.  As written, Parity clearly permits many popular permissive licenses, especially popular academic permissive licenses like MIT- and BSD-family terms.  In parallel with Parity, I've drafted and released [Charity](http://licensezero.com/licenses/charity): a permissive license made from Parity, by removing Parity's contribution rules.  Sharing much of the same text, but with fewer rules, Charity is clearly more permissive than Parity.
+
+I continue to experiment with terser ways to clarify Parity's rules for qualifying license terms.  For example, a future version of Parity might require terms that permit at least the actions that Parity does.  That would exclude licenses with peculiar conditions and requirements, like Artistic 2.0, but continue to qualify more licenses like MIT and BSD.  Please [share any ideas or feedback you may have](https://github.com/licensezero/parity-public-license/issues/new).
 
 ## Automatic Excuse
 
 > You are excused for unknowingly breaking 1, 2, or 3 if you contribute as required, or stop doing anything requiring this license, within 30 days of learning you broke the rule.
 
-Parity follows recent copyleft licenses, like MPL 2.0, AGPLv3, and GPLv3, in giving users who unintentionally break its [contribution rules](#contribution-rules) an out from liability.  In essence, if you break one of those rules without knowing, and find out later, you have thirty days to contribute the software you should have contributed to begin with, or stop using the Parity-licensed code.
+Parity follows recent copyleft licenses, like MPL 2.0, AGPLv3, and GPLv3, in giving users who unintentionally break its [contribution rules](#contribution-rules) a way to avoid legal liability.  In essence, if you break one of those rules without knowing about it and find out later, you have thirty days to contribute the software you should have contributed to begin with, or to stop using the Parity-licensed code altogether.
 
-It's very time consuming and difficult to prove, in a court of law, when a person or especially a company knew something in particular.  However, developers using Parity have a direct way to establish knowledge: send the user breaking the rule a notice that they are violating the license.
+It's very time consuming and difficult to prove, in a court of law, when a person or especially a company knew something specific.  However, developers using Parity have a direct way to establish knowledge: send the user breaking the rule a notice that they are violating the license.  Licensors can start the thirty-day countdown running.
 
 ## Limits on Liability
 
-Parity follows nearly all prior open software licenses in doing as much as possible to limit the contributor's legal liability for the software they contribute.  Typically, these provisions appear in `ALL CAPS`.
+Parity follows nearly all prior open software licenses in doing as much as possible to limit the contributor's legal liability for the software they contribute.  Typically, these provisions include long, run-on lists of risks and claims and theories of liability, in `ALL CAPS`.
 
-Parity differs by making these terms conspicuous with asterisks, instead, and by making them terse and readable.
+Parity differs by making these terms short and readable, set apart from other terms with asterisks.
 
 ### Warranty Disclaimer
 
 > **This software comes as is, without any warranty at all.** 
 
-By default, many countries' laws [imply promises about software, called warranties, unless terms say otherwise](https://oss.kemitchell.com/#warranties).  This sentence says otherwise, as clearly and succinctly as possible.
+By default, many countries' laws [imply promises about software, called warranties](https://oss.kemitchell.com/#warranties), unless terms say otherwise.  This sentence says otherwise, as clearly and succinctly as possible.
 
 Under the Uniform Commercial Code, a standardized contract law adopted by the vast majority of the United States, "as is" are magic words for disclaiming warranties.
 
-Note that some jurisdictions, like England and Ireland, continue to make a doubtfully useful, technical distinction between "warranties" and "conditions".  [Courts remain bound by precedent, but do what they can to work around the pedantry.](https://ipdraughts.wordpress.com/2012/02/26/using-us-contract-templates-outside-the-us-it-can-be-a-bad-mistake/).  Parity's disclaimer mentions only "warranty", but its damages exclusion has overlapping effect.
-
 For in-depth comments on a more traditional warranty disclaimer, from the MIT License, see [my previous line-by-line on that license](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html#warranty-disclaimer).
+
+Finally, note that some jurisdictions, like England and Ireland, continue to make a dubious, technical distinction between "warranties" and "conditions".  [Courts remain bound by precedent, but do what they can to work around the pedantry.](https://ipdraughts.wordpress.com/2012/02/26/using-us-contract-templates-outside-the-us-it-can-be-a-bad-mistake/)  Parity's disclaimer mentions only "warranty", without catering to that anachronism.  Parity's damages exclusion has overlapping effect.
 
 ### Damages Exclusion
 
@@ -434,14 +437,14 @@ For in-depth comments on a more traditional warranty disclaimer, from the MIT Li
 
 For in-depth comments on a more traditional damages exclusion, again from the MIT License, see [the corresponding section of my post](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html#limitation-of-liability).  Those comments touch on my arguments for short exclusions like Parity's in public software licenses.
 
-In brief, "As far as the law allows" avoids overtly misleading users in jurisdictions where some warranties can't be disclaimed.  The phrase "related to" accomplishes the desired effect without its traditional legal doublet pair, "arising out of".   The disjunction "this software or this license" follows [OSL](https://opensource.org/licenses/OSL-3.0) and [AFL](https://opensource.org/licenses/AFL-3.0).  The phrase "for any kind of legal claim" addresses some unfortunate American precedent holding the fact that terms describe a contract, rather than anything _in_ those terms, to limit damages only for contract claims, and not for tort claims.
+In brief, "As far as the law allows" avoids overtly misleading users in jurisdictions where some warranties can't be disclaimed.  The phrase "related to" accomplishes the desired scoping effect without the pointless legal doublet, "arising out of or related to".   The disjunction "this software or this license" follows [OSL](https://opensource.org/licenses/OSL-3.0) and [AFL](https://opensource.org/licenses/AFL-3.0).  The phrase "for any kind of legal claim" addresses some unfortunate American precedent holding the fact that terms describe a contract, rather than anything _in_ those terms, to limit damages only for contract claims, and not for tort claims.
 
 # What's Next?
 
-I will keep reading feedback.
+I will keep reading feedback!
 
-Since rewriting The License Zero Reciprocal Public License, Parity's predecessor, in plain-language terms, I've been overjoyed with the quantity and reliable _quality_ of feedback, especially from coders.  Signal-to-noise on this license, and License Zero generally, has been incredible.  Parity 5.0.0 [came straight from user feedback](https://github.com/licensezero/parity-public-license/issues/25).  That is how open software licenses should be written.
+Since rewriting The License Zero Reciprocal Public License, Parity's predecessor, in plain English, I've been overjoyed with the quantity and reliable _quality_ of feedback, especially from coders.  Signal-to-noise on this license, and the License Zero project more generally, has been incredible.  Parity 5.0.0 [came straight from user feedback](https://github.com/licensezero/parity-public-license/issues/25).  That is how open software licenses should develop.
 
-Of course, I will also keep reviewing the license on a schedule, polishing and experimenting, setting it aside, and returning to it again as soon as it's fresh in my mind again.
+Of course, I will also keep reviewing the license on a schedule, polishing and experimenting, setting it aside, and returning to it again as soon as it's fresh again.  There's no substitute for legal attention.  Parity has plenty.  I'm sure I'll give it plenty more.
 
-As always, feel free to reach out.  [Issues are open in the license's GitHub repo](https://github.com/licensezero/parity-public-license/issues).  I check [the @licensezero Twitter account regularly](https://twitter.com/LicenseZero).  You can always reach me [by e-mail](mailto:kyle@artlessdevices.com).
+As always, feel free to reach out.  [Issues are open in the license's GitHub repo](https://github.com/licensezero/parity-public-license/issues).  I check [the @licensezero Twitter account regularly](https://twitter.com/LicenseZero).  For a quick read, [e-mail](mailto:kyle@artlessdevices.com) is always best.
