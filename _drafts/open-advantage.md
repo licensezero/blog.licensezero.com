@@ -7,12 +7,8 @@ tags:
 - licensing
 ---
 
-For a good long time, industry as a whole refused to use open source software, even open source software under permissive licenses.
+For a good long time, industry spurned open source software, even under permissive licenses.  We still see contract terms prohibiting open source use in legal forms today, as industry increasingly adopts open source for internal software projects, especially open source under permissive licenses like MIT, BSD, and Apache.
 
-We still see contract terms prohibiting or tightly controlling open source use in enterprise forms today.
+When open source was banned entirely, industry treated all open source, permissive and copyleft, as they treat copyleft software today.
 
-Now acceptance of permissively licensed open source is popular.  But we continue to see bans on copyleft software.
-
-When _all_ open source was banned, enterprises treated all open source as they treat copyleft software today.
-
-Since enterprises refused to use even permissively licensed open source software, releasing even permissively licensed open source software created competitive advantage for allies of open source.
+Since the industry mainstream refused to use even permissively licensed open source software, releasing open source software under nearly any kind of license created a competitive advantage for open-counterculture allies.  Releasing code under a BSD license made it available to fellow open source developers, working independent or starting companies.
