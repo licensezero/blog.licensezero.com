@@ -1,4 +1,4 @@
-name: License Zero
+title: License Zero
 description: gainful open software development
 url: https://blog.licensezero.com
 permalink: :year/:month/:day/:title.html
@@ -6,13 +6,15 @@ author: Artless Devices LLC
 homepage: https://licensezero.com
 highlighter: rouge
 excerpt_separator: "<!--jump-->"
-repository: licensezero/licensezero-blog
-repository_url: "https://github.com/licensezero/licensezero-blog"
+repository: licensezero/blog.licensezero.com
+repository_url: "https://github.com/licensezero/blog.licensezero.com"
 plugins:
 - jekyll-sass-converter
 - jekyll-feed
 exclude:
 - vendor
+feed:
+  path: feed.xml
 defaults:
   - scope:
       path: ""

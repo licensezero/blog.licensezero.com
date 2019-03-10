@@ -1,3 +1,0 @@
-#!/bin/sh
-bundle exec jekyll build
-rsync  --archive --compress --force --delete --progress _site/ kyle@licensezero.com:/var/www/blog.licensezero.com/
