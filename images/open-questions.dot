@@ -1,0 +1,35 @@
+digraph {
+  Assurances[label="Additional\nLegal\nAssurances"];
+  Development[label="Further\nDevelopment"];
+  Donations[label="Donations?"];
+  Security[label="Security\nInformation"];
+  SellAds[label="Sell ads or sponsorships?"];
+  ShouldWithhold[label="Withhold stuff\nfor money?"];
+  Endorsement[label="Endorsements\nTrademarks\nCertifications"];
+  WithholdWhat[label="Withhold what?"];
+
+  BountySource[shape="rect",URL="https://bountysource.com"];
+  CodeFund[shape="rect",URL="https://codefund.io"];
+  CommunityBridge[shape="rect",URL="https://communitybridge.org"];
+  GitCoin[shape="rect",URL="https://gitcoin.co"];
+  GitStore[shape="rect",URL="https://gitstore.app"];
+  ItchIO[shape="rect",URL="https://itch.io",label="itch.io"];
+  LiberaPay[shape="rect",URL="https://liberapay.org"];
+  LicenseZero[shape="rect",URL="https://licensezero.com",label="License Zero"];
+  OpenCollective[shape="rect",URL="https://opencollective.com"];
+  Patreon[shape="rect",URL="https://patreon.com"];
+  Tidelift[shape="rect",URL="https://tidelift.com"];
+
+  ShouldWithhold -> SellAds[label="No"];
+  ShouldWithhold -> WithholdWhat[label="Yes"];
+  SellAds -> {CodeFund, OpenCollective}[label="Yes"];
+  SellAds -> Donations[label="No"];
+  Donations -> {OpenCollective, CommunityBridge, LiberaPay, Patreon}[label="Yes"];
+  WithholdWhat -> {License, Support, Development, Security, Assurances, Distribution, Endorsement};
+  License -> {LicenseZero, ItchIO};
+  Development -> {BountySource, GitCoin, Tidelift, GitStore};
+  Security -> {Tidelift, GitStore};
+  Support -> {Tidelift, GitStore};
+  Assurances -> {Tidelift};
+  Distribution -> {GitStore, ItchIO};
+}
