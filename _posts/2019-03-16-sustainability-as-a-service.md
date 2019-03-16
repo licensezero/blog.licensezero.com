@@ -6,7 +6,7 @@ layout: post
 
 License Zero is one of a growing category of companies promoting and systematizing ways to get open software developers paid.  Behold:
 
-![decision tree](/images/open-questions.svg)
+<a class="noglyph" href="/images/open-questions.svg"><img alt="graph" src="/images/open-questions.svg"></a>
 
 I could not be more happy to see that graph grow.  Granted, I have very strong opinions about the trade-offs of different approaches represented.  I also have my own set of constraints: personal, business-wise, and self-imposed.  License Zero's particular design reflects those constraints as much as my views.
 
