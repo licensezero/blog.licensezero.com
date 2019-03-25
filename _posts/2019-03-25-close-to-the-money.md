@@ -6,15 +6,17 @@ layout: post
 
 There's nothing magical about software as a service.  The value chain begins where the software begins.  Code isn't worthless until somebody makes SaaS with it.
 
-Sure, some kinds of customers prefer to buy some kinds of software on a service basis.  I'm a [FastMail](https://fastmail.com/)-[Pinboard](https://pinboard.in/)-[IRCCloud](https://www.irccloud.com/)-[Feedbin](https://feedbin.me/) man, myself.  From the other direction, a great many vendors prefer to sell software that way, and manage to bring customers along, more or less.  [Creative Suite](https://www.adobe.com/creativecloud/plans.html) always comes to mind.  But the same customers prefer other kinds software to download and install.  So SaaS is king, but so, apparently, are app stores and marketplaces.  For games.  For mobile apps.  For add-ons to the pricey programs people use to practice professions.
+Sure, some kinds of customers prefer to buy some kinds of software on a service basis.  I'm a [FastMail](https://fastmail.com/)-[Pinboard](https://pinboard.in/)-[IRCCloud](https://www.irccloud.com/)-[Feedbin](https://feedbin.me/) man, myself.  From the other direction, a great many vendors prefer to sell their software as services, and manage to bring customers along, more or less.  [Creative Suite](https://www.adobe.com/creativecloud/plans.html) always comes to mind.
+
+But the same customers prefer other kinds software to download and install.  So SaaS is king, but so, apparently, are app stores and marketplaces.  For games.  For mobile apps.  For add-ons to the pricey programs people use to practice professions.
 
 In the end, customers get the value of software, and pay for it.  But between producer and consumer, software gets distributed any which way.  When the customer makes software themself, tellingly, download-and-install is by far the predominant model.  That's also changing to some extent.  But all else equal, we'd rather run [devise](https://github.com/plataformatec/devise) than rely on [Auth0](https://auth0.com/).  We'd rather load [VS Code](https://code.visualstudio.com/) than log into a web-based IDE.  And not just 'cause open costs nil.  Not Invented Here cohabitates with Host Everything we Run Ourselves.
 
-When large software sellers justify [how their financial expectations differ from those they think open developers are justified in having](https://blog.licensezero.com/2018/06/14/profit-sustainability.html), they often invoke nebulous, unattainable, and purportedly inherent commercial virtues of whatever distribution model they happen to use, and you don't.  It's commercial predestination.  You are not among the Chosen Vendors, and cannot see The Light.  Rented services are the wave of the future, licensed software is not.  App store review ensures trust, openness does not.  All tenuous, often ridiculous.  And usually self-serving, which is the way of the gun.
+When large software sellers justify [how their financial expectations differ from those they think open developers are justified in having](https://blog.licensezero.com/2018/06/14/profit-sustainability.html), they often invoke nebulous, and purportedly inherent commercial virtues of whatever distribution model they happen to use, and you don't.  It's commercial predestination.  Rented services are the wave of the future, licensed software is not.  App store review ensures trust, openness does not.  All tenuous and ill-supported.  And usually self-serving, which is the way of the gun.
 
 There _is_ a fundamental difference, but it's much simpler:
 
-_The incumbent owns the customer relationship, and you do not._
+_They own the customer relationship, and you do not._
 
 Maybe they host a service, package an application, steward an app store, or do all three, willy-nilly.  But they are close to the money---other people's money---and you are at best close to them, or so it seems from their point of view.  That makes them irreplaceable, and you---and your work---inevitable commodity, doomed to shrinking margins and eventual usurpation by the first lumbering behemoth with cash-on-hand willing to do what you do as a loss-leader.  Never mind the shortage of talent to do so, with the caliber of output they'd otherwise deign to depend upon.
 
@@ -24,7 +26,7 @@ Apple sells apps through its App Stores.  Apple computers, including smartphones
 
 Red Hat sells subscriptions for software distribution, advice, and support.  Subscriptions come with a certain baseline guarantee of quality and accountability, within the boundaries of their branded distribution.  Overall, the experience meets corporate expectations.  It can be damn hard to compete in support, even for your own work.  Big companies know who Red Hat is, but they don't know you.
 
-Each of these is a great gravity well in the fabric of commercial spacetime.  They combine structural binds on customers they have, like network effects, with strong brands, high mental availability, and one-stop-shopping.  Geeks know AWS.  Many of their employers have standing contractual relationships with them.  As a consequence, they pull suppliers of lesser market power mass into their constricting folds.  Under pressure, they combust, which keeps the profit engine turning.
+Each of these works like a gravity well in the fabric of commercial spacetime.  They combine structural binds on customers they have, like network effects, with strong brands, high mental availability, and one-stop-shopping.  Geeks know AWS.  Many of their employers have standing contractual relationships with them.  As a consequence, they pull suppliers of lesser market power mass into their constricting folds.  Under pressure, they go bang, which keeps the profit engine turning.
 
 In a far-off universe, License Zero runs this risk, too, for the sake of the one-stop-shop.  Buying one license from a project page is fine, but buying a dozen licenses from all the projects you need at once is better.
 
