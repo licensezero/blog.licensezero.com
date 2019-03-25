@@ -1,6 +1,6 @@
 ---
 title: Close to the Money
-description: dissing distinction without difference in distribution
+description: distinctions without difference in software distribution
 layout: post
 ---
 
