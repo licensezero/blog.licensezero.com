@@ -1,7 +1,7 @@
 ---
 ---
 
-$interPostPadding: 36px
+$interPostSpace: 36px
 $darkRed: #800000
 $pageWidth: 600px
 
@@ -73,7 +73,7 @@ ol.posts
   &> li
     width: $pageWidth
     .tags
-      padding-bottom: $interPostPadding
+      padding-bottom: $interPostSpace
 
   .description, .date
     padding: 1ex 0
@@ -92,16 +92,16 @@ ol.posts
 
 .post
   header
-    margin-top: $interPostPadding
+    margin-top: $interPostSpace
 
     img
-      margin-top: $interPostPadding / 2
+      margin-top: $interPostSpace / 2
 
     h1, p
-      margin: 0 0 0 $interPostPadding
+      margin: 0 0 0 $interPostSpace
 
     h1
-      padding-top: $interPostPadding
+      margin-top: $interPostSpace
       font-size: 200%
       line-height: 1.25
 
@@ -112,7 +112,7 @@ ol.posts
 
   h1
     font-size: 200%
-    padding: 1em 0 0.25em 0
+    margin: 1em 0 0.25em 0
     small
       display: block
       clear: both
@@ -122,9 +122,9 @@ ol.posts
       color: #777
   h2
     font-size: 150%
-    padding: 1em 0 0.25em 0
+    margin: 1em 0 0.25em 0
   h3
-    padding: 1em 0 0.25em 0
+    margin: 1em 0 0.25em 0
   p
     padding: 0.5em 0
     hyphens: auto
@@ -170,7 +170,7 @@ ol.posts
     margin-top: 0.5rem
     margin-bottom: 0.5rem
     h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child
-      padding-top: 1rem
+      margin-top: 1rem
     p:first-child
       text-indent: 0
     ol:first-child
