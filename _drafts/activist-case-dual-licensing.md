@@ -1,6 +1,6 @@
 ---
 title: The Case for Selling Exceptions
-description:
+description: a model for copyleft, in more ways than one
 layout: post
 ---
 
@@ -114,8 +114,10 @@ Copyleft network effect ensures plenty of incentive to concoct a new, software-f
 
 ## Selling exceptions is different.
 
-There are many reasons to support selling exceptions, dual licensing, [public-private licensing](https://indieopensource.com/public-private), whatever you choose to call it.  The model offers advantages unmatched by any other approach, especially for small, bootstrapping firms and independent developers.
+There are many reasons to promote selling exceptions, dual licensing, [public-private licensing](https://indieopensource.com/public-private)---whatever we choose to call it.  The model offers advantages unmatched by any other approach, especially for small, bootstrapping firms and independent developers.
 
-Add to that long list that selling exceptions, like other copyleft-based models, creates more copyleft software, and strengthens the copyleft network.  The broader we can see that network, and the less we fixate on particular projects and the narrow, intercompany politics that surround them, the more selling exceptions makes sense.
+Add to that long list that selling exceptions, like other copyleft-based models, creates more copyleft software, and strengthens the copyleft network.  The broader the perspective we can take on that network, the less we fixate on particular projects and the narrow, intercompany spats that surround them, the more selling exceptions makes sense.
 
-It's a model of the past, powering many of the earliest meaningful open source business success stories.  It's a model of the present, still in active use across language and industry communities, albeit with much less self-conscious fanfare than "open core", which software freedom advocates have long opposed.
+It's a model of the past, powering many of the earliest meaningful open source business success stories.  It's a model of the present, still in active use across language and industry communities, albeit with much less self-conscious fanfare than "open core", which software freedom advocates have long opposed.  It can and should be a model of the future, if we think that copyleft, and its preference for openness over closed, should have a future, and not as historical curiosity.
+
+I do.
