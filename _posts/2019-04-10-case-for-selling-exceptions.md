@@ -4,7 +4,7 @@ description: a model for copyleft, in more ways than one
 layout: post
 ---
 
-There's a view on copyleft that holds:
+There's a view on copyleft that says:
 
 > Copyleft doesn't achieve anything unless it applies to everyone, including the original developer.  If only one company can build proprietary add-ons, or sells exceptions, that's just abusing copyleft as a business ploy.
 
@@ -20,15 +20,15 @@ But not so fast.  Dig around [FSF.org](https://fsf.org) long enough, and you'll 
 
 > I've considered selling exceptions acceptable since the 1990s, and on occasion I've suggested it to companies.  Sometimes this approach has made it possible for important programs to become free software.
 
-RMS goes on to give the example of Qt's transition from proprietary to reciprocal to GPL licensing, a phenomenon I recently [explored on my personal blog](https://writing.kemitchell.com/2019/04/06/Stairway-to-Heaven.html).  Then, later in the same piece:
+He goes on to give the example of Qt's transition from proprietary to reciprocal to GPL licensing, a phenomenon I recently [explored on my personal blog](https://writing.kemitchell.com/2019/04/06/Stairway-to-Heaven.html).  Then, later in the same piece:
 
 > When I first heard of the practice of selling exceptions, I asked myself whether the practice is ethical.  If someone buys an exception to embed a program in a larger proprietary program, he's doing something wrong (namely, making proprietary software).  Does it follow that the developer that sold the exception is doing something wrong too?
 >
 > If that implication were valid, it would also apply to releasing the same program under a noncopyleft free software license, such as the X11 license.  That also permits such embedding.  So either we have to conclude that it's wrong to release anything under the X11 license---a conclusion I find unacceptably extreme---or reject the implication. Using a noncopyleft license is weak, and usually an inferior choice, but it's not wrong.
 
-I don't think condemnation of licenses like X11, better known as MIT, unacceptably extreme.  If the point is principle, picking a permissive license when copyleft would do is a straightforward offense.  Perhaps a venal sin, rather than a mortal one, but a sin nonetheless.  RMS doesn't show more work, offering a structure for cost-benefit analysis to show that letting willful permissivity slide nets out well for software freedom.
+I don't think condemnation of licenses like X11, better known as MIT, unacceptably extreme.  If the point is one of principle, picking a permissive license when copyleft would do is a straightforward offense.  Perhaps a venal sin, rather than a mortal one, but a sin nonetheless.  RMS doesn't show more work, offering a structure for cost-benefit analysis to show that letting willful permissivity slide nets out well for software freedom.  We have only the conclusion, and a general outline.
 
-As for me and my house, [License Zero](https://licensezero.com) and its [Parity Public License](https://paritylicense.com) strongly encourage selling exceptions.  licensezero.com makes selling exceptions easy.  Parity expects a single licensor in a unique position to do so.  I'm happy to show the work behind the decision to educate and systematize that particular model, of all those I've explored.
+As for me and my house, [License Zero](https://licensezero.com) and its [Parity Public License](https://paritylicense.com) strongly encourage selling exceptions.  [licensezero.com](https://licensezero.com) makes selling exceptions easy.  Parity expects a single licensor in a unique position to do so.  I'm happy to show the work behind the decision to educate and systematize that particular model, of all those I've explored.
 
 ## Copyleft is a network play.
 
