@@ -88,18 +88,34 @@ It's important not to overstate this case.  Selling exceptions has succeeded, an
 
 ## Fund bounties on new business models.
 
-That isn't to say that the copyleft network is entirely neutral, as far as would-be exception sellers go.  In fact, the copyleft network itself can occasionally be a source of serious and unexpected competition.  Accepting that risk is part of the dual licensing deal.
+That isn't to say that the copyleft network is entirely neutral, as would-be exception sellers go.  In fact, the copyleft network itself can occasionally be a source of serious and unexpected competition.  Accepting that risk is part of the dual licensing deal.
 
-Every developer considering selling exceptions faces a basic choice.  Fundamentally, there are use cases for their software that they do _no_ want to license.  To avoid handing their competitors leverage, these firms need a license that covers all use cases, except the ones that could compete them to death.
+Every developer considering selling exceptions faces a basic choice.  There are use cases for their software that they do _not_ want to license.  To avoid handing their competitors leverage, these firms need terms that cover all use cases, except the ones that might compete them to death.
 
-The most straightforward way to do this is by writing a restricted license that says, in short, "everybody can do whatever they want, except compete with us".  Such licenses aren't broadly considered "open" or "free" or "commons".  They don't ingratiate companies to activists or others who identify with unrestricted terms.  To secure that kind of recognition, companies have to settle on copyleft terms.
+The most straightforward path to these terms is writing a new restricted license that says, in short:
 
-In a nutshell, strong copyleft terms say "everybody can do whatever they want, but if that involves making software, that software has to be open, too".  That's never _exactly_ the same as "do what you want, but don't compete with us".  But when your competitors insist on keeping their work closed, the two often overlap tightly.  A license that says "if you build software, release it", given that "if our competitors make software that competes with us, they won't release it", reads the same as "don't compete with us".
+> Everybody can do whatever they want, except compete with us.
+
+Such licenses aren't broadly considered "open" or "free" or "commons".  They don't ingratiate companies to activists or others who identify with unrestricted terms.  To secure that kind of recognition, companies have to settle for copyleft terms.
+
+Strong copyleft terms say:
+
+>  Everybody can do whatever they want, but if that involves making software, that software has to be open, too.
+
+That's never _exactly_ the same as "do what you want, but don't compete with us".  But when your competitors insist on keeping their work closed, the two often overlap tightly.  A license that says "if you build software, release it", given that "if our competitors make software that competes with us, they won't release it", reads pretty close to "don't compete with us".  So firms can often say what they want to say about competition through copyleft.
 
 Historically, the assumption that business competitors will insist on keeping code closed has largely held.  But occasionally, it hasn't.
 
-The copyleft network itself _incentivizes_ business firms to find new business models that abide releasing more software as free software.  In [other writing](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#bounty), I've compared the network effect benefit of strong-copyleft software as funding a bug bounty: Find a loophole in the license, collect first-mover advantage building a closed solution with the benefit of code under those terms.  But the same bounty awaits any firm that manages to make the copyleft terms themselves irrelevant.  Find a way to do business without caring that your code has to be open, and all the same software value unlocks for your business.
+The copyleft network itself _incentivizes_ business firms to find new business models that abide releasing more software as free software.  In [other writing](https://writing.kemitchell.com/2018/11/04/Copyleft-Bust-Up.html#bounty), I've portrayed the network effect benefit of strong-copyleft software as funding a de facto bug bounty:  Find a loophole in the license, collect first-mover advantage building a closed solution with the benefit of code under that license.  But the same bounty awaits any firm that manages to accept the terms as intended.  Find a way to do business without caring that your code has to be open, and all the same software value unlocks for your firm.
 
-In that sense, every company contributing copyleft code, including those also selling exceptions, fund opposition research against their own models, and for the expansion of the copyleft network as a whole.  That is a potential long-term cost that every firm must accept for the short-term benefits of being free and open source, and still charging for licenses.
+In that sense, every company contributing copyleft code, including those also selling exceptions, fund opposition research against their own business model, and for the expansion of the copyleft network as a whole.  That is a potential long-term cost that every exception selling firm must accept, in exchange for the short-term benefits of being "free" or "open" while still charging for licenses.  The clearest potential for this kind of breakaway gambit is cloud computing.  We have endured a proprietary cloud computing revolution, transitioning now to a kind of open core for services.  Open source database companies, including MongoDB, [which began life as an open source cloud, and pivoted to focus on its database layer](https://www.mongodb.com/press/10gen-announces-company-name-change-mongodb-inc), dare a would-be AWS challenger to go fully open.
 
-The prospect is real, both intellectually and socially.  There is plenty of incentive to concoct a new, software-freedom-compatible business model, from the get-go.  But meanwhile, both copyleft network effect _and_ copyleft social proof contribute prepare an environment where more-free business models are viable.  Copyleft terms empower those within organizations who want to open their work to do so.  More organizations releasing code validates the trade-off.  The availability of the free-and-open approach increases in the collective mindset.  New, free-software models seem less crazy all the time.
+Copyleft network effect ensures plenty of incentive to concoct a new, software-freedom-compatible business model.  But at the same time, copyleft social proof conditions the business environment to accept that innovation.  Copyleft terms empower those within organizations who want to open their work to do so.  More organizations releasing code validates the trade-off.  The availability of the free-and-open approach increases in the collective mindset.  New, free-software models seem less crazy all the time.
+
+## Selling exceptions is different.
+
+There are many reasons to support selling exceptions, dual licensing, [public-private licensing](https://indieopensource.com/public-private), whatever you choose to call it.  The model offers advantages unmatched by any other approach, especially for small, bootstrapping firms and independent developers.
+
+Add to that long list that selling exceptions, like other copyleft-based models, creates more copyleft software, and strengthens the copyleft network.  The broader we can see that network, and the less we fixate on particular projects and the narrow, intercompany politics that surround them, the more selling exceptions makes sense.
+
+It's a model of the past, powering many of the earliest meaningful open source business success stories.  It's a model of the present, still in active use across language and industry communities, albeit with much less self-conscious fanfare than "open core", which software freedom advocates have long opposed.
