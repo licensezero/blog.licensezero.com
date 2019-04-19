@@ -46,7 +46,7 @@ Compare Bruce Perens, responding to Luis Villa:
 
 My response to Bruce's message, and my takeaway here more generally, is that the two predilections, in their archetypal, absolute forms, aren't going to reconcile.  Neither is there any sign that one will break away, to dominate the other.  Big Tech is getting bigger, stacking up ever higher head counts, while at the same time remote companies, contractor swarms, part-time work, and  all that's dubbed the "gig economy"---scare quotes again---flourish and grow.  By all signs, both lifestyles are stuck cohabitating a common industry for the foreseeable future.
 
-I'm not sure, in all wisdom, that either should want anything else.  Excluding one or the other, from open software or any other broad-based effort, is leaving a ton of human potential on the table.  When optimization costs that much value, it's almost never worthwhile.
+I'm not sure, in all wisdom, that either should want anything else.  Excluding one or the other, from open software or any other broad-based effort, is leaving a ton of human potential on the table.  When optimization costs that much, it's almost never worthwhile.
 
 All that said, I'm not sure I know what to do about the trouble our words are causing us.  I can point the problem out.  I can push for more neutrality, and less narrative, in the understanding of both business and community speak.
 
