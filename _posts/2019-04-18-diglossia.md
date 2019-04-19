@@ -12,17 +12,17 @@ We talk about success in software in two different ways.  We should recognize wh
 
 In the business frame, we speak of profit, payment, customers, finance, companies, services, management, and private gain.  In the other frame, which I'll dub "community" with big scare quotes, we speak of sustainability, donations, adopters, support, foundations, infrastructure, governance, and public service.  Corresponding terms convey the same fundamental ideas.  But there are equally fundamental, implicit differences in the choice of one way to speak or the other.
 
-When we frame developers' needs in community terms, we impose an implicit limit on reasonable worldly expectation.  We expect community developers, even well known ones, to scrounge, even to suffer, just as we expect artists, even famous ones, to struggle and starve.  Conversely, when we frame developers' needs in business terms, we put a cap on cool.  We expect business programmers, even accomplished ones, to spend a lot of time writing mundane business logic for mundane business needs, just as we expect commercial illustrators, even established ones, to draw lots of plump fast food, glistening soda bottles, and smiling poster models.
+When we frame developers' needs in community terms, we impose an implicit limit on reasonable worldly expectation.  We expect community developers, even well known ones, to scrounge, even to suffer, just as we expect artists, even famous ones, to struggle and starve.  Conversely, when we frame developers' needs in business terms, we put a cap on cool.  We expect business programmers, even accomplished ones, to spend a lot of time writing mundane business logic for mundane business needs, just as we expect commercial illustrators, even established ones, to draw lots of plump fast food, glistening soda bottles, and smiling orthodox beauties.
 
 The usual consequences of either-or distinction---misclassification and oversimplification---are in full effect.  Open developers trying to make ends meet bristle when others, especially businesses, "community" them.  They learn that those terms severely complicate, and forestall, achievement of their goals.  Entrepreneurial software types, for their part, bristle at heavy-handed business talk.  They learn that those terms endlessly undermine, and cripple, their ability to express and achieve greater purpose through their ventures.
 
-As far as I'm aware, there is no viable, middle vocabulary for developers who intermingle devotion to craft and worldly success.  Attempts to construct one reek of marketing bullshit or try-hard gunner-ism.  Instinctively, we presume that those mixing terms, or inventing new ones, try to seem what they're not.
+As far as I'm aware, there is no viable, middle vocabulary for developers who intermingle craft and worldly success.  Attempts to construct one reek of marketing bullshit, or try-hard gunner-ism.  Instinctively, we presume that those mixing terms, or inventing new ones, try to seem what they're not.
 
 If you find yourself consistently playing out one archetype or the other, or balancing both with clear separation, two distinct categories can reinforce a pleasant feeling of compartmentalized concerns, grass-is-greener, yin and yang.  Some programmers rush home from work to churn out open source where none of the boss's rules apply.  Many freelancers take comfort in offices that look and feel very different from home, even if the office is actually just a separate room in the house.
 
 We can take similar comfort in change of linguistic scenery.  Work looks like work, sounds like work, and feels like work.  Home looks like home, sounds like home, and feels like home.  Thanks in part to their distinct vocabularies, open and closed look, sound, and feel distinct, and for some, that's a feeling of comfort, that all is right in the software world.  Money, expression, hierarchy, and anarchy all stay where they belong.
 
-People differ in their tolerance, and desire, for life in two spheres.
+But people differ in their tolerance, and desire, for life in two spheres.
 
 Some want nothing more than a stable day job to finance freedom during nights, weekends, and off time.  Some of those believe they could never make the art they want mixing art and commerce.  Work-life-balance is the elusive goal, occupying an entire creative life.
 
@@ -48,4 +48,6 @@ My response to Bruce's message, and my takeaway here more generally, is that the
 
 I'm not sure, in all wisdom, that either should want anything else.  Excluding one or the other, from open software or any other broad-based effort, is leaving a ton of human potential on the table.  When optimization costs that much value, it's almost never worthwhile.
 
-All that said, I'm not sure I know what to do about the trouble our words are causing us.  I can point the problem out.  I can push for more neutrality, and less narrative, in the understanding of both business and community speak.  In the end, perhaps there's nothing to be done.  We'll simply keep colliding, linguistically, socially, and economically, until appreciation for the diversity of open software's present, and how to leverage it, becomes more evenly distributed.
+All that said, I'm not sure I know what to do about the trouble our words are causing us.  I can point the problem out.  I can push for more neutrality, and less narrative, in the understanding of both business and community speak.
+
+In the end, perhaps there's nothing to be done.  We'll simply keep colliding, linguistically, socially, and economically, until appreciation for the diversity of open software's present, and how to leverage it, becomes more evenly distributed.
