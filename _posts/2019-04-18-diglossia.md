@@ -50,4 +50,4 @@ I'm not sure, in all wisdom, that either should want anything else.  Excluding o
 
 All that said, I'm not sure I know what to do about the trouble our words are causing us.  I can point the problem out.  I can push for more neutrality, and less narrative, in the understanding of business-speak and community-speak.
 
-In the end, perhaps there's nothing to be done.  We'll simply keep colliding, linguistically, socially, and economically, until appreciation for the diversity of open software's present, and how to leverage it, becomes more evenly distributed.
+In the end, perhaps there's nothing to be done.  We'll simply keep colliding, linguistically, socially, and financially, until appreciation for the diversity of open software's present, and how to leverage it, becomes more evenly distributed.
