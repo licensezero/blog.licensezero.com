@@ -48,6 +48,6 @@ My response to Bruce's message, and my takeaway here more generally, is that the
 
 I'm not sure, in all wisdom, that either should want anything else.  Excluding one or the other, from open software or any other broad-based effort, is leaving a ton of human potential on the table.  When optimization costs that much, it's almost never worthwhile.
 
-All that said, I'm not sure I know what to do about the trouble our words are causing us.  I can point the problem out.  I can push for more neutrality, and less narrative, in the understanding of both business and community speak.
+All that said, I'm not sure I know what to do about the trouble our words are causing us.  I can point the problem out.  I can push for more neutrality, and less narrative, in the understanding of business-speak and community-speak.
 
 In the end, perhaps there's nothing to be done.  We'll simply keep colliding, linguistically, socially, and economically, until appreciation for the diversity of open software's present, and how to leverage it, becomes more evenly distributed.
