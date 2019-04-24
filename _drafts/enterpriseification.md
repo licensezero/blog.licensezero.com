@@ -38,11 +38,11 @@ I recently published an [Enterprise Ready Open Software Supplement](https://writ
 
 | "Enterprise Ready"                                           | Open Norm                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Demonstrate a basic understanding of common intellectual property traps for open software projects. | No understanding given. No widespread education on the matter. |
-| Guarantee you have the intellectual property rights needed to license the project. | No such guarantee.                                           |
-| Keep good records showing other contributors license their work the same way. | Rely on non-legal community expectations of inbound=outbound licensing. |
-| Provide basic assurance that the project isn't covered by a known patent. | No such assurance.                                           |
-| Keep malicious code, like malware, out of the software.      | THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED... |
+| Demonstrate a basic understanding of common intellectual property traps for open software projects. | No understanding demonstrated. Widespread confusion abounds. |
+| Guarantee you have the intellectual property rights needed to license the project. | No such guarantee given.                                     |
+| Keep good records showing other contributors license their work the same way. | Rely on non-legal community expectations of inbound=outbound licensing, reputation, and "too adopted to fail". |
+| Give basic assurance that the project isn't covered by a known patent. | No such assurance given.                                     |
+| Promise to keep malicious code, like malware, out of the software. | THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED... |
 | Give an explicit patent license.                             | MIT, BSD, ISC, and similar do not.                           |
 | Forgive inadvertent breaches of the project's license.       | Most licenses immediately terminate rights for even inadvertent breach of basic conditions, like attribution. |
 | Stand behind your guarantees financially.                    | IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY |
@@ -63,8 +63,8 @@ That reflects a fundamental difference in approach.  Artless Devices, the compan
 
 ## Upstream
 
-In that, License Zero is rowing upstream of the great corporate river, as open source licensing itself once did.  But that victory was never total.  Open style licensing, publicly or privately, still rows upstream of the way software is bought and sold.
+By insisting that open licensing norms are enough, License Zero is rowing upstream of the corporate river, as open source licensing itself once did.  But open victory was never total.  Open style licensing, publicly or privately, still rows upstream of the way software is bought and sold.
 
-There are no standardized, open-source-style terms for services, free or paid.  (Yes, I'm working on that.)  If you do a deal with a service provider---for infrastructure, a platform, or an application---you do a deal in the way big companies understand and expect, either self-serve on take-it-or-leave-it terms, or negotiated through sales and procurement.
+There are no standardized, open-source-style terms for services, free or paid.  (Yes, I'm working on it.)  If you do a deal with a service provider---for infrastructure, a platform, or an application---you do a deal in the way big companies understand and expect, either self-serve on take-it-or-leave-it terms, or negotiated through sales and procurement.
 
 Turning a software program into a service offering is the predominant way that commercial software makers couple their wares to big companies today.  Many programs, from general purpose databases to project management suites, can be  transmuted, as if by magic, from software that corporate customers prefer to download and use for free, under open source policies, into software that corporate customers expect to pay for.
