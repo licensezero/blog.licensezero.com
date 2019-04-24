@@ -7,7 +7,9 @@ layout: post
 At first glance, it's obvious:
 
 1. Open software developers make value and need money.
+
 2. Big companies reap the value open developers sow, and have money.
+
 3. Big companies ought to pay open software developers the money.
 
 4. Open software developers are really bad at getting paid. So:
@@ -51,6 +53,6 @@ Finally, compare the [License Zero form private license](https://licensezero.com
 
 In that, License Zero is rowing upstream of the great corporate river, as open source licensing itself once did.  But that victory was never total.  Open style licensing, publicly or privately, still rows upstream of the way software is bought and sold.
 
-There are no standardized, open-source-style terms for services, free or paid.  (Yes, I'm working on that.)  If you do a deal with a service provider---for infrastructure, a platform, or an application---you do a deal in the way big companies understand and expect, either self-serve on take-it-or-leave-it terms, or negotiated through sales and procurement. 
+There are no standardized, open-source-style terms for services, free or paid.  (Yes, I'm working on that.)  If you do a deal with a service provider---for infrastructure, a platform, or an application---you do a deal in the way big companies understand and expect, either self-serve on take-it-or-leave-it terms, or negotiated through sales and procurement.
 
 Turning a software program into a service offering is the predominant way that commercial software makers couple their wares to big companies today.  Many programs, from general purpose databases to project management suites, can be  transmuted, as if by magic, from software that corporate customers prefer to download and use for free, under open source policies, into software that corporate customers expect to pay for.
