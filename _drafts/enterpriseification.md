@@ -34,7 +34,7 @@ Bringing big-company expectations into an open project, whether via cash, contri
 
 ## Progress
 
-Most troublingly, enterpriseification reverses the course of open software progress.
+Most troubling, enterpriseification reverses the course of open software progress.
 
 Open approaches did not achieve widespread acceptance, in the main, by conforming to big company expectations.  There was lots of that, for sure.  I always think first of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0), the "enterprise license", which reads the way corporate lawyers write.  But even Apache is miles from what big companies would have accepted twenty years ago.
 
