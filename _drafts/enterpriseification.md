@@ -16,7 +16,7 @@ At first glance, it's obvious:
 
 5. Let's make a thing the big companies can pay that pays open software developers in turn.
 
-In technical terms, it's one big [adapter pattern](https://en.wikipedia.org/wiki/Adapter_pattern).  Build a middleman, as a brokerage or a platform, that big companies can interface with on one side, and open software developers can interface with on the other.  Then money can flow from one to the other, without changing how big company pays or open developer builds.  Don't change the governance or the tools or the license.
+In technical terms, it's one big [adapter pattern](https://en.wikipedia.org/wiki/Adapter_pattern).  Build a middleman, as a brokerage or a platform, that big companies can interface with on one side, and open software developers can interface with on the other.  Then money can flow from one to the other, without changing how company pays or developer builds.  Don't change the governance or the tools or the license.
 
 That's fantasy.  Interfacing with big companies changes how developers work, how they think, how they relate.  That's part of why so many open developers who need money nonetheless refuse to go to work for big companies.
 
