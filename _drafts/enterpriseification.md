@@ -48,16 +48,16 @@ I recently published an [Enterprise Ready Open Software Supplement](https://writ
 
 What does that mean?
 
-| "Enterprise Ready"                                           | Open Norm                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| "Enterprise Ready" | Open Normal |
+| - | - |
 | Demonstrate a basic understanding of common intellectual property traps for open software projects. | No understanding demonstrated. Widespread confusion abounds.  Most look past the question of whether contributors had the right to license. |
-| Guarantee you have the intellectual property rights needed to license the project. | No such guarantee given.                                     |
+| Guarantee you have the intellectual property rights needed to license the project. | No such guarantee given. |
 | Keep good records showing other contributors license their work appropriately. | Rely on non-legal community expectations of inbound=outbound licensing, reputation, and "too adopted to fail". |
-| Give basic assurance that the project isn't covered by a known patent. | See no patents.  Hear no patents.  Speak no patents.         |
+| Give basic assurance that the project isn't covered by a known patent. | See no patents.  Hear no patents.  Speak no patents. |
 | Promise to keep malicious code, like malware, out of the software. | `THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED...` |
-| Give an explicit patent license.                             | MIT, BSD, ISC, and similar do not.                           |
-| Forgive inadvertent breaches of the project's license.       | Most licenses immediately terminate for even inadvertent breach of basic conditions, like attribution. |
-| Stand behind your guarantees financially.                    | `IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY...` |
+| Give an explicit patent license. | MIT, BSD, ISC, and similar do not. |
+| Forgive inadvertent breaches of the project's license. | Most licenses immediately terminate for even inadvertent breach of basic conditions, like attribution. |
+| Stand behind your guarantees financially. | `IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY...` |
 
 We can use this "diff" as a baseline, to look at different initiatives to change how open software is done, and how it related to the kind of business that brings these expectations.
 
