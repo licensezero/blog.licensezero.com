@@ -8,23 +8,25 @@ At first glance, it's obvious:
 
 1. Open software developers make value and need money.
 
-2. Big companies reap the value open developers sow, and have money.
+2. Big companies reap value and have money.
 
-3. Big companies ought to pay open software developers the money.
+3. Big companies ought to pay open software developers.
 
-4. Open software developers are really bad at getting paid. So:
+4. Open software developers are really bad at getting paid.
 
-5. Let's make a thing the big companies can pay that pays open software developers in turn.
+5. Let's make a thing the big companies can pay that pays open software developers.
 
-In technical terms, it's one big [adapter pattern](https://en.wikipedia.org/wiki/Adapter_pattern).  Build a middleman, as a brokerage or a platform, that big companies can interface with on one side, and open software developers can interface with on the other.  Then money can flow from one to the other, without changing how company pays or developer builds.  Don't change the governance or the tools or the license.
+In technical terms, it's one big [adapter pattern](https://en.wikipedia.org/wiki/Adapter_pattern).  Build a middleman, as a brokerage or a platform, that big companies can interface with on one side, and open software developers can interface with on the other.  Then money can flow from one to the other, without changing how company pays or developer builds.  Hire a sales team and expect lots of redlines.  Don't change the governance or the tools or the license.
 
-That's fantasy.  Interfacing with big companies changes how developers work, how they think, how they relate.  It changes the experience of users and contributors who aren't clients or customers.  That's part of why so many open developers who need money nonetheless refuse to go to work for big companies.
+Side-effect-free enterprise adapters are fantasy.  Interfacing with big companies changes how developers work, how they think, how they relate.  It changes the experience of users and contributors who aren't clients or customers.  That's part of why so many open developers who need money still refuse to go to work for big companies.
 
-They know that every corporate adapter is really a corporate [coupling](https://en.wikipedia.org/wiki/Coupling), and the company drives.  Where big-company money goes, big-company practice follows.  Even when the big company pays to do open source full time.  Dealing with company policy to do open source can itself be a full-time job.
+They know that a corporate adapter is really a corporate [coupling](https://en.wikipedia.org/wiki/Coupling), and that the company drives.  Where big-company money goes, big-company practice follows.  Even when the big company pays to do open source full time.  Dealing with company policy to do open source can itself be a full-time job.
 
 This is related to, but distinct from, the issue known as "money in open source".  Bringing money into any open situation works changes.  But those changes differ, depending on who brings the money, how much, and what expectations coincide.
 
-Bringing big-company money, or just manpower and influence, without cash, into an open project works different changes.  Often more impactful changes than even full-time pay provided otherwise.  Call it <dfn>enterpriseification</dfn>.
+Bringing big-company influence into an open project, via cash, manpower, governance, or other influence, works a different set of changes.  Often more impactful changes than even full-time maintainer pay provided otherwise.
+
+Call it <dfn>enterpriseification</dfn>.
 
 ## Progress
 
