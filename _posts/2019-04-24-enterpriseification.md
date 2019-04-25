@@ -69,13 +69,13 @@ As a consequence, if you use Blue Oak and want to sell additional assurances und
 
 ### Apache
 
-Drop a few different requirements from the table above and layer on top of the Apache License, and you end up with [The Apache Way](https://www.apache.org/foundation/how-it-works.html).  Apache addresses contributor licensing issues head on, with processes and [standardized CLAs](https://www.apache.org/licenses/#contributor-license-agreements).  Their standard license gives explicit patent permission, but doesn't offer forgiveness for inadvertent breaches.  They don't offer corporate warranties, but anticipate that [other companies building on their code will](https://www.apache.org/licenses/LICENSE-2.0#additional).
+Drop a few different requirements from the table above, layer on top of the Apache License, and you end up with [The Apache Way](https://www.apache.org/foundation/how-it-works.html).  Apache addresses contributor licensing issues head on, with processes and [standardized CLAs](https://www.apache.org/licenses/#contributor-license-agreements).  Their standard license gives explicit patent permission, but doesn't offer forgiveness for inadvertent breaches.  They don't offer corporate warranties, but anticipate that [other companies building on their code will](https://www.apache.org/licenses/LICENSE-2.0#additional).
 
 Overall, Apache has earned its reputation for welcoming companies, and company programmers, into open source.  And also for serving as ideal neutral ground to receive projects born in one corporate environment, but seeking adoption in others.
 
 ### Tidelift
 
-Add a few ongoing maintenance obligations to the table above and layer on top of existing open source licenses, and you get the [Tidelift](https://tidelift.com/) package.  From [their summary](https://tidelift.com/docs/lifting/tasks-overview):
+Add a few ongoing maintenance obligations to the table above, layer on top of existing open source licenses, and you get the [Tidelift](https://tidelift.com/) package.  From [their summary](https://tidelift.com/docs/lifting/tasks-overview):
 
 > ## Goals: what we ask you to do
 > - Make sure that the package gets to, and stays at, a level of maturity that enterprise subscribers expect.
