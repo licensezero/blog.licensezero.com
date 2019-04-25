@@ -63,7 +63,7 @@ We can use this "diff" as a baseline, to look at different initiatives to change
 
 ### Blue Oak
 
-Drop a few requirements from the table above and layer on top of existing open source licenses, and you end up with the [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0).  Blue Oak better addresses patents, contributor licensing, and forgiveness for breaches, not in private terms for paying customers, but in the public license terms for all.
+Drop a few requirements from the table above, layer on top of existing open source licenses, and you end up with the [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0).  Blue Oak better addresses patents, contributor licensing, and forgiveness for breaches, not in private terms for paying customers, but in the public license terms for all.
 
 As a consequence, if you use Blue Oak and want to sell additional assurances under something like the Enterprise Ready Supplement, you have less to offer, because given more away.  Not that that's necessarily a bad thing.
 
