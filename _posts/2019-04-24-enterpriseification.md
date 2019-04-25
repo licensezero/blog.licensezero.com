@@ -81,7 +81,7 @@ Add a few ongoing maintenance obligations to the table above, layer on top of ex
 > - Make sure that the package gets to, and stays at, a level of maturity that enterprise subscribers expect.
 > ...
 
-Issues like right to license and forgiveness for breaches get covered in [the "Lifting Agreement"](https://writing.kemitchell.com/2018/09/18/Lifting-Agreement.html) developers agree to in order to take pay through the platform.
+Issues like rights to license and forgiveness for breaches get covered in [the "Lifting Agreement"](https://writing.kemitchell.com/2018/09/18/Lifting-Agreement.html) developers agree to in order to take pay through the platform.
 
 Tidelift recently took this a step further, by rolling out software tooling [flagging software dependencies as "unmaintained"](https://blog.tidelift.com/up-to-20-percent-of-your-application-dependencies-may-be-unmaintained).  Quibbles about heuristics and sales-driver-FUD-factor aside, the more basic question is whether that distinction---essentially the absence of the kind of enterprise-friendly maintenance that Tidelift brokers---is meaningful, or ought to be encouraged.
 
