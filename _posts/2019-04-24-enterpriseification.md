@@ -59,7 +59,7 @@ What does that mean?
 | Forgive inadvertent breaches of the project's license. | Most licenses immediately terminate for even inadvertent breach of basic conditions, like attribution. |
 | Stand behind your guarantees financially. | `IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY...` |
 
-We can use this "diff" as a baseline, to look at different initiatives to change how open software is done, and how it related to the kind of business that brings these expectations.
+We can use this "diff" as a baseline, to look at different initiatives to change how open software is done, and how they relate to the kind of business bringing these expectations.
 
 ### Blue Oak
 
