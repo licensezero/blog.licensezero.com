@@ -12,11 +12,11 @@ If you want money for open work, you have three good options:
 
 3.  Stop releasing so much software.  Put that time into networking, online presence, and telling everyone who will listen that you want paid open gigs.  You've [crossed break-even](https://writing.kemitchell.com/2019/06/25/Get-In-Get-Out.html).
 
-Odds are, picking a permissive license and registering for payment account, signing up for [sustainability as a service](https://blog.licensezero.com/2019/03/16/sustainability-as-a-service.html), or offering contracts in `README` just won't work.  Very few will look past the good news of your license to the bad news of your payment plea, and very few of those who do will pay you.  You will grow increasingly disappointed, embittered, and poor as time rolls on.
+Odds are, picking a permissive license and registering for a payment account, signing up for [a funding platform](https://blog.licensezero.com/2019/03/16/sustainability-as-a-service.html), or offering contracts in `README` just won't work.  Very few will look past the good news of your license to the bad news of your payment plea, and very few who do will actually pay you.  You will grow increasingly disappointed, embittered, and poor as time rolls on.
 
 There is no viable option that involves just pumping out more permissively licensed software without forcing unwelcome messages and changes on entitled users.  There is no viable option 100% inside the open-coder comfort zone, with no risk of [drive-by condemnation](https://blog.licensezero.com/2019/08/24/Process-of-Elimination.html).  I've looked.
 
-I have seen [exceptions](https://reference.kemitchell.com/top-donations-developers.html) to this rule.  But the exceptions are highly exceptional indeed.  They are also over-publicized, like lotto winners, both as software projects and as funding outcomes.  Often by the very sustainability as a service platforms that stand to gain from a long tail.  Chance favors the prepared mind, but planning to get lucky is not a plan anyone knows how to follow.
+I have seen [exceptions](https://reference.kemitchell.com/top-donations-developers.html) to this rule.  But the exceptions are highly exceptional.  They are also over-publicized, like lotto winners, both as software projects and as funding outcomes.  Chance favors the prepared mind, but planning to get lucky is not a plan you can follow.
 
 What is going on here?
 
