@@ -40,7 +40,7 @@ When it comes to getting a message across, distinguish messages developers force
 
 [OpenCollective messages](https://www.npmjs.com/package/opencollective), [core-js' postinstall](https://github.com/zloirock/core-js/issues/548), and Feross' [`funding`](https://www.npmjs.com/package/funding) forced messages on users, as advertisements for donation portals, maintainer availability, or sponsors.  The common refrain against them demanded that the developers put their ads in `README` or other places where they could be easily overlooked.  In other words, to make them ineffective ads.
 
-License Zero bootstraps off license terms, which users have to verify, to package metadata about paid licenses, which the license choice prompts them to look for.  The command-line interface automates the process of finding, fetching, and acting on that data.
+License Zero bootstraps off license terms.   Users have to verify license terms, and when they don't find the permissive terms they were hoping for, they're prompted to look deeper, and find out about available paid licenses.  The command-line interface automates the process of finding, fetching, and acting on that information.
 
 Some months back, I PR'd a [new `sustainability` field for npm `package.json` files](https://github.com/npm/cli/pull/187) to encode a JSON endpoint with data on calls to funding action.  But the upshot of that kind of standard is pretty narrow.
 
