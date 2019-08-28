@@ -38,7 +38,7 @@ To use code you found online, licensing information is both practically necessar
 
 When it comes to getting a message across, distinguish messages developers force users to see, like advertisements, messages users are forced to seek out, like license terms, and messages users see of their own volition, or by chance, like notes in `README`.
 
-[OpenCollective messages](https://www.npmjs.com/package/opencollective), [core-js' postinstall](https://github.com/zloirock/core-js/issues/548), and Feross' [`funding`](https://www.npmjs.com/package/funding) forced messages on users, as advertisements for donation portals, maintainer availability, or sponsors.  The common refrain against them demanded that the developers put their ads in `README` or other places where they could be easily overlooked.  In other words, to make them less effective ads.
+[OpenCollective messages](https://www.npmjs.com/package/opencollective), [core-js' postinstall](https://github.com/zloirock/core-js/issues/548), and Feross' [`funding`](https://www.npmjs.com/package/funding) forced messages on users, as advertisements for donation portals, maintainer availability, or sponsors.  The common refrain against them demanded that the developers put their ads in `README` or other places where they could be easily overlooked.  In other words, to make them ineffective ads.
 
 License Zero bootstraps off license terms, which users have to verify, to package metadata about paid licenses, which the license choice prompts them to look for.  The command-line interface automates the process of finding, fetching, and acting on that data.
 
