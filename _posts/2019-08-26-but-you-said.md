@@ -36,7 +36,7 @@ To use code you found online, licensing information is both practically necessar
 
 ## Eyeballs
 
-When it comes to getting a message across, the fundamental distinction to draw separates messages developers force users to see, like advertisements, messages users are forced to seek out, like license terms, and messages users see of their own volition, or by chance, like notes in `README`.
+When it comes to getting a message across, distinguish messages developers force users to see, like advertisements, messages users are forced to seek out, like license terms, and messages users see of their own volition, or by chance, like notes in `README`.
 
 [OpenCollective messages](https://www.npmjs.com/package/opencollective), [core-js' postinstall](https://github.com/zloirock/core-js/issues/548), and Feross' [`funding`](https://www.npmjs.com/package/funding) forced messages on users, as advertisements for donation portals, maintainer availability, or sponsors.  The common refrain against them demanded that the developers put their ads in `README` or other places where they could be easily overlooked.  In other words, to make them less effective ads.
 
