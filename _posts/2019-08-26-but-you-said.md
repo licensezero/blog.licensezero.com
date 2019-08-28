@@ -24,7 +24,7 @@ What is going on here?
 
 The strongest arguments for paying open software developers boil down to fairness and enlightened self-interest.  Users should pay, and they should want to pay.  After all, an open license isn't a Get Out of Ethics Free card.  Honest work for honest pay still applies.  The Golden Rule still applies.  Basic fairness still applies.  But basic fairness is not what we see for a lot of contributors.  If word of pervasive unfairness gets around among contributors, users can expect less new and interesting software to come out on permissive terms.
 
-The strongest counterargument boils down to "but you said I could".  Honest work for honest pay is and ought to be the rule.  But open developers slapping permissive licenses on their honest work explicitly waive the pay part of the equation.  A permissive license tells others to take without giving back.  Inviting free riding, then crying foul when no riders pay, is also unfair.  If all permissive software developers started angrily demanding back pay, users would be a lot less willing to lap up permissively licensed work.
+The strongest counterargument boils down to "but you said I could".  Honest work for honest pay is and ought to be the rule.  But open developers slapping permissive licenses on their honest work explicitly waive the pay part of the equation.  Inviting free riding, then crying foul when riders don't pay, is also unfair.  If all permissive software developers started angrily demanding back pay, users would be a lot less willing to lap up permissively licensed work.
 
 As usual, when communication fails, it fails on a few levels at once.
 
