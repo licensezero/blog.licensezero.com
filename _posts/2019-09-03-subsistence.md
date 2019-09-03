@@ -16,7 +16,7 @@ Fuck subsistence programming, in all its wretched forms.
 
 If you're making money, but not profiting, saving, or investing, you're only subsisting, just getting by.  Users are likely happy, because their profiting, saving, and investing depend only on your output, not on shared success.  If you burn out and another subsistence programmer takes your place, infusing the project with a fleeting jolt of new-blood energy, that's a sustainability gain, not a sustainability loss.  The more productive jolts, the better.
 
-That is, until word of the personal carnage, grizzled veterans stop reupping for new tours, and fresh recruits stop enlisting to fill their empty trenches.  Consumers don't pay a price for producer abuse until it blows back on output.  Only output problems are sustainability problems.
+That is, until word of the personal carnage gets around, grizzled veterans stop reupping for new tours, and fresh recruits stop enlisting to fill their empty trenches.  Consumers don't pay a price for producer abuse until it blows back on output.  Only output problems are sustainability problems.
 
 Word has got around.  Open software maintenance can be a winning play, but usually [for new programmers, on a temporary basis](https://writing.kemitchell.com/2019/06/25/Get-In-Get-Out.html), as a kind of apprenticeship, portfolio project, or [spec work](https://www.nospec.com).  Not for independent coders with long open resumes, at their peak, doing highly specialized work.
 
