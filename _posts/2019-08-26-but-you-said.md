@@ -62,4 +62,4 @@ Assuming viability for software personalities, this approach suffers much the sa
 
 In the end, the taking-off point has to be a clear-eyed assessment of the current state of play.  Independent developers earning well for making open software are not the norm.  Institutional policies, social norms, and conventions currently run against that outcome, not for it.
 
-With odds that bad, beating the odds means changing the odds.  Independent developers experimenting with new ideas in developer-user relations can expect to take flak.  But they can press on knowing that their results---positive or negative---contribute not to just to a good personal outcome, but to the state of the art for all independent developers.
+With odds that bad, beating the odds means changing the odds.  Independent developers experimenting with new ideas in developer-user relations can expect to take flak.  But they can press on knowing that their results---positive or negative---contribute not to just a good personal outcome, but to the state of the art for all independent developers.
