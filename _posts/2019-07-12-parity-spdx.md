@@ -1,6 +1,8 @@
 ---
 title: Parity 6 is Parity-6.0.0
 description: express your license choice with SPDX
+redirect_from:
+  - /2019/07/12/Parity-SPDX.html
 layout: post
 ---
 

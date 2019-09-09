@@ -10,6 +10,7 @@ repository_url: https://github.com/licensezero/blog.licensezero.com
 plugins:
 - jekyll-sass-converter
 - jekyll-feed
+- jekyll-redirect-from
 exclude:
 - vendor
 feed:

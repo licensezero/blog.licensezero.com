@@ -1,6 +1,8 @@
 ---
 title: Founder Commitment
 description: public accountability for the business side
+redirect_from:
+  - /2019/03/24/Founder-Commitment.html
 layout: post
 ---
 
