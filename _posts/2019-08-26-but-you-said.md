@@ -16,7 +16,7 @@ Odds are, picking a permissive license and registering for a payment account, si
 
 There is no viable option that involves just pumping out more permissively licensed software without forcing unwelcome messages and changes on entitled users.  There is no viable option 100% inside the open-coder comfort zone, with no risk of [drive-by condemnation](https://blog.licensezero.com/2019/08/24/Process-of-Elimination.html).  I've looked.
 
-I have seen [exceptions](https://reference.kemitchell.com/top-donations-developers.html) to this rule.  But the exceptions are highly exceptional.  They are also over-publicized, like lotto winners, both as software projects and as funding outcomes.  Chance favors the prepared mind, but planning to get lucky is not a plan you can follow.
+I have seen [exceptions](https://reference.kemitchell.com/top-donations-developers.html) to this rule.  But the exceptions are highly exceptional.  They are also over-publicized, like lotto winners, both as software projects and as funding outcomes.  Chance favors the prepared mind, but a plan to get lucky is not a plan you can follow.
 
 What is going on here?
 
