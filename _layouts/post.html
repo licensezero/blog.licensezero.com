@@ -1,5 +1,9 @@
 {% include top.html %}
 <article class='body post'>
+  <p class=dateline>{{page.date | date: "%B %-d, %Y"}}</p>
+  {% if page.author %}
+  <p class=byline>{{page.author}}</p>
+  {% endif %}
   <h1 id=title>
     {{ page.title }}
     <small>{{ page.description }}</small>
