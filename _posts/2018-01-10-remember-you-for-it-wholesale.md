@@ -1,6 +1,7 @@
 ---
 title: We Can Remember You For It Wholesale
 description: maintainers, gone from my sight
+author: K.E. Mitchell
 layout: post
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Mercenary Rapport
 description: moral blindness in open source as social media
+author: K.E. Mitchell
 layout: post
 ---
 

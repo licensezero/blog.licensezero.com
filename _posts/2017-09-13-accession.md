@@ -1,6 +1,7 @@
 ---
 title: Open Source Accession via License Zero?
 description: a paved path to permissivity
+author: K.E. Mitchell
 layout: post
 ---
 

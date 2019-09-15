@@ -1,6 +1,7 @@
 ---
 title: No Other Terms Before Me
 description: the minimalist case for radical terms
+author: K.E. Mitchell
 layout: post
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Coded Language
 description: against the timid imagery of open source exceptionalism
+author: K.E. Mitchell
 layout: post
 ---
 

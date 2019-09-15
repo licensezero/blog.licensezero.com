@@ -1,6 +1,7 @@
 ---
 title: Process of Elimination
 description: destructive feedback you can expect for any credible funding idea
+author: K.E. Mitchell
 redirect_from:
   - /2019/08/24/Process-of-Elimination.html
 layout: post

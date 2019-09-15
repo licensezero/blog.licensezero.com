@@ -1,6 +1,7 @@
 ---
 title: Talking About License Rules
 description: a simple framework for grounded license-rule discussions
+author: K.E. Mitchell
 layout: post
 ---
 

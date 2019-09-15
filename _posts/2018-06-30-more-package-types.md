@@ -1,6 +1,7 @@
 ---
 title: npm, Ruby, Python, Maven, and More
 description: first-class support for more package ecosystems
+author: K.E. Mitchell
 layout: post
 ---
 

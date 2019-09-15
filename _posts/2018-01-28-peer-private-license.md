@@ -1,6 +1,7 @@
 ---
 title: A Peer Private License
 description: draft of developer-to-developer commercial and closed-source license
+author: K.E. Mitchell
 layout: post
 ---
 
@@ -74,7 +75,7 @@ Like [L0‑NC], [L0‑R], and [Apache 2.0], this private license includes a broa
 
 It's all well and good to give _developers_ permission to use License Zero projects for company and client projects.  But where do companies and clients get their permission?  The answer:  They get it from developers who've purchased private licenses, via sublicense.
 
-How about when the developer builds software for a company or client?  Where do end-user customers get their permission?  The answer: They get it from the company or client, again via sublicense. 
+How about when the developer builds software for a company or client?  Where do end-user customers get their permission?  The answer: They get it from the company or client, again via sublicense.
 
 > <ol start="1"><li>The larger program must have significant additional content or functionality beyond that of the project, and end users must license the larger program primarily for that additional content or functionality.</li></ol>
 

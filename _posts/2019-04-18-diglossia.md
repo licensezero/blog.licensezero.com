@@ -1,6 +1,7 @@
 ---
 title: Diglossia
 description: limits on software success, hidden in plain sight
+author: K.E. Mitchell
 layout: post
 ---
 

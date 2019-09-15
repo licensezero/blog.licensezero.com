@@ -1,6 +1,7 @@
 ---
 title: Kat Marchán's System
 description: putting L0 tools to work
+author: K.E. Mitchell
 layout: post
 ---
 

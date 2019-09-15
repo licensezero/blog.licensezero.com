@@ -1,6 +1,7 @@
 ---
 title: Availability Locks
 description: freedom from choice might be what you want
+author: K.E. Mitchell
 layout: post
 ---
 

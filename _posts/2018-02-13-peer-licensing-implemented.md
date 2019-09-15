@@ -1,6 +1,7 @@
 ---
 title: Peer Licensing Implemented
 description: sustainable software through licensing, simplified
+author: K.E. Mitchell
 layout: post
 ---
 

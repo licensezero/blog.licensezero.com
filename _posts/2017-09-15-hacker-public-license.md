@@ -1,6 +1,7 @@
 ---
 title: A Hacker Public License
 description: free for open source
+author: K.E. Mitchell
 layout: post
 ---
 

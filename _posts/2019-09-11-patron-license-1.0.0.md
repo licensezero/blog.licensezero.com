@@ -1,6 +1,7 @@
 ---
 title: Patron License 1.0.0
 description: reward patrons with license exceptions
+author: K.E. Mitchell
 tags:
 - Funding
 - Licenses

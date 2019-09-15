@@ -1,6 +1,7 @@
 ---
 title: Profit for Us, Sustainability for You
 description: evolving the open source conversation to solve open source inequity
+author: K.E. Mitchell
 layout: post
 ---
 
