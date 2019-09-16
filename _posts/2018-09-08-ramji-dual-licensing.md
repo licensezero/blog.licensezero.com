@@ -1,7 +1,6 @@
 ---
 title:  Google's Sam Ramji on Dual Licensing
 description:  a very clear strategy for open source companies that is still working
-author: K.E. Mitchell
 layout: post
 ---
 

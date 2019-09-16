@@ -1,7 +1,6 @@
 ---
 title: Enterprise Pie
 description: growing the pie doesn't guarantee a portion
-author: K.E. Mitchell
 layout: post
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Patron License
 description: tunnel licensing through patronage
-author: K.E. Mitchell
 layout: post
 ---
 

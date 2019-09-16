@@ -1,7 +1,6 @@
 ---
 title: Enterpriseification
 description: Open software changed big business.  Should big business change it back?
-author: K.E. Mitchell
 layout: post
 ---
 

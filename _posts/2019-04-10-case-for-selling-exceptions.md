@@ -1,7 +1,6 @@
 ---
 title: The Case for Selling Exceptions
 description: a model for copyleft, in more ways than one
-author: K.E. Mitchell
 layout: post
 ---
 

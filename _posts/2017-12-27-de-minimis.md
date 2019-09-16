@@ -1,7 +1,6 @@
 ---
 title: “De Minimis”
 description: how not to disappear completely
-author: K.E. Mitchell
 layout: post
 ---
 

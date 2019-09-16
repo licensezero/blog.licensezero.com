@@ -1,7 +1,6 @@
 ---
 title: Close to the Money
 description: distinctions without difference in software distribution
-author: K.E. Mitchell
 layout: post
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Developer Licensing
 description: should License Zero stay between developers?
-author: K.E. Mitchell
 layout: post
 ---
 

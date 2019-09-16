@@ -1,7 +1,6 @@
 ---
 title: The Gospel In Brief
 description: Share with fellow sharers. Charge everyone else.
-author: K.E. Mitchell
 layout: post
 ---
 

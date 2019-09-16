@@ -1,7 +1,6 @@
 ---
 title: Found Licenses
 description: nail seeks hammer, any hammer
-author: K.E. Mitchell
 layout: post
 ---
 

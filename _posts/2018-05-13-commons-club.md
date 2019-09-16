@@ -1,7 +1,6 @@
 ---
 title: Commons Club
 description: open source as accessory, copyleft as network
-author: K.E. Mitchell
 layout: post
 ---
 

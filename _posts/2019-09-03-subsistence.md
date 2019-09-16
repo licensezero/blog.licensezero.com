@@ -1,7 +1,6 @@
 ---
 title: Subsistence Programming
 description: funding failure has a name
-author: K.E. Mitchell
 layout: post
 ---
 

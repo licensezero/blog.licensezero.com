@@ -1,7 +1,6 @@
 ---
 title: Mapping Open Business Models
 description: a systematic approach to practical models, proven and innovative
-author: K.E. Mitchell
 layout: post
 ---
 

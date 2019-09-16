@@ -1,7 +1,6 @@
 ---
 title: Largesse Oblige
 description: follow the money, note where it stops
-author: K.E. Mitchell
 layout: post
 ---
 

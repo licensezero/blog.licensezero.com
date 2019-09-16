@@ -1,7 +1,6 @@
 ---
 title: The License Zero Manifesto
 description: sustainable software in the open
-author: K.E. Mitchell
 layout: post
 ---
 

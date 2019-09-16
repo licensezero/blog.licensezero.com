@@ -1,7 +1,6 @@
 ---
 title: But You Said I Could
 description: a clear-eyed view of open software funding, impediments, and possibilities
-author: K.E. Mitchell
 layout: post
 ---
 

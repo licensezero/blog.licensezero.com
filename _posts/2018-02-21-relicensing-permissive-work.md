@@ -1,7 +1,6 @@
 ---
 title: Relicensing Permissive Work
 description: picking battles one at a time
-author: K.E. Mitchell
 layout: post
 ---
 
