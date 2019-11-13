@@ -9,7 +9,7 @@ Defiant decentralization is a flaw only if you want to conquer the software indu
 
 ## Paid Distribution
 
-Selling copies of free software on physical media represented the obvious side hustle for early free software hackers.  The Free Software Foundation began selling copies of Emacs on tape, before it could count on donations to make ends meet.  RMS insisted that free software licenses permit that kind of business, even though RMS hated business.  Meanwhile, companies like Walnut Creek CDROM sold all the free software they could find on disc.  But broad Internet expansion took the wind out of paid free software distribution just as it flooded free software with a new glut of hackers.  Walnut Creek ran the Internet's hottest FTP server, the harbinger of its own dollar doom.
+Selling copies of free software on physical media represented the obvious side hustle for early free software hackers.  The Free Software Foundation began selling copies of Emacs on tape, before it could count on donations to make ends meet.  RMS insisted that free software licenses permit that kind of business, even though RMS hated business.  Meanwhile, companies like Walnut Creek CDROM sold all the free software they could find on disc.  But broad Internet expansion took the wind out of paid free software distribution just as it flooded free software production with a new glut of hackers.  Walnut Creek ran the Internet's hottest FTP server, the harbinger of its own dollar doom.
 
 If you wanted a copy of a Linux distribution, you knew where to look ... but eventually everyone's answer became "the Internet".
 
