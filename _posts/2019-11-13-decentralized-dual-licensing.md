@@ -5,7 +5,7 @@ description: the bottom-up business model for open software
 
 The dual-licensing business model feels less relevant because it never spawned a corporate champion that took the industry by storm.  It never remade "open source" in its image.  That reflects dual licensing's greatest virtue---resistance to centralization---not a flaw.
 
-Defiant decentralization is a flaw only if you want to conquer the software industry.  If you want a resilient, adaptable, autonomous open software movement, decentralization is essential.
+Defiant decentralization is a flaw only if you want to conquer the software industry.  If you want a resilient, adaptable, autonomous open software movement, you need a model that resists concentration, not one that creates it.
 
 ## Paid Distribution
 
