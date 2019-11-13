@@ -1,6 +1,6 @@
 ---
-title: The Forgotten Model
-description:
+title: Decentralized Dual Licensing
+description: the bottom-up business model for open software
 ---
 
 The dual-licensing business model feels less relevant because it never spawned a corporate champion that took the industry by storm and remade "open source" in its own image.  That reflects dual licensing's greatest virtue---resistance to centralization---and not a flaw.
