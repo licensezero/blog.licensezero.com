@@ -25,7 +25,7 @@ Quoth O'Reilly Media:  Open source success means a book deal with us.  If you wa
 
 ## Professional Services
 
-The ingredients of Red Hat---an accessories seller, a Linux distribution, and a consultancy---came together to dominate professional services and enterprise-friendly vendoring for free software, by then called "open source".  To this day, competing with Red Hat to sell commercial support for software of broad enterprise appeal remains very difficult, even if you wrote the software.  The customers you want likely already have Red Hat contracts, and the company boasts all the trappings of scale: engineers, salespeople, marketing muscle, legal boxes ticked.  Niche players can and do exist, but unless Red Hat trips on its own feet, they can expect to stay in niches.
+The ingredients of Red Hat---an accessories seller, a Linux distribution, and a consultancy---came together to dominate professional services and enterprise-friendly vendoring for free software, by then called "open source".  To this day, competing with Red Hat to sell commercial support for software of broad enterprise appeal remains very difficult, even if you wrote the software.  The customers you want likely already have Red Hat contracts, and the company boasts all the trappings of scale: engineers, salespeople, marketing muscle, legal boxes ticked.  Niche players can and do exist, but unless Red Hat trips on its own feet, niche players can expect to stay in their niches.
 
 If you wanted a contract to wrap open source in enterprise trappings, you called Red Hat, or waited for them to call you.
 
