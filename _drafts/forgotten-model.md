@@ -85,4 +85,4 @@ More recently, I've turned more attention to the transaction costs among contrib
 
 Cross-license collaboratives thus provide a lightweight, Internet-ready alternative to forming a corporation or other legal entity.  Unlike many cooperatives structured as corporations or LLCs, collaboratives don't provide a legal shield against liability, but individuals making contributions to open software don't have that protection, either.  It doesn't seem they need it.  All common open software licenses disclaim any liability for licensing software, which is all that collaboratives do.
 
-In short, Parity and cross-license collaboratives make community-driven dual licensing of nearly all software used to make other software possible.  And cheap.  And easy.  Dual licensing has never been more ready to bring business down to solo, small, and defiantly independent projects.
+In short, Parity and cross-license collaboratives make community-driven dual licensing of nearly all software used to make other software possible.  And cheap.  And easy.  Dual licensing has never been more ready to put small, defiantly independent developer projects in business.
