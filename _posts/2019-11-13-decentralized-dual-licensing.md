@@ -17,7 +17,7 @@ Quoth Walnut Creek:  Google it.  We're joining a consulting company.
 
 ## Documentation
 
-The Free Software Foundation also sold documentation, but despite centralizing stewardship of many key early projects, a private firm, O'Reilly Media, came to dominate that model.  O'Reilly books frequently outshined official materials from the projects themselves, and O'Reilly hired many developers to produce "authoritative" books on their technologies, often at the expense of freely available docs.  In the late 1990s, the company expanded to conferences, first to promote sales of its media, then as a line of business unto itself.
+The Free Software Foundation also sold documentation, but despite centralizing stewardship of many key early projects, a private firm, O'Reilly Media, came to dominate the media model.  O'Reilly books frequently outshined official materials from the projects themselves, and O'Reilly hired many developers to produce "authoritative" books on their technologies, often at the expense of freely available docs.  In the late 1990s, the company expanded to conferences, first to promote sales of its media, then as a line of business unto itself.
 
 If you wanted to learn a new language or technology, you looked for the animal book.
 
