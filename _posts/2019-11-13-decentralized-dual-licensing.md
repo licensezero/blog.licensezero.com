@@ -39,7 +39,7 @@ It remains very difficult to beat AWS on hosting, even hosting of your own softw
 
 If you want someone else to run open source for you, Google the generic name and bland logo Amazon has assigned to the product and open your AWS console.
 
-Quoth Amazon:  Open source means not just a free license, but a free license for all desirable functionality and services around the core product so that AWS can productize it, even at the expense of the original developers.  No "open core" for you.  That's our model.
+Quoth Amazon:  Open source means not just a free license, but a free license for all desirable functionality and services around the core product, so we can productize it, even at the expense of the original developers.  No "open core".  That's our model.
 
 ## Cycle
 
