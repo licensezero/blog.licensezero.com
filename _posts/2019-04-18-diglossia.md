@@ -32,7 +32,7 @@ Some have to make art the whole of life.  Some of those believe they could never
 
 Two competing psychological needs, attempting to occupy the same linguistic space.  One seeks to keep the line between business and community sharp, the other to blur and erase it.  Some want money out of open source, to avoid "working" its vibe, while others rail against the anti-money allergy because it's holding them down.
 
-I have more confidence than I usually would in analysis this general, from correlations in my own profession.  Among lawyers, there are those who hang shingles, rise in firms, and otherwise make their stand in private practice. There are those who go in-house, join foundations, and take public posts.  Neither camp holds any monopoly on entrepreneurship, or on civic-mindedness.
+I have more confidence than I usually would in analysis this general because it correlates so well to my other profession.  Among lawyers, there are those who hang shingles, rise in firms, and otherwise make their stand in private practice. There are those who go in-house, join foundations, and take public posts.  Neither camp holds any monopoly on entrepreneurship, or on civic-mindedness.
 
 But reading [Kate Downing](https://katedowninglaw.com/2019/03/19/communitybridge-probably-not-what-you-were-hoping-for/), another open licensing specialist in private practice, I'm struck by how little surprised I was to see her recoil, and hard, from the community framing of a recently announced money-for-open-source initiative.  Quoting Kate, who said it far better than I could have:
 
