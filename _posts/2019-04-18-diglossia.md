@@ -28,9 +28,9 @@ Some want nothing more than a stable day job to finance freedom during nights, w
 
 <!-- https://www.youtube.com/watch?v=HC6x0E-M9jw&feature=youtu.be&t=157 -->
 
-Some have to make art the whole of life.  Some of those believe they could never make what they want ceding half their waking hours to irrelevant labor, or without the inspiring constraints of a mass audience.  Work-life balance makes no sense, because ideally, they were never dissolved to begin with.
+Some have to make art the whole of life.  Some of those believe they could never make what they want ceding half their waking hours to irrelevant labor, or without the inspiring constraints of a mass audience.  Work-life balance makes no sense because ideally, they were never dissolved to begin with.
 
-Two competing psychological needs, attempting to occupy the same linguistic space.  One seeks to keep the line between business and community sharp, the other to blur and erase it.  Some want money out of open source, to avoid "working" its vibe, while others rail against the anti-money allergy, because it's holding them down.
+Two competing psychological needs, attempting to occupy the same linguistic space.  One seeks to keep the line between business and community sharp, the other to blur and erase it.  Some want money out of open source, to avoid "working" its vibe, while others rail against the anti-money allergy because it's holding them down.
 
 I have more confidence than I usually would in analysis this general, from correlations in my own profession.  Among lawyers, there are those who hang shingles, rise in firms, and otherwise make their stand in private practice. There are those who go in-house, join foundations, and take public posts.  Neither camp holds any monopoly on entrepreneurship, or on civic-mindedness.
 
