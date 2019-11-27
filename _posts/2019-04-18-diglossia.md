@@ -16,7 +16,7 @@ When we frame developers' needs in community terms, we impose an implicit limit 
 
 The usual consequences of either-or distinction---misclassification and oversimplification---are in full effect.  Open developers trying to make ends meet bristle when others, especially businesses, "community" them.  They learn that those terms severely complicate, and forestall, achievement of their goals.  Entrepreneurial software types, for their part, bristle at heavy-handed business talk.  They learn that those terms endlessly undermine, and cripple, their ability to express and achieve greater purpose through their ventures.
 
-As far as I'm aware, there is no viable, middle vocabulary for developers who intermingle craft and worldly success.  Attempts to construct one reek of marketing bullshit, or try-hard gunner-ism.  Instinctively, we presume that those mixing terms, or inventing new ones, try to seem what they're not.
+As far as I'm aware, there is no viable, middle vocabulary for developers who intermingle craft and worldly success.  Attempts to construct one reek of marketing bullshit or try-hard gunner-ism.  Instinctively, we presume that those mixing terms, or inventing new ones, try to seem what they're not.
 
 If you find yourself consistently playing out one archetype or the other, or balancing both with clear separation, two distinct categories can reinforce a pleasant feeling of compartmentalized concerns, grass-is-greener, yin and yang.  Some programmers rush home from work to churn out open source where none of the boss's rules apply.  Many freelancers take comfort in offices that look and feel very different from home, even if the office is actually just a separate room in the house.
 
