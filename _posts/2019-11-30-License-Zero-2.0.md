@@ -1,6 +1,6 @@
 ---
 title: License Zero 2.0
-description:
+description: sell through L0, sell on your own
 ---
 
 I am in the process of refreshing the design of License Zero.  My goals are:
