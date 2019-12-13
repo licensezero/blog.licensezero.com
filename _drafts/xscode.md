@@ -1,0 +1,1 @@
+<!-- perfect example of "dual licensing" confusion -->
