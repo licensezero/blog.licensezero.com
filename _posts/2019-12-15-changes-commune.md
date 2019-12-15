@@ -57,7 +57,7 @@ All of this was apparently lost on Linus Torvalds.  From his own words, it seems
 >
 > --- Linus Torvalds, _Just for Fun_
 
-That is not what GPLv2, the license Linus ended up taking from Stallman, says.  And Linus has become aware.  But whatever the rules of the license he picked---and is now stuck with---he knows and expresses the expectation he wants:
+That is not what GPLv2, the license Linus ended up taking from Stallman, says.  And Linus has become aware.  But whatever the rules of the license he picked---and is now stuck with---he knows and expresses the rule he wants:
 
 > You don't have to use Linux.  If you do use Linux, the only thing I ask for is source code back.  And then there's all the other verbiage in the GPL version 2.0 about exact details, and those aren’t important.  And that was always my standpoint.
 >
