@@ -13,7 +13,7 @@ In order to prevent hackers erecting another "tower of babel" by rampant, waywar
 
 > Emacs was distributed on a basis of communal sharing, which means all improvements must be given back to me to be incorporated and distributed.
 
-All commune members were free to patch Emacs, but they had to send their patches back to Stallman.  The largely unremarked "fifth freedom" of later RMS doctrine---the right to make and use private, closed changes, even within sprawling for-profit organizations---wouldn't appear until later.
+All commune members were free to patch Emacs, but they had to send their patches back to Stallman.  The largely unremarked "fifth freedom" of FSF doctrine---the right to make and use private, closed changes, even within sprawling for-profit organizations---wouldn't appear until later.
 
 As Sam Williams recounts in [_Free as in Freedom_](https://www.oreilly.com/openbook/freedom/ch09.html):
 
