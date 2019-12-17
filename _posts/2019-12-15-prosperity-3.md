@@ -4,9 +4,9 @@ description: noncommercial plus free trial, modernized
 date: 2019-12-15T16:33:59-08:00
 ---
 
-Very happy to announce the release of [version 3.0.0 of the Prosperity Public License](https://prosperitylicense.com/versions/3.0.0.html), License Zero's noncommercial softare license with a build-in free commercial trial.
+Very happy to announce the release of [version 3.0.0 of the Prosperity Public License](https://prosperitylicense.com/versions/3.0.0.html), License Zero's noncommercial software license with a built-in free commercial trial.
 
-Prosperity 3 follows Parity 7 in building on the cutting-edge work recently published by [Polyform Project](https://polyformproject.org) and [Blue Oak Council](https://blueoakcouncil.org/license).  It's easier to read, easier to apply, and overall much improved.
+Prosperity 3 follows Parity 7 in building on the cutting-edge work recently published by [PolyForm Project](https://polyformproject.org) and [Blue Oak Council](https://blueoakcouncil.org/license).  It's easier to read, easier to apply, and overall much improved.
 
 As always, [feedback remains very welcome via GitHub](https://github.com/licensezero/prosperity-public-license).
 
