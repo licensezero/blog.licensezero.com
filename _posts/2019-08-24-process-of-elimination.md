@@ -68,7 +68,7 @@ The homework that entails is exactly the homework flyby clone-fork-and-burn advo
 
 ## "Don't Go There"
 
-If we took all these shots to heart, we'd end up with nothing to do and nowhere to go, having eliminated all possible alternatives.  Somebody would veto everything.
+If we took all these shots to heart, we'd end up with nothing to do and nowhere to go, having eliminated all options.  Somebody would veto everything.
 
 If you like the status quo, that's great.  Contributors give, and expect to give more.  Consumers take, and expect to take more.  Up to a certain point, it can still be good to be an open source producer.  Until it's not.  But it's always great to be an open source consumer.  It is only getting better.  Unless word gets round that the rational approach to open is doing a little bit, to make a few resume points, stop, land a paid gig, and leech.
 
