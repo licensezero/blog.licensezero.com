@@ -64,7 +64,7 @@ I suppose for highly stable software, for a highly stable environment, in a high
 
 Forking those efforts, without their maintainers, in a fleeting spurt of self-righteous productivity, exactly misses the point.  I don't need or want a fork of `standard` version 13.  I want Feross, the guy from my development community who ended up diving deep into JavaScript style and linting for five years, to keep `standard` evergreen, so my projects can continue to adopt and rely upon it.  I don't need a clone of `standard`.  I need a clone of Feross.
 
-The homework that entails is exactly the homework flyby clone-fork-and-burn advocates do not see.  If they did, the task wouldn't seem to easy nor the maintainer so fungible.  If the maintainer themself could have seen it going in, they may not have signed up.
+The homework that entails is exactly the homework flyby clone-fork-and-burn advocates do not see.  If they did, the task wouldn't seem so easy nor the maintainer so fungible.  If the maintainer themself could have seen it going in, they may not have signed up.
 
 ## "Don't Go There"
 
