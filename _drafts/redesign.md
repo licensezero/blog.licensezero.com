@@ -11,9 +11,9 @@ I went into the redesign process with two goals:
 
 1.  Make License Zero's systems and approach accessible to developers who can't or choose not to sell through licensezero.com.
 
-2.  Streamline the design with the benefit of the last few years of hindsight.
+2.  Streamline the design with the benefit of a couple years' hindsight.
 
-Fundamentally, users come to License Zero one of two ways: to buy or sell permission for software.
+Fundamentally, users come to License Zero one of two ways: to buy permission to use software or to sell permission to use software.
 
 Buyers need to be able to run a single command in their projects, see a list of all the dependencies and other artifacts they need to pay for, and start a checkout process for everything they're missing.  Once they've finished that process, running the command again should show they're ready to go.  Buyers should also be able to buy specific licenses online, using their web browsers.
 
@@ -297,6 +297,10 @@ This is going to be something of data dump.  The action will continue to develop
   }
 }
 ```
+
+This schema unifies what are currently two separate concepts in License Zero: licenses, which are bought and sold, and waivers, which are given for free.
+
+This schema also leaves open a method to implement term-limited and recurring licenses.  The `expires` date allows the `licensezero` client to detect when a receipt it has no longer applies.  As you'll see below, the `/orders/{orderID}` endpoint also leaves open the possibility that one purchase might lead to several licenses.  That way, a vendor can process a transaction to start a license subscription, and issue new receipts for the customer to download over time, as subsequent subscription payments clear.
 
 ## Vendor Server API
 
