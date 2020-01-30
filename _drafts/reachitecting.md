@@ -65,3 +65,408 @@ To describe these data, the protocol that License Zero will implement, and that 
 [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), overlapping with [RFC 3339 section 5.6](https://tools.ietf.org/html/rfc3339), which defines a way to represent dates and times as strings like `2020-01-30T08:01Z`.  Wherever the License Zero protocol needs to express points time, such as the date of a license, it can do so with ISO 8601 strings in Coordinated Universal Time (UTC).
 
 [Ed25519](https://ed25519.cr.yp.to/), a modern, public-key, cryptographic signature system.  Receipts don't prove much of anything if anyone can type one up that says whatever they want.  Ed25519 signatures enable vendor servers to sign receipts so that others can verify their authenticity.
+
+## Schemas
+
+This is going to be something of data dump.  The action will continue to develop [in the GitHub repository for schemas.licensezero.com](https://github.com/licensezero/schemas.licensezero.com).  But to give a current sense of how these pieces are coming together:
+
+### Artifact Metadata
+
+```json
+{
+  "$id": "https://schemas.licensezero.com/1.0.0-pre/artifact.json",
+  "type": "object",
+  "required": [
+    "schema",
+    "offers"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema": {
+      "const": "https://schemas.licensezero.com/1.0.0-pre/artifact.json"
+    },
+    "offers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "offerID",
+          "api"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "offerID": {
+            "title": "UUIDv4 offer identifier",
+            "type": "string",
+            "format": "uuid"
+          },
+          "api": {
+            "title": "licensing API",
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://",
+            "examples": [
+              "https://api.licensezero.com"
+            ]
+          },
+          "public": {
+            "title": "public license identifier",
+            "type": "string",
+            "pattern": "^[A-Za-z0-9-.]+",
+            "examples": [
+              "Parity-7.0.0"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+### Receipt
+
+```json
+{
+  "$id": "https://schemas.licensezero.com/1.0.0-pre/receipt.json",
+  "title": "license receipt",
+  "comment": "A receipt represents confirmation of the sale of a software license.",
+  "type": "object",
+  "required": [
+    "schema",
+    "key",
+    "signature",
+    "license"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema": {
+      "const": "https://schemas.licensezero.com/1.0.0-pre/receipt.json"
+    },
+    "key": {
+      "title": "public signing key of the license vendor",
+      "$ref": "https://schemas.licensezero.com/1.0.0-pre/key.json"
+    },
+    "signature": {
+      "title": "signature of the license vendor",
+      "$ref": "https://schemas.licensezero.com/1.0.0-pre/signature.json"
+    },
+    "license": {
+      "title": "license manifest",
+      "type": "object",
+      "required": [
+        "values",
+        "form"
+      ],
+      "properties": {
+        "values": {
+          "type": "object",
+          "required": [
+            "offerID",
+            "orderID",
+            "effective",
+            "licensor",
+            "licensee",
+            "vendor"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "offerID": {
+              "title": "offer identifier",
+              "type": "string",
+              "format": "uuid"
+            },
+            "orderID": {
+              "title": "order identifier",
+              "type": "string",
+              "format": "uuid"
+            },
+            "effective": {
+              "title": "effective date",
+              "$ref": "https://schemas.licensezero.com/1.0.0-pre/time.json"
+            },
+            "price": {
+              "title": "purchase price",
+              "$ref": "https://schemas.licensezero.com/1.0.0-pre/price.json"
+            },
+            "expires": {
+              "title": "expiration date of the license",
+              "$ref": "https://schemas.licensezero.com/1.0.0-pre/time.json"
+            },
+            "licensee": {
+              "title": "licensee",
+              "comment": "The licensee is the one receiving the license.",
+              "type": "object",
+              "required": [
+                "email",
+                "jurisdiction",
+                "name"
+              ],
+              "properties": {
+                "email": {
+                  "type": "string",
+                  "format": "email"
+                },
+                "jurisdiction": {
+                  "$ref": "https://schemas.licensezero.com/1.0.0-pre/jurisdiction.json"
+                },
+                "name": {
+                  "$ref": "https://schemas.licensezero.com/1.0.0-pre/name.json",
+                  "examples": [
+                    "Joe Licensee"
+                  ]
+                }
+              }
+            },
+            "licensor": {
+              "title": "licensor",
+              "comment": "The licensor is the one giving the license.",
+              "type": "object",
+              "required": [
+                "email",
+                "jurisdiction",
+                "name",
+                "licensorID"
+              ],
+              "properties": {
+                "email": {
+                  "type": "string",
+                  "format": "email"
+                },
+                "jurisdiction": {
+                  "$ref": "https://schemas.licensezero.com/1.0.0-pre/jurisdiction.json"
+                },
+                "name": {
+                  "$ref": "https://schemas.licensezero.com/1.0.0-pre/name.json",
+                  "examples": [
+                    "Joe Licensor"
+                  ]
+                },
+                "licensorID": {
+                  "title": "licensor identifier",
+                  "type": "string",
+                  "format": "uuid"
+                }
+              }
+            },
+            "vendor": {
+              "title": "licesne vendor",
+              "comment": "information on the party that sold the license, such as an agent or reseller, if the licensor did not sell the license themself",
+              "type": "object",
+              "required": [
+                "api",
+                "email",
+                "name",
+                "jurisdiction",
+                "website"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "api": {
+                  "title": "license API",
+                  "$ref": "https://schemas.licensezero.com/1.0.0-pre/url.json"
+                },
+                "email": {
+                  "type": "string",
+                  "format": "email"
+                },
+                "name": {
+                  "$ref": "https://schemas.licensezero.com/1.0.0-pre/name.json",
+                  "example": [
+                    "Artless Devices LLC"
+                  ]
+                },
+                "jurisdiction": {
+                  "$ref": "https://schemas.licensezero.com/1.0.0-pre/jurisdiction.json"
+                },
+                "website": {
+                  "$ref": "https://schemas.licensezero.com/1.0.0-pre/url.json"
+                }
+              }
+            }
+          }
+        },
+        "form": {
+          "title": "license form",
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    }
+  }
+}
+```
+
+## Vendor Server API
+
+```yaml
+openapi: 3.0.0
+info:
+  title: License Vendor Server
+  version: 0.0.0
+paths:
+
+  /key:
+    get:
+      summary: Returns the public signing key of the server.
+      responses:
+        200:
+          content:
+            application/json:
+              schema:
+                $ref: https://schemas.licensezero.com/1.0.0/key.json
+
+  /offers/{offerID}:
+    get:
+      summary: Returns information about a license offer.
+      parameters:
+        - name: offerID
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        200:
+          content:
+            application/json:
+              $ref: https://schemas.licensezero.com/1.0.0/offer.json
+        400:
+          description: The specified UUID is not a valid UUID.
+        404:
+          description: An offer with the specified UUID was not found.
+        default:
+          description: Unexpected Error
+
+  /licensors/{licensorID}:
+    get:
+      summary: Returns information about a licensor.
+      parameters:
+        - name: licensorID
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        200:
+          content:
+            application/json:
+              schema:
+                $ref: https://schemas.licensezero.com/1.0.0/licensor.json
+        400:
+          description: The specified UUID is not a valid UUID.
+        404:
+          description: An offer with the specified UUID was not found.
+        default:
+          description: Unexpected Error
+
+  /order/:
+    post:
+      summary: Initiate an order for one or more paiod licenses.
+      requestBody:
+        required: true
+        content:
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: https://schemas.licensezero.com/1.0.0/order.json
+    responses:
+      303:
+        description: The order is ready to complete.
+        headers:
+          Location:
+            description: The URL for the page to complete the order.
+            schema:
+              type: string
+              format: uri
+      5XX:
+        description: Unexpected Error
+
+  receipts/{receiptID}:
+    get:
+      summary: Returns a receipt.
+      parameters:
+        - name: receiptID
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        200:
+          content:
+            application/json:
+              schema:
+                $ref: https://schemas.licensezero.com/receipt.json
+        400:
+          description: The specified id is not a valid UUID.
+        404:
+          description: An offer with the specified UUID was not found.
+        default:
+          description: Unexpected Error
+
+  bundles/{bundleID}:
+    get:
+      summary: Returns a bundle of receipts.
+      parameters:
+        - name: bundleID
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        200:
+          content:
+            application/json:
+              schema:
+                $ref: https://schemas.licensezero.com/bundle.json
+        400:
+          description: The specified id is not a valid UUID.
+        404:
+          description: An offer with the specified UUID was not found.
+        default:
+          description: Unexpected Error
+
+  orders/{orderID}:
+    get:
+      summary: Returns the receipts for an order.
+      parameters:
+        - name: orderID
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        200:
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: https://schemas.licensezero.com/receipt.json
+        default:
+          description: Unexpected Error
+
+  orders/{orderID}/latest:
+    get:
+      summary: Returns the latest receipt for an order.
+      parameters:
+        - name: orderID
+          in: path
+          required: true
+          schema:
+            type: string
+            format: uuid
+      responses:
+        302:
+          headers:
+            Location:
+              description: The URL of the receipt.
+              schema:
+                type: string
+                format: uri
+        default:
+          description: Unexpected Error
+```
