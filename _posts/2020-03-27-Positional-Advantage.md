@@ -1,6 +1,7 @@
 ---
 title: Licensing or Service Advantage
 description: why not both?
+date: Fri 27 Mar 2020 01:48:45 PM PDT
 ---
 
 I heartily recommend folks running or considering public-private licensing business plays to [read Dirk Riehle's post on comparative and positional advantages](https://dirkriehle.com/2018/10/23/some-argue-that-dual-licensing-in-commercial-open-source-indicates-a-lack-of-ability-to-provide-superior-service/).  As a teaser sample:
