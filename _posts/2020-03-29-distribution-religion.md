@@ -21,9 +21,9 @@ Now behold its license terms, the "copy-it-right distribution religion":
 >
 > Much Love,
 >
-> Daniel J. Sandin
-> Department of Art
-> University of Chicago at Chicago Circle
+> Daniel J. Sandin  
+> Department of Art  
+> University of Chicago at Chicago Circle  
 > ...
 
 A free, noncommercial, public license.  A frank admission of all-too-familiar funding problems.  A succinct explanation of public-private licensing.  A space for customizable quasi-conditions, no less.
