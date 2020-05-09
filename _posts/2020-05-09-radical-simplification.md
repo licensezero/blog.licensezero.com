@@ -1,5 +1,6 @@
 ---
 title: Radical Simplification
+date: 2020-05-09T14:56Z
 description: min code, max communication
 ---
 

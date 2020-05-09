@@ -1,5 +1,6 @@
 ---
 title: npm Funding Metadata
+date: 2020-05-09T16:56Z
 description: point users to your offer page
 ---
 
