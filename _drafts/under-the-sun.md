@@ -1,7 +1,5 @@
 ---
 title: Under the Sun
-description:
-date:
 ---
 
 > While Free Software Foundation founder Richard Stallman argues that Free Software is not Open Source, he is only half right---or only speaking about the question of motivation (the half that matters to him).  The definition of Open Source, as enshrined in the Open Source Definition (OSD) is a nearly verbatim copy of the Debian Free Software Guidelines (DFSG).  Both the OSD and DFSG are practical articulations of Stallman's Free Software Definition (FSD).  Open Source, with a different political and philosophical basis, can only exist because the FSD is broad enough to allow for its translation into other terms yet defined enough to allow for a directed and robust social movement.  As much as Stallman might want to deemphasize Open Source, he would never change the broadly defined definition of freedom that made its existence possible.
