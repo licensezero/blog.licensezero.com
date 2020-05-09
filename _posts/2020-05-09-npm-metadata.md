@@ -10,7 +10,7 @@ npm version 6.13.0 [added an `npm fund` subcommand for listing funding informati
 {
   "funding": {
     "type": "License Zero",
-    "url": "https://licensezero.com/offers/562c0ffe-df98-4348-87b7-e60e3c37c534#buy"
+    "url": "https://licensezero.com/offers/562c0ffe-df98-4348-87b7-e60e3c37c534"
   }
 }
 ```
