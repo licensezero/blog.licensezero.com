@@ -1,5 +1,6 @@
 ---
 title: Radically Simplifying
+description: major streamlining underway
 ---
 
 Response to [the proposal to radically simplify License Zero](/2020/05/09/radical-simplification.html) has been overwhelming.  License Zero is on a diet!
