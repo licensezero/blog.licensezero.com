@@ -2,7 +2,7 @@
 title: Playpen
 ---
 
-Look past the implementation details, there's really just one open source business model.  Give enough away to please the hobby hackers, hackathon heroes, and MVP cowboys.  Pick a target market that isn't those people, find out what else they'll want, and charge for it.  Collect your applause and attention from social media, meetups, and the conference circuit, and leverage it to sneak saunter your way under customers' attention and hawk your wares.
+Look past the implementation details, there's really just one open source business model.  Give enough away to please the hobby hackers, hackathon heroes, and MVP cowboys.  Pick a target market that isn't those people, find out what more they'll want, and charge them for it.  Collect your applause and attention from social media, meetups, and the conference circuit, and leverage it to attract customers' attention and hawk your wares.
 
 From there, implementation's just a tuning problem.  The better you know what your market wants, and how they want to buy it, the better you can shape yourself to fit the hole.  In time, with money, you can begin to shape the hole to fit you, instead.
 
