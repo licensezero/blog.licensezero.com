@@ -23,7 +23,7 @@ Immediately, you get an e-mail.  There's a PDF receipt.  Looks like a license, t
 
 You set all that aside, and get back to work.  Integration goes pretty well.  The doc is good and the API is clean.  Your tests start passing, but you're not sure you've done it right.  So you drop into the forum and post a quick call for confirmation, as you move onto other things.  By the end of the day, you've got a few thumbs-up emoji.  You're on the right track.  Eventually, the maintainer themself weighs in.  Another thumbs-up.  But also a thanks for support.  They mention the project page.
 
-Sure enough, your name now appears on the page for the project, showing you bought a license.  Along with a mess of other names, including a few you vaguely recognize from the forum.  You see a few company names, too.  Clicking around the site, you see the same for other projects, too.  Links to more projects in your language.
+Sure enough, your name now appears on the page for the project, showing you bought a license.  Along with a mess of other names, including a few you vaguely recognize from the forum.  You see a few company names, too.  Clicking around the site, you see the same for other projects.  You can find more in your language with a couple of links.
 
 Figuring it couldn't hurt, you go ahead and create an account.  It remembers the project you just bought into, and lists it on your profile page.  But more than that, the site welcomes you to offer your _own_ work on the honor system, too.  Just hook up your Stripe account and go.
 
