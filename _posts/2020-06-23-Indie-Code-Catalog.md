@@ -11,7 +11,7 @@ You tab back to your search, and dig deeper.  You find a few more candidates, bu
 
 Code is code, even thrown over a wall, so you dive in.  You find yourself swimming.  Not your style.  Not your design.  Different tooling.  Unclear where to add what you need.  Copy, paste, notice, and patch, at best.
 
-That frustrated, impatient feeling sets in.  You're think about working around it, putting off the feature.  You're thinking about taking time to code it up from scratch yourself.  But the clock says you're already behind.  You glance up at your tabs, and see the licensing page for the ready-to-go option still open.  You take another look.
+That frustrated, impatient feeling sets in.  You're think about working around it, putting off the feature.  You're thinking about taking time to code it up from scratch yourself.  But the clock says you're already behind.  You glance up at your tabs and see the licensing page for the ready-to-go option still open.  You take another look.
 
 The rules actually aren't that complicated.  It's just that they aren't good for you.  You're at work, and this is a work project.  It's not open source.  It's for a client.  There's a free trial, but the client wants something for the long term.
 
