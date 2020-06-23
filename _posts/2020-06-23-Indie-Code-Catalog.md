@@ -33,10 +33,10 @@ I will build this platform shortly.  If you'd like to try the approach for your 
 
 This approach would represent an evolution of License Zero.  But also enough of a departure, and enough of an opportunity, to warrant a new brand.  A few points of comparison:
 
-- License Zero [came with a commitment to leave promotion entirely in developers' hands](https://licensezero.com/commitment#relationships).  The new system would go beyond that, to actively promoting your project.
+- License Zero [came with a commitment to leave promotion entirely in developers' hands](https://licensezero.com/commitment#relationships).  The new system would go beyond that, to actively assisting in promoting projects.  The commitment was important for License Zero, especially early on.  The new rule is essential for taking the next step and building a critical mass.
 
-- License Zero struck a fundamentally, often refreshingly, critical tone.  The new system would emphasize the alternative offered over the flaws of existing practice.
+- License Zero struck a fundamentally critical tone.  More "No Future" than "Kumbaya".  The new system would emphasize the alternative offered over the flaws and abuses of the status quo.
 
-- License Zero put the tool of software licenses up front.  The new system will continue to leverage licensing to fit into the payments and business system as we know it, but will emphasize the deal being offered, rather than the means by which it's implemented.
+- License Zero put the tool of software licenses up front.  The new system will continue to leverage licensing to fit into the payments and business system as we know it.  But will emphasize the deal being offered---free for open source---over the means by which it's implemented.
 
 A website with a showcase needs something to showcase.  If you're interested in offering one of the first projects at launch---either new work or a new version of an existing project---I'd be very grateful for the chance to raise you up.  Both as part of the seed of a new platform to bring effective indie business models to software, but also as an active participant in guiding and feeding back on the design, early on.
