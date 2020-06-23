@@ -5,7 +5,7 @@ description: calling on coders for the next evolution of L0
 
 You're searching through your favorite software registry.  Maybe npm, maybe crates.io, maybe RubyGems, maybe pkg.go.dev.  You find what you're looking for.  It's not a big, corporate project.  But the signs of a maintainer who cares are all there.
 
-You're glancing the metadata for "MIT" or "BSD" or "Apache", but alas, you don't see it.  Instead there's a link to a webpage.  Something about "free for open source".  A big button to "buy a license".  Seems complicated.  Not what you were hoping for.
+You're glancing the metadata for "MIT" or "BSD" or "Apache", but alas, you don't see it.  Instead there's a link to a webpage.  Something about "free for open source".  A big button to "buy a license".  Not what you were hoping for.
 
 You tab back to your search, and dig deeper.  You find a few more candidates, but none of them feels 100%.  One seems unfinished.  One looks like it never really got started.  Another looks earnest, but hasn't been touched in a year or more.  Probably thrown over the wall from somebody's contract gig.
 
