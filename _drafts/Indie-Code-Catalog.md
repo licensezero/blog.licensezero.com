@@ -29,14 +29,14 @@ Figuring it couldn't hurt, you go ahead and create an account.  It remembers the
 
 ---
 
-If this is an approach you'd like to try for funding your own work, [send me an e-mail](mailto:kyle@artlessdevices.com?subject=Indie%20Code%20Catalog).  I am actively bringing together a group of early adopters.
+I will build this platform shortly.  If you'd like to try the approach for your own work, [send me an e-mail](mailto:kyle@artlessdevices.com?subject=Indie%20Code%20Catalog).  I am actively assembling a group of early adopters.
 
 This approach would represent an evolution of License Zero.  But also enough of a departure, and enough of an opportunity, to warrant a new brand.  A few points of comparison:
 
-License Zero [came with a commitment to leave promotion entirely in developers' hands](https://licensezero.com/commitment#relationships) .  The new system would go beyond that, to actively promoting your project.
+- License Zero [came with a commitment to leave promotion entirely in developers' hands](https://licensezero.com/commitment#relationships).  The new system would go beyond that, to actively promoting your project.
 
-License Zero struck a fundamentally, often refreshingly, critical tone.  The new system would emphasize more the alternative offered than the flaws of existing practice.
+- License Zero struck a fundamentally, often refreshingly, critical tone.  The new system would emphasize the alternative offered over the flaws of existing practice.
 
-License Zero put the tool of software licenses up front.  The new system will continue to leverage licensing to fit into the payments and business system as we know it, but will emphasize the deal being offered, rather than the means by which it's implemented.
+- License Zero put the tool of software licenses up front.  The new system will continue to leverage licensing to fit into the payments and business system as we know it, but will emphasize the deal being offered, rather than the means by which it's implemented.
 
-A website with a showcase needs something to showcase.  If you're interested in offering one of the first projects at launch---either a new project or a new version of existing work---I'd be very grateful for the chance to raise you up.  Both as part of the seed of a new platform to bring effective indie business models to software, but also to take an active part in guiding creation and feedback on the design, early on.
+A website with a showcase needs something to showcase.  If you're interested in offering one of the first projects at launch---either new work or a new version of an existing project---I'd be very grateful for the chance to raise you up.  Both as part of the seed of a new platform to bring effective indie business models to software, but also as an active participant in guiding and feeding back on the design, early on.
