@@ -9,6 +9,10 @@ Caleb Porzio's Sushi project
 >
 > Changelog 32:01
 
+> The work is whate justifies the money.
+>
+> 53:58
+
 Caleb Porzio's ["Introducing Sponsorware"](https://calebporzio.com/sponsorware)
 
 [GitHub sponsorware repo](https://github.com/sponsorware/docs)
