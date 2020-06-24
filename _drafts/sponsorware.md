@@ -3,7 +3,7 @@ title: Sponsorware
 description:
 ---
 
-Caleb Porzio's Sushi
+Caleb Porzio's Sushi project
 
 Caleb Porzio's ["Introducing Sponsorware"](https://calebporzio.com/sponsorware)
 
