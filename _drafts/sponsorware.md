@@ -5,6 +5,10 @@ description:
 
 Caleb Porzio's Sushi project
 
+> Shouldn't the work I'm doing right now justify the payment in itself?
+>
+> Changelog 32:01
+
 Caleb Porzio's ["Introducing Sponsorware"](https://calebporzio.com/sponsorware)
 
 [GitHub sponsorware repo](https://github.com/sponsorware/docs)
