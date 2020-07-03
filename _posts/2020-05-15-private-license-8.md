@@ -45,7 +45,7 @@ As always, this remains a [flipped form](https://flippedform.com).  Everyone inv
 >
 > - The **Offer Identifier** is `$offerIdentifier`.
 >
-> - The **Licensed Contributions** are the contributions the _Developer_ has made to the _Project_ with the _Offer Identifier_ in metadata, as well as any contributions the _Developer_ makes to the _Project_ in the future without changing the _Offer Identifier_ or adding a new one.  _Licensed Contributions_ do not include any contributions the _Developer_ makes to the project int he future with a different or additional identifier.
+> - The **Licensed Contributions** are the contributions the _Developer_ has made to the _Project_ with the _Offer Identifier_ in metadata, as well as any contributions the _Developer_ makes to the _Project_ in the future without changing the _Offer Identifier_ or adding a new one.  _Licensed Contributions_ do not include any contributions the _Developer_ makes to the project in the future with a different or additional identifier.
 >
 > ## Payment
 >
