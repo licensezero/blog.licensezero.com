@@ -16,7 +16,7 @@ But by the end, he's regressed to an insoluble-sounding conflict-of-goals again:
 
 To this I would respond, not just to Nathan, but to everyone stuck at this impasse:  Don't worry.  You're not stuck.  None of the above is true.
 
-Creators needn't be compensated well just because they are creators.  Creators of valuable works---works valued by others---ought to be compensated.  Creators of highly and broadly valued works ought to be compensated well.  I deserve, and shall assuredly receive, no compensation whatever for the bad musical improvizations, repetitive doodles, or unfunny or dead-end software libraries I churn out from time to time.
+Creators needn't be compensated well just because they are creators.  Creators of valuable works---works valued by others---ought to be compensated.  Creators of highly and broadly valued works ought to be compensated well.  I deserve, and shall assuredly receive, no compensation whatever for the bad musical improvizations, repetitive doodles, or unfunny or dead-end software libraries I churn out from time to time.  Everyone, including me, should be fine with this.
 
 Neither must useful works of every kind cost nothing to everyone.  Even the greatest works remain manifestly irrelevant to the vast majority of people.  And there are myriad, happier mediums between $0, expensive, and inaccessible, effortless, inconvenient, and inaccessible.
 
