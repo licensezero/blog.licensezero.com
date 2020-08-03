@@ -1,6 +1,6 @@
 ---
 title: The Truth is Paywalled But The Lies Are Free
-description: Note from a Kindred Spirit
+description: note from a kindred spirit
 date: Mon 03 Aug 2020 12:20:51 PM PDT
 ---
 
