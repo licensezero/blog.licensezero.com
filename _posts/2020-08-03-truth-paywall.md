@@ -10,7 +10,7 @@ In my reading, the problem here is evident: black-and-white, either or thinking.
 
 > Paywalls are justified, even though they are annoying. ... I try not to grumble about having to pay for content online, because I run a magazine and I know how difficult it is to pay writers what they deserve.
 
-But by the ends, he's regressed to an insoluble-sounding conflict-of-goals again:
+But by the end, he's regressed to an insoluble-sounding conflict-of-goals again:
 
 > Creators must be compensated well.  But at the same time we have to try to keep things that are important and profound from getting locked away where few people will see them.  The truth needs to be free and universal.
 
