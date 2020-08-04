@@ -2,6 +2,7 @@
 title: The Truth is Paywalled But The Lies Are Free
 description: note from a kindred spirit
 date: Mon 03 Aug 2020 12:20:51 PM PDT
+forum: https://forum.artlessdevices.com/t/54
 ---
 
 On the off chance there's anyone out there who still believes open software's "funding" problems reflect something special about software, have a read through [Nathan Robin's recent editor's note, "The Truth Is Paywalled But The Lies Are Free"](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/).  Perhaps we can see in another what's so hard to see in ourselves.

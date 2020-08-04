@@ -11,6 +11,12 @@
   {{ content }}
 </article>
 <footer class=feedback>
+  {% if page.forum %}
+  <p>
+    Join discussion of this post
+    <a href="https://forum.artlessdevices.com/t/{{page.forum}}">on the Artless Devices forum</a>.
+  </p>
+  {% endif %}
   <p>
     Your thoughts and corrections to this post are <em>very welcome</em>.
   </p>
